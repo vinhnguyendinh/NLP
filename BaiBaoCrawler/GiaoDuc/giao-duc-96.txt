@@ -1,0 +1,15 @@
+Ngày 12.7, Hội đồng xác định tiêu chí đảm bảo chất lượng đầu vào (điểm sàn) của Bộ GD-ĐT sẽ họp để công bố mức điểm tối thiểu để thí sinh nộp hồ sơ xét tuyển vào ĐH, CĐ nhóm ngành đào tạo giáo viên. Trên cơ sở này, các trường ĐH và CĐ sẽ công bố mức điểm nhận hồ sơ tối thiểu vào các ngành của trường.,Ngay trong ngày 12.7, Báo Thanh Niên sẽ tổ chức buổi tư vấn truyền hình trực tuyến với chủ đề “Điểm sàn và sự lựa chọn của thí sinh” tại các địa chỉ: thanhnien.vn, fanpage Facebook và kênh Youtube của báo.,Chương trình sẽ có chuyên gia đến từ nhiều trường ĐH tham dự: thạc sĩ Hoàng Ngọc Hà, Phó trưởng phòng Quản lý đào tạo Trường ĐH Y khoa Phạm Ngọc Thạch; tiến sĩ Lê Chí Thông, Trưởng phòng Đào tạo Trường ĐH Bách khoa TP.HCM; PGS-TS Nguyễn Minh Hà, Trưởng phòng Đào tạo Trường ĐH Mở TP.HCM và đại diện Trường ĐH Kinh tế TP.HCM.,tin liên quan
+Tư vấn truyền hình trực tuyến: Cần làm gì khi biết kết quả thi?
+Đồng hành với thí sinh, ngày 7.7 Báo Thanh Niên tổ chức buổi tư vấn truyền hình trực tuyến với chủ đề 'Thí sinh cần làm gì khi biết kết quả thi?' tại các địa chỉ: thanhnien.vn, facebook.com/thanhnien và YouTube Thanh Niên.,Đồng hành với thí sinh, ngày 7.7 Báo Thanh Niên tổ chức buổi tư vấn truyền hình trực tuyến với chủ đề 'Thí sinh cần làm gì khi biết kết quả thi?' tại các địa chỉ: thanhnien.vn, facebook.com/thanhnien và YouTube Thanh Niên.,Bên cạnh đó còn có chuyên gia đến từ các trường: tiến sĩ Nguyễn Quốc Anh, Phó hiệu trưởng Trường ĐH Công nghệ TP.HCM; tiến sĩ Lâm Thành Hiển, Phó hiệu trưởng Trường ĐH Lạc Hồng; thạc sĩ Cao Quảng Tư, Giám đốc Tuyển sinh Trường ĐH Quốc tế Sài Gòn; tiến sĩ Võ Thanh Hải, Phó hiệu trưởng Trường ĐH Duy Tân; thạc sĩ Phạm Doãn Nguyên, Phó giám đốc Trung tâm Tư vấn tuyển sinh Trường ĐH Kinh tế tài chính TP.HCM; đại diện Trường ĐH Nguyễn Tất Thành, đại diện Trường ĐH Hùng Vương TP.HCM và đại diện Trường CĐ Đại Việt.,Trong chương trình này, đại diện các trường sẽ cung cấp thông tin mới nhất về mức điểm tối thiểu nhận hồ sơ xét tuyển để thí sinh có cơ sở điều chỉnh nguyện vọng phù hợp.,Ngay từ bây giờ, bạn đọc có thể đặt câu hỏi theo hướng dẫn bên cạnh.,Gửi câu hỏi trực tuyến
+
+
+Họ tên * 
+Email 
+Tỉnh / Thành phố
+Nội dung câu hỏi * 
+Vui lòng gõ tiếng Việt có dấuGửi câu hỏi
+
+
+
+
+insertCity2($('#ctl00_main_InterviewFormMobile1_city'));,

@@ -3,38 +3,43 @@ const Crawler = require("crawler");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const url = "http://www.24h.com.vn";
+const url = "http://thanhnien.vn";
+const titleString = "the-thao";
 
 /// Get links
 var links = [];
 
 var linkCrawler = new Crawler({
-  maxConnections    : 1,
+  maxConnections    : 100,
   jQuery            : jsdom,
   callback          : function (error, res, done) {
     if (error) {
       console.log(error);
     } else {
       var dom = new JSDOM(res.body);
-      var contents = dom.window.document.querySelectorAll(".boxDoi-sub-Item-trangtrong a");
-      console.log(contents.length);
+      var contents = dom.window.document.querySelectorAll(".clearfix a");
+
       /// Create list link paper
       for (var i = 0; i < contents.length; i++) {
         var href = contents[i].href.trim();
-        console.log(href);
+        // if (href.indexOf(titleString) !== -1) {
+        //   links.push(`${url}${href}`);
+        //   console.log(href);
+        // }
         links.push(`${url}${href}`);
       }
-    }
 
+      console.log(links.length);
+    }
     c.queue(links);
 
     done();
   }
 });
-linkCrawler.queue(`${url}/the-thao-c101.html`);
+linkCrawler.queue(`${url}/${titleString}/`);
 
 /// Save paper into file
-var paperNo = 128;
+var paperNo = 151;
 
 var c = new Crawler({
     maxConnections : 1,
@@ -45,17 +50,17 @@ var c = new Crawler({
             console.log(error);
         } else {
             var dom = new JSDOM(res.body);
-            var contents = dom.window.document.querySelectorAll(".text-conent p");
+            var contents = dom.window.document.querySelectorAll("#abody div");
 
             /// Create paper
             var paper = [];
             for (var i = 0; i < contents.length; i++) {
-              paper.push(contents[i].textContent);
+              paper.push(contents[i].textContent.trim());
             }
 
             /// Write file
             if (paper.length > 0) {
-              fs.writeFile(`the-thao-${paperNo}.txt`, paper, "utf-8", (err) => {
+              fs.writeFile(`${titleString}-${paperNo}.txt`, paper, "utf-8", (err) => {
                 if (err) throw err;
               });
               paperNo++;
@@ -65,11 +70,11 @@ var c = new Crawler({
     }
 });
 
-/// Remove file
+// /// Remove file
 // var links = [];
-// for (var i = 128; i <= 195; i+=3) {
-//   links.push(`./the-thao-${i+1}.txt`);
-//   links.push(`./the-thao-${i+2}.txt`);
+// for (var i = 60; i <= 110; i+=2) {
+//   links.push(`./${titleString}-${i+1}.txt`);
+//   // links.push(`./${titleString}-${i+2}.txt`);
 // }
 //
 // console.log(links);
@@ -84,11 +89,11 @@ var c = new Crawler({
 //   });
 // }
 
-/// Rename file
+// /// Rename file
 // var links = [];
-// var tmp = 129;
-// for (var i = 131; i <= 194; i+=3) {
-//   fs.rename(`./the-thao-${i}.txt`, `./the-thao-${tmp}.txt`, function(err) {
+// var tmp = 61;
+// for (var i = 62; i <= 110; i+=2) {
+//   fs.rename(`./${titleString}-${i}.txt`, `./${titleString}-${tmp}.txt`, function(err) {
 //     if ( err ) console.log('ERROR: ' + err);
 //   });
 //   tmp++;
