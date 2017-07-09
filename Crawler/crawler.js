@@ -26,7 +26,7 @@ var linkCrawler = new Crawler({
         //   links.push(`${url}${href}`);
         //   console.log(href);
         // }
-        links.push(`${url}${href}`);
+        links.push(`${url}/the-thao/${href}`);
       }
 
       console.log(links.length);
