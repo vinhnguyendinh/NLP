@@ -3,46 +3,69 @@ const Crawler = require("crawler");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const url = "http://thanhnien.vn";
-const titleString = "the-thao";
+const url = "http://laodong.com.vn";
+const titleString = "giao-duc";
+
+/// Get pages
+var pages = [];
+for (var i = 24; i <= 26; i++) {
+  pages.push(`${url}/${titleString}/?trang=${i}`);
+}
 
 /// Get links
-var links = [];
 
 var linkCrawler = new Crawler({
-  maxConnections    : 100,
+  maxConnections    : 1,
   jQuery            : jsdom,
   callback          : function (error, res, done) {
     if (error) {
       console.log(error);
     } else {
       var dom = new JSDOM(res.body);
-      var contents = dom.window.document.querySelectorAll(".clearfix a");
+      var contents = dom.window.document.querySelectorAll(".feature .cover a");
 
       /// Create list link paper
+      var check = [];
+      var links = [];
+
       for (var i = 0; i < contents.length; i++) {
         var href = contents[i].href.trim();
         // if (href.indexOf(titleString) !== -1) {
-        //   links.push(`${url}${href}`);
-        //   console.log(href);
+          links.push(`${url}${href}`);
+          check.push(0);
         // }
-        links.push(`${url}/the-thao/${href}`);
       }
 
-      console.log(links.length);
+      /// Remove same link
+      for (var i = 0; i < links.length; i++) {
+        if (check[i] == 0) {
+          for (var j = i+1; j < links.length; j++) {
+            if (links[i] == links[j]) {
+              check[j] = -1;
+            }
+          }
+        }
+      }
+
+      for (var i = 0; i < check.length; i++) {
+        if (check[i] == -1) {
+          links.remove(i);
+        }
+      }
+
+      c.queue(links);
     }
-    c.queue(links);
 
     done();
   }
 });
-linkCrawler.queue(`${url}/${titleString}/`);
+linkCrawler.queue(pages);
 
 /// Save paper into file
-var paperNo = 151;
+var paperNo = 219;
 
 var c = new Crawler({
-    maxConnections : 1,
+    maxConnections : 100,
     jQuery         : jsdom,
     /// This will be called for each crawled page
     callback       : function (error, res, done) {
@@ -50,12 +73,27 @@ var c = new Crawler({
             console.log(error);
         } else {
             var dom = new JSDOM(res.body);
-            var contents = dom.window.document.querySelectorAll("#abody div");
 
+            var paper = "";
+
+            /// Title
+            let title = dom.window.document.querySelector(".cms-title");
+            if (title.textContent.trim().length > 0) {
+              paper += `${title.textContent.trim()}.\n`;
+            }
+
+            let desc = dom.window.document.querySelector(".cms-desc");
+            if (desc.textContent.trim().length > 0) {
+              paper += `${desc.textContent.trim()}`;
+            }
+
+            /// Content
+            var contents = dom.window.document.querySelectorAll(".cms-body p");
             /// Create paper
-            var paper = [];
             for (var i = 0; i < contents.length; i++) {
-              paper.push(contents[i].textContent.trim());
+              if (contents[i].textContent.trim().length > 0) {
+                paper += " " + contents[i].textContent.trim();
+              }
             }
 
             /// Write file
@@ -69,32 +107,3 @@ var c = new Crawler({
         done();
     }
 });
-
-// /// Remove file
-// var links = [];
-// for (var i = 60; i <= 110; i+=2) {
-//   links.push(`./${titleString}-${i+1}.txt`);
-//   // links.push(`./${titleString}-${i+2}.txt`);
-// }
-//
-// console.log(links);
-//
-// for (var i = 0; i < links.length; i++) {
-//   fs.unlink(links[i], (err) => {
-//     if (err) {
-//       console.log(err);
-//     } else {
-//       console.log(`successfully ${i}`);
-//     }
-//   });
-// }
-
-// /// Rename file
-// var links = [];
-// var tmp = 61;
-// for (var i = 62; i <= 110; i+=2) {
-//   fs.rename(`./${titleString}-${i}.txt`, `./${titleString}-${tmp}.txt`, function(err) {
-//     if ( err ) console.log('ERROR: ' + err);
-//   });
-//   tmp++;
-// }
