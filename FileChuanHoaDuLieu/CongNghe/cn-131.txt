@@ -1,0 +1,33 @@
+Bản tin nóng công nghệ: Công nghệ phải đi với toán; Bảo mật mống mắt Galaxy S8 cho vui.
+Apple trình diễn dài lê thê, nhưng khiến người xem không rời mắt; Công nghệ lời giải dựa vào toán học..
+mới chuẩn; Không ngờ bảo mật mống mắt trên Galaxy S8 chỉ để… cho vui..
+là những tin nóng trong bản tin công nghệ
+Apple trình diễn dài lê thê, nhưng khiến người xem không rời mắt 
+
+Đêm qua (theo giờ Hà Nội), Apple đã có buổi trình diễn sản phẩm dài nhất lịch sử của hãng (hơn 2h đồng hồ), trái với thường lệ tất cả chỉ vỏn vẹn trong 1h
+Thế nhưng, tại sự kiện này, Apple gây sửng sốt với iOS 11
+Theo đó, Apple đang muốn tạo dựng lại cách làm việc mới trên những chiếc iPad
+Trên iOS 11, người ta có thể kéo thả ảnh, văn bản giữa các ứng dụng, hay thiết kế poster phim với bút cảm ứng, quản lý tệp tin (iFile)… trên bộ nhớ iPad lẫn lưu trữ trên “mây”
+Cái Apple muốn chính là cách làm việc trên iPad cũng là một cuộc cách mạng như khi lần đầu tiên iPad xuất hiện giữa hàng loạt lời dè bửu, khi đã có máy tính xách tay và để bàn
+Cách làm việc này khiến người ta có thể tạm quên và cũng có thể trong tương lại sẽ không cần đến những chiếc máy tính
+Cũng đêm qua, Apple đã đưa ra 2 phiên bản iPad Pro mới với màn hình HDR 10,5 inch và 12,9 inch, không còn bản 9,7 inch
+Một tuyên bố mang tính cách mạng khác của Apple đó là thay đổi cách người ta nghe nhạc nhờ chiếc loa thông minh
+Loa này có thể cảm nhận không gian xung quanh, để truyền âm cho phù hợp và hiểu sở thích người nghe..
+Cuối buổi trình diễn, Apple tiếp tục giới thiệu chiếc iMac Pro có cấu hình cao nhất từ trước tới nay với CPU 8, 10 hoặc 18 nhân, màn hình 5k.
+
+Công nghệ lời giải dựa vào toán học..
+mới chuẩn Ngày 5.6, TS Bùi Quang Ngọc - Tổng giám đốc FPT và PGS.TS
+Nguyễn Văn Nội - Hiệu trưởng ĐH KHTN - ĐH QGHN đã ký kết biên bản thỏa thuận và trao tặng trường này học bổng tiến sĩ toàn phần 700 triệu đồng mà nhiều người đặt câu hỏi vì sao khi đã có đại học FPT? Lý do đầu tiên TS Bùi Quang Ngọc – Tổng giám đốc FPT – đưa ra, đó thiếu nhân lực dù tập đoàn này đã có gần 14.000 người trực tiếp làm việc trong lĩnh vực công nghệ
+Mỗi năm nhân lực của tập đoàn này tăng tới 25-30%
+Một lý do thú vị khác ông Ngọc đưa ra đó là trong quá trình làm việc với khách hàng có rất nhiều bài toán của Việt Nam và thế giới mà FPT tham gia giải về công nghệ dữ liệu lớn, trí tuệ nhân tạo, Internet vạn vật… Các bài toán công nghệ này đều chứa đựng các mô hình toán học
+Do đó, việc tìm ra lời giải dựa trên nền tảng mô hình toán học có thể giải quyết các vấn đề xảy ra trong quá trình tin học hóa, viễn thông hóa, Internet hóa… Đôi khi công cụ rất mạnh nhưng nếu thiếu sự phân tích đầy đủ về toán thì sản phẩm ra đời vẫn không đủ chất lượng
+Ngoài ra, trong khi FPT có hệ thống những khách hàng lớn của Việt Nam và trên thế giới, thường xuyên ứng dụng công nghệ tiên tiến hiện đại vào bài toán kinh doanh thì đây cũng là mảnh đất mà các thầy và trò của trường có thể cùng FPT khai thác tốt trong công tác nghiên cứu, đào tạo.
+
+Không ngờ bảo mật mống mắt trên Galaxy S8 chỉ để… cho vui Galaxy S8 - chiếc điện thoại đình đám Samsung vừa ra mắt - đã bị khuất phục trước các chuyên gia bảo mật Bkav
+Theo Bkav thì công nghệ nhận dạng mống mắt trên dòng điện thoại Samsung Galaxy S8 dễ dàng bị vượt qua “như chơi trò trẻ con”
+Chỉ với một chiếc máy ảnh và một chút hồ dán nước chứ chưa cần dùng tới kính áp trong như từng được công bố, ai cũng có thể thực hiện được
+Giải thích điều này, ông Ngô Tuấn Anh - Phó Chủ tịch phụ trách An ninh mạng của Bkav – thông tin, Galaxy S8 là một máy ảnh nhưng khác các máy ảnh thường là có thể thu ánh sáng hồng ngoại nhằm có được hình ảnh mống mắt rõ nét hơn
+Tuy nhiên, nghiên cứu của Bkav cho thấy cơ chế nhận diện mống mắt cũng giống với nhận dạng khuôn mặt, chỉ khác là số điểm nhận diện lớn hơn
+Do đó, cũng không đảm bảo an toàn và có thể vượt qua
+Cách đây vài năm, chuyên gia Bkav từng gây sửng sốt khi bẻ khóa thành công nhận dạng từ camera để truy cập vào máy tính xách tay
+Có thể thử nghiệm vượt qua mở khóa Galaxy S8 bằng mống mắt theo cách của Bkav tại đây http://www.bkav.com.vn/IrisDemo.

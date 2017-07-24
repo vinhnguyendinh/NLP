@@ -1,0 +1,10 @@
+Bản tin nóng công nghệ: Tìm wifi “chùa” trên FaceBook; Surface với Windows 10 S không gõ nổi tiếng Việt.
+FaceBook ra tính năng tìm wifi “chùa”, khỏi cần cài thêm phần mềm khác; Microsoft đã vào Việt Nam từ lâu nhưng những sản phẩm của họ có vẻ ít quan tâm tới thị trường này đặc biệt với máy tính Surface và Windows 10S..
+là thông tin chính trong bản tin nóng công nghệ
+Mặc dù Microsoft đã vào Việt Nam từ lâu nhưng những sản phẩm của họ có vẻ ít quan tâm tới thị trường Việt Nam
+Đặc biệt phiên bản hệ điều hành Windows 10 mới với máy tính Surface được Microsoft khoe có nhiều tính năng vượt trội và bảo mật tốt nhưng lại không thể gõ tiếng Việt
+Trong khi đó, các bộ cài tiếng Việt vốn quen thuộc người dùng như UniKey (tác giả Phạm Kim Long), GoTiengViet (tác giả Trần Kỳ Nam) chưa có trên Windows Store
+Vì vậy, với Windows 10S tất cả chỉ để ngắm nếu bạn làm việc với các văn bản sử dụng tiếng Việt
+Theo Genk, thực chất, hệ điều hành Windows được tích hợp sẵn một bộ gõ tiếng Việt
+Tuy nhiên, có thể nói rằng bộ gõ này là hoàn toàn vô dụng, do cách gõ của nó không tuân theo hai chuẩn phổ biến hiện nay là TELEX và VNI
+Trong khi đó, hệ điều hành Mac của Apple vốn ít người biết thì những năm gần đây việc gõ tiếng Việt dù chưa chuẩn nhưng luôn được hỗ trợ ở mức chấp nhận được.

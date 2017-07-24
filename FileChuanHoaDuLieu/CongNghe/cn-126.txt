@@ -1,0 +1,23 @@
+Mang tên miền “giao trứng cho ác”, nhiều doanh nghiệp lao đao.
+Vấn đề nắm giữ và sử dụng tên miền đã trở nên “nổi cộm” trong hội thảo “ICT với pháp lí và marketing trực tuyến” được Hiệp hội Internet Việt Nam tổ chức tại TPHCM ngày 7.6, cùng với lĩnh vực thanh toán trực tuyến ngày càng thêm nhiều doanh nghiệp tham gia
+Tên miền là sinh mệnh của doanh nghiệp kinh doanh trực tuyến Ông Nguyễn Văn Học - Giám đốc chi nhánh Cty PA, đại lí tên miền lớn nhất Việt Nam hiện nay - cho biết: “Nhiều doanh nghiệp còn ít chú trọng việc bảo vệ tên miền vì nghĩ nó chỉ có giá trị vài trăm ngàn đồng, đưa cho nhân viên đứng tên mua và nắm giữ
+Đến khi nhân viên nghỉ thì lấy luôn tên miền…”
+Đây là tình huống xảy ra khá phổ biến
+Theo ông Học, còn có những trường hợp cố ý chiếm dụng
+Có một Cty thuê giám đốc điều hành và nắm giữ luôn tên miền của doanh nghiệp
+Khi giám đốc này nghỉ việc liền hủy tên miền, sau khi mở doanh nghiệp riêng thì thuê lại đúng tên miền trên
+Cty cũ muốn đòi lại nhưng lúc đó vô phương
+Hiện Việt Nam có hơn 3 triệu người kinh doanh trực tuyến
+Theo ông Nguyễn Minh Đức - Giám đốc Cty IM, đối với các cá nhân và tổ chức kinh doanh trực tuyến thì tên miền hay tài khoản fanpage trên mạng xã hội là sinh mệnh
+Các doanh nghiệp lưu ý vì đã xảy ra không ít trường hợp bị mất tên miền vào tay đơn vị cung cấp dịch vụ web
+Là bởi doanh nghiệp thuê dịch vụ web và phó mặc việc mua, nắm giữ tên miền cho đơn vị kia, đến lúc thôi không dùng dịch vụ thì bị đơn vị cung cấp trả đũa, làm khó
+Ông Khánh - cử tọa tham gia hội thảo khi nghe thế liền đứng lên phát biểu: “Tôi cũng là nhà cung cấp dịch vụ và tôi muốn khuyên rằng: Của mình thì mình giữ chứ đừng vì chủ quan hay cả tin mà giao cho bất cứ ai, đến lúc bị mất thì ảnh hưởng rất lớn đến việc kinh doanh”
+Thanh toán trực tuyến sẽ thay thế dần tiền mặt Thị trường thanh toán trực tuyến gần đây trở nên sôi động khi có đến gần 20 ví điện tử, cổng thanh toán trực tuyến… đã được cấp phép lưu hành, theo ông Nguyễn Ngọc Dũng - Phó chủ tịch Hiệp hội thương mại điện tử Việt Nam
+Trong khi đó, theo ông Châu Nguyễn Nhật Thanh - Trưởng dự án IoT (Internet of Things - Internet kết nối vạn vật) của Cty VNG, xu thế thanh toán trực tuyến sử dụng QR code (mã QR) đang được sử dụng khá rộng rãi ở các nền kinh tế lớn như Mỹ, Trung Quốc… Ở Việt Nam hiện đã có những cổng thanh toán/ví điện tử được khá nhiều người biết đến như Zalo Pay, MoMo, Moca, VTC Pay… sẽ dần dần giúp kéo giảm tỉ lệ thanh toán tiền mặt (hiện khoảng 85%) xuống và tăng tỉ lệ thanh toán trực tuyến lên (hiện khoảng 10%)
+Theo ông Thanh, thanh toán với QR code không chỉ nhanh mà còn an toàn
+Trường hợp Zalo Pay đã ứng dụng thanh toán đối với các máy bán nước tự động, tại các căng-tin hay quầy bán thức ăn
+Trong xu thế công nghiệp 4.0, thanh toán qua QR code có thể giúp cho các trạm thu phí không dừng trên các tuyến cao tốc khi điện thoại chứa QR code có thể giao tiếp với đầu đọc thu phí từ xa
+Một thực tế là, “sân chơi” cổng thanh toán ngày càng rộn ràng vì các doanh nghiệp nhìn thấy tiềm năng doanh thu từ đây
+Theo ông Vũ Hoàng Liên - Chủ tịch Hiệp hội Internet Việt Nam, hiện số doanh nghiệp chỉ thuần túy làm dịch vụ thanh toán trực tuyến chưa nhiều mà chủ yếu là làm kết hợp, như thanh toán trực tuyến trong bán hàng, hoặc mục tiêu trước mắt chỉ phát triển người dùng… Chính vì thế mức thu phí trong thanh toán trực tuyến cũng chưa thống nhất
+Khi các ngân hàng nhảy vào có thể mặt bằng chung về phí được xác lập
+Từ góc nhìn người triển khai ông Thanh cho biết, một khi doanh nghiệp làm thanh toán trực tuyến càng mở rộng được các tình huống thanh toán, nhân rộng được tập khách hàng lên sẽ giúp kéo phí dịch vụ giảm xuống.

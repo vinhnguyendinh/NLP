@@ -1,0 +1,7 @@
+VnCert yêu cầu khẩn cấp ngăn ngừa mã độc tống tiền WannaCry.
+Công văn của Trung tâm Ứng cứu khẩn cấp máy tính (VnCert) gửi đến các tổ chức, cơ quan, doanh nghiệp..
+yêu cầu các cơ quan, đơn vị thực hiện khẩn cấp việc ngăn ngừa, ngăn chặn sự tấn công của mã độc tống tiền WannaCry
+Theo VnCert, trước hết cần theo dõi, ngăn chặn kết nối đến các máy chủ điều khiển mã độc WannaCry và cập nhật vào các hệ thống bảo vệ như IDS/IPS, Firewall,… theo các thông tin nhận dạng dưới đây: Tiếp đến, nếu phát hiện bị lây nhiễm mã độc WannaCry cần nhanh chóng cô lập vùng/máy được phát hiện
+Thứ ba, cần kiểm tra và thực hiện gấp các bước đã được hướng dẫn trước đây tại văn bản số 80/VNCERT-ĐPƯC, ngày 9.3.2016 và văn bản 123/VNCERT-ĐPƯC, ngày 24.4.2017, tải tại địa chỉ:
+http://www.vncert.gov.vn/baiviet.php?id=24 http://vncert.gov.vn/baiviet.php?id=52 để phòng tránh các cuộc tấn công qui mô lớn và nguy hiểm khác
+Sau khi thực hiện, yêu cầu các đơn vị báo cáo tình hình về Đầu mối điều phối ứng cứu sự cố quốc gia (Trung tâm VNCERT) theo địa chỉ email: ir@vncert.gov.vn.

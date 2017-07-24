@@ -1,0 +1,13 @@
+Bản tin nóng công nghệ: Lazada dính nhiều khiếu nại từ người tiêu dùng; Thở phào sau “bão” WannaCry.
+Cục Quản lý cạnh tranh (Bộ Công thương) tiếp nhận 11 đơn khiếu nại về việc mua hàng tại trang web Lazada.vn; Thở phào sau "bão" WannaCry..
+là những thông tin nóng trong bản tin công nghệ hôm nay
+Con bão virus tống tiền WannaCry diễn ra trên toàn cầu và theo Bkav, tại Việt Nam có gần 1.900 máy tính bị nhiễm
+Cho tới nay, WannaCry chưa bùng nổ ở Việt Nam nhưng hơn 4 triệu máy tính vẫn có nguy cơ nhiễm mã độc do chưa cập nhật vá lỗi
+Lo ngại nhất là trong lĩnh vực sôi động nhất hiện nay - thương mại điện tử, nơi có nhiều doanh nghiệp “triệu USD” đang hoạt động
+Ông Hoàng Hạnh Phúc - Giám đốc Hạ tầng của DKT - cho biết, trong 30.000 người dùng hệ thống của DKT chưa có phản ánh nào yêu cầu trợ giúp hoặc báo cáo bị tấn công bởi mã độc WannaCry
+Trước đó, DKT cũng khuyến cáo người dùng cẩn trọng trong việc sử dụng Internet, tuyệt đối không bấm vào đường link lạ, cập nhật đầy đủ bản vá lỗi hệ điều hành, chủ động sao lưu dữ liệu và nên sử dụng phần mềm diệt virut có bản quyền… Tới nay cũng đã có những công cụ cứu các file nhiễm WannaCry miễn phí - WanaKiwi từ Github - tải tại đây
+Tuy nhiên, máy tính bị nhiễm virus không được khởi động lại cho tới lúc lấy lại được file
+Video hướng dẫn dùng WannaKiwi để cứu file: Huawei trình diễn camera nhận dạng ở triển lãm hàng không tại Dubai Tại triển lãm hàng không Dubai 2017, Huawei đã trình diễn và giới thiệu các sản phẩm và giải pháp ICT cho các sân bay
+Các giải pháp cho sân bay trưng bày lần này đã được Huawei phát triển cùng với các đối tác hàng đầu trong ngành như T-Systems, SAP, TravelSky – hãng Hàng không dân dụng Thanh Đảo (Qingdao), YITU, Terra Vision, HYDATA và SenseTime
+Các giải pháp ICT dành cho sân bay của Huawei bao gồm: giải pháp vận hành sân bay ảo hóa, hệ thống giám sát video toàn bộ sân bay và đám mây hàng không giúp tăng cường trải nghiệm hành khách và hỗ trợ bảo vệ an ninh sân bay..
+Trong đó, các camera giám sát thông minh của Huawei  cùng với hệ thống nhận dạng khuôn mặt của SenseTime, giúp tiết kiệm thời gian làm thủ tục lên máy bay nhờ việc kiểm tra sinh trắc học thay vì kiểm soát thẻ lên máy bay.

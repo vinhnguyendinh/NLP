@@ -1,0 +1,28 @@
+Làm gì để không bị mã độc tống tiền WannaCry khống chế?.
+Biến thể mã độc tống tiền WannaCry bùng phát từ ngày 12.5 nhưng lập tức được cảnh báo mức độ nguy hiểm vì lây lan quá nhanh đến hơn 100 quốc gia và vùng lãnh thổ trên thế giới, trong đó có Việt Nam
+WannaCry là một biến thể mã độc bắt cóc dữ liệu để tống tiền (ransomware), và ngay trong tên gọi của nó cho thấy “gốc gác” dòng Cryptor đã hoành hành tại nhiều quốc gia trên thế giới từ năm 2015 trở lại đây và đã lấy tiền chuộc dữ liệu của các nạn nhân hàng chục triệu USD
+Phía Microsoft Việt Nam đã có những thông tin đề cập đến mã độc tống tiền WannaCry “Cho tới thời điểm này, Microsoft Việt Nam chưa gặp bất kỳ một biến thể hay mã độc nào tấn công vào hệ thống”, ông Nguyễn Tuấn Anh – Giám đốc Khối phát triển ứng dụng - cho biết
+“Hiện nay các kỹ sư của chúng tôi đang trong tiến trình nghiên cứu, dò tìm để chống lại các loại mã độc được biết đến dưới tên gọi Ransom:Win32.WannaCrypt
+Từ tháng 3.2017, chúng tôi đã đưa ra các chương trình dò tìm chống lại mã độc bổ sung với các công nghệ bảo mật cập nhật, nhằm chống lại việc lây lan trên phạm vi toàn cầu
+Những cá nhân và khách hàng đang sử dụng các phần mềm chống virus của Microsoft và đang bật Windows Update chính hãng, sẽ được bảo mật và an toàn
+Chúng tôi cũng đang làm việc với các khách hàng để cung cấp các tư vấn bổ sung
+Nếu khách hàng quan tâm nhiều hơn đến các phương thức phòng tránh, vui lòng tham khảo địa chỉ sau: https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/ ”
+Khuyến nghị phòng chống mã độc WannaCry của hãng Kaspersky nhấn mạnh đến việc cài đặt bản vá chính thức MS17-010 từ Microsoft nhằm vá lỗ hổng SMB Server bị khai thác, đồng thời cần cài đặt phần mềm bảo mật và bật các thành phần/tính năng chống phần mềm tống tiền
+Trong giải pháp phần mềm chống virus của Kaspersky Lab có thành phần Giám sát hệ thống (System Watcher) cần được cài đặt ở trạng thái Enable bởi đây là lá chắn then chốt bảo vệ dữ liệu của người dùng trước sự tấn công của WannaCry, đồng thời thực hiện quét hệ thống (Critical Area Scan) có trong các giải pháp của Kaspersky Lab để phát hiện các lây nhiễm nhanh nhất (nếu không các lây nhiễm sẽ được phát hiện tự động nhưng sau 24 giờ)
+Trường hợp phát hiện có tấn công từ phần mềm độc hại như tên gọi MEM: Trojan.Win64.EquationDrug.gen thì cần khởi động lại hệ thống
+Trong trường hợp đã bị mã hóa bởi WannaCry, người dùng không nên cố gắng giải mã vì chỉ vô ích mà nên tìm sự trợ giúp từ các tổ chức chuyên môn, các hãng bảo mật
+Người dùng có thể tìm kiếm các công cụ giải mã dữ liệu miễn phí khỏi sự khống chế của WannaCry tại trang: www.nomoreransom.org
+Dưới góc nhìn của chuyên gia Võ Đỗ Thắng – Giám đốc Trung tâm An ninh mạng Athena: Nguy cơ bị “dính” mã độc WannaCry và làm lây nhiễm ra hệ thống máy tính của tổ chức, doanh nghiệp đáng báo động hơn cả đối với các nhân viên văn phòng
+Theo ông Thắng, các nhân viên văn phòng với công việc chính xử lí hàng ngày là trên máy tính và cũng thường làm việc thông qua các phương tiện email, chat.v.v… và đó chính là môi trường WannaCry lây lan bằng các email chứa file đính kèm hoặc đường link
+Nhân viên văn phòng bất cẩn mở ra thì máy tính sẽ bị nhiễm mã độc và từ đây WannaCry sẽ lây lan ra cả hệ thống của doanh nghiệp
+“Đáng nói nhất là công việc của những nhân viên chăm sóc khách hàng
+Vì công việc chính của họ là nhận các thông tin từ khách hàng thắc mắc, nhờ hỗ trợ qua email, chat.v.v… và hầu như họ cũng phải xử lí cả những email lạ chính vì thế nguy cơ càng cao
+Chỉ cần họ có chút sơ suất, bất cẩn mở file đính kèm hoặc đường link chứa mã độc WannaCry ra thì bị “dính đòn” ngay
+Tên các phát hiện của Kaspersky Lab liên quan đến WannaCry: •        Trojan-Ransom.Win32.Scatter.uf •        Trojan-Ransom.Win32.Scatter.tr •        Trojan-Ransom.Win32.Fury.fr •        Trojan-Ransom.Win32.Gen.djd •        Trojan-Ransom.Win32.Wanna.b •        Trojan-Ransom.Win32.Wanna.c •        Trojan-Ransom.Win32.Wanna.d •        Trojan-Ransom.Win32.Wanna.f •        Trojan-Ransom.Win32.Zapchast.i •        Trojan.Win64.EquationDrug.gen •        Trojan.Win32.Generic Các phần mở rộng mà mã độc nhắm tới để mã hóa gồm các nhóm định dạng sau: 1.       Các phần mở rộng tập tin văn phòng thông thường được sử dụng (.ppt, .doc, .docx, .xlsx, .sxi)
+2.       Các định dạng văn phòng ít phổ biến và đặc thù của quốc gia (.sxw, .odt, .hwp)
+3.       Lưu trữ, tập tin phương tiện (.zip, .rar, .tar, .bz2, .mp4, .mkv) 4.       Email và cơ sở dữ liệu email (.eml, .msg, .ost, .pst, .edb)
+5.       Các tập tin cơ sở dữ liệu (.sql, .accdb, .mdb, .dbf, .odb, .myd)
+6.       Mã nguồn và tập tin dự án của nhà phát triển (.php, .java, .cpp, .pas, .asm)
+7.       Khóa và chứng chỉ mã hóa (.key, .pfx, .pem, .p12, .csr, .gpg, .aes)
+8.       Các tác giả thiết kế đồ hoạ, tác giả và nhiếp ảnh gia (.vsd, .odg, .raw, .nf, .svg, .psd)
+9.       Tập tin máy ảo (.vmx, .vmdk, .vdi).

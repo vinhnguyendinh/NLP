@@ -1,0 +1,20 @@
+Tin tặc biến ransomware thành ngành kinh doanh béo bở.
+Mã độc bắt cóc dữ liệu tống tiền (ransomware) bùng phát từ năm 2015 trở lại đây cho thấy tin tặc (hacker) đã bước qua “thuở thơ ngây”
+Nghĩa là, chúng không tiếp tục dành thời gian và công sức chỉ để phá hoại nữa, mà chuyển hướng vào mục tiêu thực dụng là làm tiền
+Mục tiêu của ransomware là tiền chuộc
+Tuy nhiên, khi tin tặc đã khóa được dữ liệu thì cũng hoàn toàn có thể thu thập được dữ liệu đó, và việc có công khai, phát tán hay không hoàn toàn phụ thuộc vào tính toán của chúng
+Doanh nghiệp là đối tượng chính ransomware lấy được tiền chuộc; nhưng các thông tin chính trị, an ninh quốc gia, bí mật quân sự.v.v… càng trở thành những món hàng kinh doanh siêu béo bở đối với tội phạm ransomware.
+
+Lỗ hổng nghiêm trọng nhất ở ý thức người dùng
+
+Theo Bkav, tại Việt Nam có đến 52% máy tính tồn tại lỗ hổng mã độc WannaCry có thể xâm nhập và tấn công
+Tuy nhiên trong 3 ngày qua, chưa có thống kê số nạn nhân chính thức của WannaCry tại Việt Nam
+Có nguồn tin khó kiểm chứng cho rằng đã có khoảng 200 nạn nhân, và có doanh nghiệp bị yêu cầu trả tiền chuộc lên đến 300 triệu đồng
+Trong khi đó, các chuyên gia bảo mật mà chúng tôi có dịp trao đổi cho biết, họ đã nhận được hàng chục yêu cầu trợ giúp từ các doanh nghiệp đã bị WannaCry khóa dữ liệu trong hệ thống máy tính.
+
+Mã độc WannaCry xâm nhập vào máy tính qua lỗ hổng MS17-010 trên hệ điều hành Windows của Microsoft
+Thế nhưng việc cập nhật bản vá lỗ hổng cũng chỉ giới hạn đối với những máy sử dụng hệ điều hành có bản quyền, trong đó cũng tích hợp sẵn phần mềm bảo mật Windows Defender có thể chống xâm nhập của mã độc WannaCry
+Song đối với những máy tính không sử dụng Windows bản quyền, không cập nhật được bản vá cũng như phần mềm Windows Defender, chỉ còn cách cài đặt phần mềm chống virus có bản quyền từ nhà cung cấp khác để có được các bản cập nhật với những tính năng bảo vệ mới nhất. 
+
+Tuy nhiên, theo chuyên gia bảo mật Võ Đỗ Thắng - Giám đốc Trung tâm An ninh mạng Athena, ngay cả khi người dùng đã cập nhật bản vá lỗi, không có nghĩa đã thoát khỏi “nanh vuốt” của WannaCry
+Bởi WannaCry còn được phát tán qua phương tiện email, chat… dưới dạng file đính kèm, đường link mà nếu người dùng vô ý hay chủ quan click vào là "dính đòn" ngay.
