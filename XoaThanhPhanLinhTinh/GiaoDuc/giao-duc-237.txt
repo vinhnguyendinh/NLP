@@ -1,0 +1,14 @@
+Đình_chỉ/V đứng_lớp/N giáo_viên/N đánh/V tím/A tay/N học_sinh/N do/C không/R làm/V đủ/A bài/N 
+Trường_Tiểu/Np học/V Mễ_Trì/Np vừa/R quyết_định/V tạm/A đình_chỉ/V đứng_lớp/N đối_với/E giáo_viên/N đánh/V học_sinh/N bầm/A tím/A tay/N do/E làm/V thiếu/A bài_tập/N 
+Ngày/N 26.4/M Trường_Tiểu/Np học/V Mễ_Trì/Np cho_biết/V đã/R tạm/A đình_chỉ/V đứng_lớp/N đối_với/E cô/Nc Trâm/Np  /M giáo_viên/N đánh/V học_sinh/N bầm/A tím/A tay/N do/E làm/V thiếu/A bài_tập/N 
+Ông/Nc Nguyễn_Minh_Tiệp/Np Hiệu_trưởng/N Trường_Tiểu/Np học/V Mễ_Trì/Np cho_biết/V Sự_việc/N xảy_ra/V tại/E trường/N giữa/E cô_giáo/N Trâm/Np (/V SN/Np 1975/M )/V và/CC một/M học_sinh/N lớp/N 5/M 
+Bản/N tường_trình/V của/E cô/Nc Trâm/Np cho_hay/V trong/E khi/N làm/V bài_tập/N trên/E lớp/N cháu/N N/Np B/Np Y/Np 
+nói_dối/V đã/R làm/V xong/R hết/R 
+Cô_giáo/N chủ_nhiệm/N kiểm_tra/V thấy/V có/V bài/N vẫn/R chưa/R làm/V 
+Do/E nóng_nảy/N cô/N đã/R cầm/V thước/N vụt/V vào/E tay/N học_sinh/N 
+Sự_việc/N vừa/R xảy_ra/V cô_giáo/N cũng/R đã/R làm/V báo_cáo/V gửi/V ban_giám_hiệu/N nhà_trường/N và/CC nhận/V ra/R hành_động/N của/E mình/P như_thế/X là/V sai/A 
+Sau/E sự_việc/N nhà_trường/N đã/R  /V yêu_cầu/V cô/Nc Trâm/Np gặp/V gia_đình/N và/CC xin_lỗi/V 
+Hiện/N nhà_trường/N đã/R tạm/A đình_chỉ/V đứng_lớp/V với/E cô/Nc Trâm/Np và/CC bố_trí/V một/M giáo_viên/N có/V kinh_nghiệm/N khác/A để/E ổn_định/V công_tác/N dạy/V và/CC học/V trong/E thời_gian/N cuối/N năm_học/N này/P 
+Sau/E khi/N sự_việc/N xảy/V Phòng_Giáo/Np dục/N và/CC Đào_tạo/N quận/N Nam_Từ_Liêm/Np đã/R cử/V tổ/N công_tác/V trực_tiếp/A xuống/V trường/N và/CC làm_việc/V 
+Hiện_nay/N Phòng/N yêu_cầu/V nhà_trường/N nghiêm_túc/A kiểm_điểm/V hành_vi/N của/E cô_giáo/N Trâm/Np dựa/V trên/E những/L văn_bản/N quy_định/N hiện_hành/V 
+ 

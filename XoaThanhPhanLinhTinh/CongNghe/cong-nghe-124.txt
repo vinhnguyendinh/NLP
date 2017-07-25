@@ -1,0 +1,13 @@
+Giá_trị/N sản_phẩm/N ứng_dụng/V vi_mạch/N Việt/Np vượt/V mốc/N 290/M tỉ/M đồng/Nu 
+Con_số/N trên/A được/R Trung_tâm/N Nghiên_cứu/N và/CC Đào_tạo/N thiết_kế/V vi_mạch/N (/A ICDREC/Np )/M thuộc/V ĐH/Np Quốc_gia/Np TPHCM/Np công_bố/V với/E sự/Nc định_giá/V của/E Viện_Đánh/Np giá/N khoa_học/N và/CC Định_giá/V Công_nghệ/N thuộc/V Bộ/N KHCN/Np 
+Giá_trị/N trên/E bao_gồm/V các/L sản_phẩm/N vi_mạch/N Việt/Np như/C Chip/Np vi_xử_lí/N 8-bit/M và/CC 32-bit/M các/L lõi/N IP/Np ngoại_vi/V cho/E vi_xử_lí/N 8-bit/M các/L lõi/N IP/Np ngoại_vi/V cho/E vi_xử_lí/N 32-bit/M các/L lõi/N IP/Np xử_lí/V tín_hiệu/N số/N và/CC hình_ảnh/N các/L lõi/N IP/Np chip/V analog/N và/CC Mix-signal/Np các/L sản_phẩm/N ứng_dụng/V gồm/V điện_kế/N điện_tử/N thiết_bị/N giám_sát/V hành_trình/N chip/N RFID/Np hệ_thống/N đèn_chiếu/N sáng/N ./. 
+Những/L sản_phẩm/N trên/A là/V thành_quả/N của/E Chương_trình/N Phát_triển/V công_nghiệp/N vi_mạch/N TPHCM/Np do/E trực_tiếp/A Sở/N KHCN/Np cấp_vốn/V đầu_tư/V nghiên_cứu/V triển_khai/V cùng_với/C kinh_phí/N từ/E Bộ/N KHCN/Np 
+Tổng/N kinh_phí/N đầu_tư/V của/E nhà_nước/N là/V 213/M tỉ/M đồng/Nu thành_quả/N tới/V thời_điểm/N hiện_tại/N được/V định_giá/V là/V hơn/A 290/M tỉ/M đồng/Nu 
+Theo/E thạc_sĩ/N Ngô_Đức_Hoàng/Np Giám_đốc/N ICDREC/Np với/E các/L sản_phẩm/N trên/A Việt_Nam/Np đã/R được/V ghi/V tên/N trên/E bản_đồ/N thiết_kế/V vi_mạch/N thế_giới/N 
+Sở_dĩ/C giá_trị/N chênh_lệch/A chưa/R cao/A là/V do/E bước_đầu/N các/L sản_phẩm/N vi_mạch/N Việt/Np thuộc/V loại/N giá_trị/N thấp/A phát_triển/V trên/E công_nghệ/N 180/M và/CC 130/M nanomet/N 
+Điều/N đáng/V ghi_nhận/V là/V có/V khoảng/A 68/M tỉ/M đồng/Nu đến/V từ/E chuyển_giao/V công_nghệ/N khoảng/N 31/M tỉ/M đồng/Nu đến/V từ/E sản_xuất/N cung_cấp/V thiết_bị/N 
+Các/L chuyển_giao/V trên/E đều/R không/R độc_quyền/A vì_vậy/C Nhà_nước/N vẫn/R nắm/V giữ/V bản_quyền/N của/E tất_cả/P các/L sản_phẩm/N vi_mạch/N trên/E 
+Điển_hình/A là/C sự/Nc chuyển_giao/V cho/E 2/M doanh_nghiệp/N khởi_nghiệp/V được/R ra_lò/V từ/E Chương_trình/N Phát_triển/V công_nghiệp/N vi_mạch/N TPHCM/Np với/E tổng/N giá_trị/N 9/M tỉ/M đồng/Nu 
+Phó_chủ_tịch/N UBND/Np thành_phố/N Trần_Vĩnh_Tuyến/Np cho/V rằng/C kết_quả/N này/P rất/R đáng/V khích_lệ/V cho/V thấy/V sự/Nc cố_gắng/V bước/V vào/E lĩnh_vực/N công_nghệ_cao/N của/E đội_ngũ/N kĩ_sư/N Việt_Nam/Np và/CC thương_mại_hóa/V một_số/L thành_quả/N nghiên_cứu/V 
+Thành_phố/N sẽ/R tiếp_tục/V đầu_tư/V cho/E chương_trình/N phát_triển/V vi_mạch/N và/CC ứng_dụng/V nhiều/A hơn/R vào/E đô_thị/N thông_minh/A 
+ 

@@ -1,0 +1,22 @@
+Giá/N vàng/N hôm_nay/N 30.6/M Bắt_đầu/V “/N rơi/V ,/, bất_chấp/V USD/Np yếu/A đi/V 
+Giá/N vàng/N hôm_nay/N 30.6/M chứng_kiến/V xu_hướng/N giảm/V nhẹ/A 
+Nguyên_nhân/N chính/T đẩy/V giá/N vàng/N thế_giới/N đi/V xuống/R là/V do/E lợi_suất/N trái_phiếu/V chính_phủ/N tại/E Mỹ/Np và/CC châu/N Âu/Np tăng/V 
+Tuy_nhiên/C đồ_thị/N giá/N vàng/N SJC/Np trong/E nước/N tiếp_tục/V không/R đổi/V hai/M phiên/N liên_tiếp/A 
+Mở_cửa/V phiên/N giao_dịch/V sáng/N nay/P (/M 30.6/M )/N Tập_đoàn/N DOJI/Np niêm_yết/V  /V giá/N vàng/N SJC /Np ở/E mức/N 36,24/M 36,32/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E bán/V ra/R )/M giữ/V nguyên/A ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V ngày/N hôm_qua/N 
+Giá/N vàng/N SJC/Np tại/E Bảo_Tín_Minh_Châu/Np niêm_yết/V ở/E mức/N 36,25/M 36,30/M triệu/M đồng/Nu //X lượng/N giữ/V nguyên/A giá/N chiều/N mua/V và/CC giảm/V 10/M đồng/Nu ở/E chiều/N bán/V so/V với/E cùng/A thời/N đểm/V sáng/N hôm_qua/N 
+Giá/N nhẫn/N tròn/A trơn/A Vàng/Np rồng/V Thăng_Long/Np đang/R ở/V mức/N 34,44/M –/Nu 34,89/M triệu/lượng/N giữ/V nguyên/A ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V ngày/N 29.6/M 
+Tại_Công/Np ty/V cổ_phần/N vàng_bạc/V đá_quý/N Phú_Nhuận/Np (/V PNJ/Np )/V giá/N  /V vàng/N miếng/Nc SJC /Np được/V niêm_yết/V ở/E mức/N 36,17/M –/Nu 36,36/M triệu/M đồng/Nu //X lượng/N  /N ở/E hai/M chiều/N giảm/V 10/M nghìn/M đồng/Nu ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V ngày/N 29.6/M 
+Giá/N vàng/N thế_giới/N hiện/N đang/R niêm_yết/V ở/E mức/N 1245,23/M –/Nu 1245,48/M USD/ounce/Np giảm/V 0,01%/M so/V với/E phiên/N giao_dịch/V trước/N đó/P 
+Giá/N vàng/N thế_giới/N đi/V xuống/E khi/N đà/N tăng/V của/E lợi_suất/N trái_phiếu/N chính_phủ/N tại/E Mỹ/Np và/CC châu/N Âu/Np làm/V giảm/V nhu_cầu/N đầu_tư/V vào/E kim_loại_quý/N này/P 
+Đồng/M USD/Nu tiếp_tục/V giao_dịch/V gần/A mức/N đáy/N 7/M tháng/N giảm/V 1%/M trong/E 2/M phiên/N vừa_qua/V 
+Giá/N vàng/A và/CC USD/Nu thường/R biến_động/V trái/N chiều/N 
+Khi/N đồng/N USD/Np giảm/V thì/C giá/N vàng/N kỳ_hạn/N sẽ/R tăng/V và/CC ngược_lại/X 
+Tuy_vậy/C đồng/N USD/Np yếu/A chỉ/R mang/V tới/E lực/N hỗ_trợ/V vừa_phải/N đối_với/E vàng/N vốn/N đã/R giảm/V 0,6%/M kể/V từ/E đầu/N tuần/N này/P USD/Np suy_giảm/V tạo/V đà/N tăng/V cho/E giá/N vàng/N 
+Đồng/M USD/Nu này/P xuống/R thấp/A hơn/R sau/E khi/N Chủ_tịch/N Ngân_hàng/N Trung_ương/N châu/N Âu_Mario_Draghi/Np đưa/V ra/R gợi_ý/V rằng/C ECB/Np có_thể/R sẽ/R phải/V thắt/V chặt/A chính_sách/N tiền_tệ/N vì/E rủi_ro/A giảm_phát/N đang/R dần/R mờ/A đi/V trênthị/V trường/N 
+ECB/Np Ngân_hàng/N trung_ương/N Anh/Np và/CC Canada/Np đang/R xem_xét/V tăng/V lãi_suất/N để/E chống/V lạm_phát/N tăng/V do/E đồng_tiền/N yếu/A 
+Quỹ/Np tiền_tệ/V quốc_tế/N IMF/Np trong/E một/M báo_cáo/N đã/R hạ/V triển_vọng/N kinh_tế/N Mỹ/Np trong/E năm/N 2017/M từ/E mức/N 2.3%/M xuống/R còn/V 2.1%/M 
+Báo_cáo/V cho/E thấy/V IMF/Np hạ/V tăng_trưởng/V kinh_tế/N Mỹ/Np vì/E cho/V rằng/C sự/N không/R chắc_chắn/A xung_quanh/N chương_trình/N cải_cách/V thuế/N của/E Ông/N Trump/Np 
+Nhưng/C trong/E đó/P cũng/R chỉ/R ra/V những/L mặt/N tích_cực/A trong/E chương_trình/N kinh_tế/N của/E Tổng_thống/N Donal_Trump/Np như/C đơn_giản_hóa/V hệ_thống/N thuế/N xây_dựng/V đường_xá/N 
+Trên/E thị_trường/N ngoại_hối/N tỷ_giá/N trung_tâm/N do/E Ngân_hàng/N Nhà_nước/N công_bố/V sáng/N 30.6/M là/V 22.431/M VND/USD/Np giảm/V 1/M đồng/Nu so/V với/E phiên/N trước/E đó/P 
+Tỉ_giá/N USD/VND/Np niêm_yết/V tại/E Vietcombank/Np hiện/N là/V 22.695/M –/N 22.765/M tăng/V 10/M đồng/Nu so/V với/E phiên/N giao_dịch/V trước/E đó/P một/M ngày/N 
+ 

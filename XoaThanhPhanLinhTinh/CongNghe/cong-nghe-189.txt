@@ -1,0 +1,4 @@
+Công_nghệ/N 360/M Nike/Np show/N hàng/N quy_trình/N thiết_kế/V ấn_tượng/N trong/E môi_trường/N thực_tế/N ảo/A 
+Tonino_Lamborghini/Np trình_làng/V smartphone/N siêu/Z sang/V Alpha_One/Np Google_Assistant/Np sẽ/R có_mặt/V trên/E i/N Phone/Np cùng/A nhiều/A thiết_bị/N i/V OS/Np khác/A Nike/Np show/N hàng/N quy_trình/N thiết_kế/V ấn_tượng/N trong/E môi_trường/N tăng_cường/V thực_tế/N ảo/A ./. 
+sẽ/R là/V những/L tin/N chính/A có/V trong/E bản/N tin/V công_nghệ/N 360/M ngày/N hôm_nay/N 
+ 

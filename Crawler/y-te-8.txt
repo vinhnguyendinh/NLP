@@ -1,0 +1,14 @@
+Tử_vong/N vì/E uống/V cồn/N thay/V rượu/N ./. 
+Ngày/N 14.7/M ,/, Trung_tâm/N Chống/V độc/A ,/, Bệnh_viện/N (/V BV/Np )/M Bạch_Mai/Np xác_nhận/V ,/, một/M bệnh_nhân/N bị/V ngộ_độc/V methanol/N nặng/A ,/, kèm/V theo/V xuất_huyết/V não/N do/E uống/V cồn/N y_tế/N thay/V rượu/N đã/R tử_vong/V sau/E 4/M ngày/N cấp_cứu/V 
+Bệnh_nhân/N Đ/Np ./. N/Np ./. H/Np (/A 45/M tuổi/N ,/, ở/E Đại_La/Np ,/, Hai_Bà_Trưng/Np ,/, Hà_Nội/Np )/V vào/V cấp_cứu/V tại/E Trung_tâm/N Chống/V độc/A ,/, BV/Np Bạch_Mai/Np do/E ngộ_độc/V methanol/N 
+Bệnh_nhân/N nhập_viện/V trong/E tình_trạng/N nguy_kịch/A ,/, hôn_mê/V ,/, co_giật/V ,/, tổn_thương/V não/N ,/, sốc/N ,/, toan/V chuyển_hóa/V nặng/A 
+Kết_quả/N xét_nghiệm/V máu/N :/: Nồng_độ/N methanol/N là/V 321,76/M mg/dL/N (/N cao/A gấp/V 16/M lần/N mức/N cho_phép/V )/M 
+Mặc_dù/C được/V điều_trị/V tích_cực/A ,/, bệnh_nhân/N đã/R tử_vong/V 
+Loại/N cồn/N y_tế/N bệnh_nhân/N đã/R sử_dụng/V là/V “/M Dai_Loi/Np ”/M ,/, cồn/N 90/M độ/N ,/, ethanol/N ,/, chai/N 500/M ml/Nu ,/, do/E Công_ty/N Cổ_phần/N quốc_tế/N Đại/Np lợi/N ,/, SĐK/Np :/: HN-0238/2007/CBTC/Np -/- TĐC/Np 
+Tuy_nhiên/C ,/, xét_nghiệm/V dung_dịch/N còn/V lại/R trong/E chai/N cồn/N của/E bệnh_nhân/N đã/R dùng/V cho/E kết_quả/N :/: Nồng_độ/N methanol/N là/V 88%/M ,/, không/R tìm/V thấy/V ethanol/N 
+Theo/E người_nhà/N ,/, bệnh_nhân/N nghiện/V rượu/N và/CC đã/R mua/V cồn/N y_tế/N về/V để/E pha/V thành/V rượu/N uống/V 
+Ths/Np 
+Nguyễn_Trung_Nguyên/Np -/- Phụ_trách/V Trung_tâm/N Chống/V độc/A ,/, BV/Np Bạch_Mai/Np -/- cho_biết/V :/: Thời_gian/N gần/A đây/P ,/, tình_hình/N ngộ_độc/V methanol/N có/V xu_hướng/N gia_tăng/V 
+Bên_cạnh/N nguyên_nhân/N do/E người_dân/N uống/V phải/V loại/Nc rượu/N không/R rõ/A nguồn_gốc/N ,/, còn/R có/V những/L trường_hợp/N uống/V cồn/N y_tế/N pha/V thay/V rượu/N (/V do/E nghiện/V rượu/N ,/, thiếu/V rượu/N để/E uống/V hoặc/CC hiểu/V nhầm/V cồn/N y_tế/N là/V an_toàn/A )/M 
+Hầu_hết/L các/L trường_hợp/N uống/V cồn/N y_tế/N đến/E cấp_cứu/V tại/E Trung_tâm/N Chống/V độc/A cho/E tới/E nay/P đều/R bị/V ngộ_độc/V methanol/N nặng/A 
+Từ/E tháng/N 1.2017/M đến/E nay/P ,/, Trung_tâm/N Chống/V độc/A đã/R ghi_nhận/V 4/M trường_hợp/N ngộ_độc/V methanol/N do/E uống/V cồn/N y_tế/N (/A trong/E đó/P 1/M bệnh_nhân/N nặng/A đã/R tử_vong/V ,/, 1/M bệnh_nhân/N để/V lại/R di_chứng/N trên/E não/N ,/, 2/M bệnh_nhân/N được/R hồi_phục/V )/A ./. 

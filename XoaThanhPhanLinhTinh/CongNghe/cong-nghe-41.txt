@@ -1,0 +1,32 @@
+Cuộc_chiến/N nhân_lực/N ngành/N CNTT/Np Người/Nc thiếu/A chuyên_môn/N lại/R yếu/A Kỳ/N 1/M Nhu_cầu/N tăng/V nhân_lực/N nhỏ_giọt/A 
+Cách_mạng_công_nghiệp/X 4.0/M lặng_lẽ/A thâm_nhập/V vào/E đời_sống/N xã_hội/N đến/E mức/N tưởng/V như/C đó/P là/V điều/N tự_nhiên/A 
+Thế_nhưng/C Việt_Nam/Np đang/R đứng/V trước/E nguy_cơ/N có_thể/R tụt/V lại/R phía/N sau/A nếu/C không_thể/R đáp_ứng/V được/R nguồn_lực/N để/E hòa_mình/V vào/E guồng/N quay/V công_nghệ/N 
+Chỉ/R đáp_ứng/V được/R 1/3/M nhu_cầu/N Hầu_như/R mọi/L hoạt_động/N từ/E giao_thông/N sản_xuất/V y_tế/N an_ninh/N …/N đều/R dần/R sử_dụng/V công_nghệ/N thay_thế/V sức/N người/N 
+Nhưng/C để/E đạt/V hiệu_quả/N tối_đa/A thì/C con_người/N mới/R là/V yếu_tố/N cốt_lõi/N mang/V đến/R thành_công/V 
+Một/M khảo_sát/V của/E Vietnamworks/Np đối_với/E nhu_cầu/N tuyển_dụng/V trong/E lĩnh_vực/N công_nghệ_thông_tin/N (/M CNTT/Np )/V cho/E thấy/V chỉ/R trong/E vòng/N 3/M năm/N từ/E 2013/M 2016/M nhu_cầu/N tuyển_dụng/V tăng/V 2,5/M lần/N 
+Xu_hướng/N từ/E nay/N cho/E tới/E 2020/M sẽ/R tiếp_tục/V tăng/V nhu_cầu/N tuyển_dụng/V nhân_sự/N khối/N ngành/N CNTT/Np tình_trạng/N khan_hiếm/V nhân_sự/N sẽ/R diễn/V ra/R khốc_liệt/A hơn/A hiện_tại/N 
+Phó_giám_đốc/N Trung_tâm/N dự_báo/V nhu_cầu/N nhân_lực/N và/CC Thông_tin/N thị_trường/N lao_động/N TP.HCM/Np Trần_Anh_Tuấn/Np cho/V rằng/C “/M CNTT/Np là/V nhóm/N ngành/N công_nghiệp/N trọng_yếu/A tại/E TPHCM/Np hiện_nay/N và/CC trong/E tương_lai/N sẽ/R là/V ngành/N có/V nhu_cầu/N nhân_lực/N cao/A nhất/A ”/V do/E nhu_cầu/N phát_triển/V xã_hội/N như/C giao_thông/N thông_minh/A an_ninh/N mạng/N các/L nhu_cầu/N lập_trình/V hoặc/CC thiết_kế/V 3D/Np ./. 
+Tuy_nhiên/C một/M thực_tế/N là/V sinh_viên/N ngành/N CNTT/Np tốt_nghiệp/V ra/R trường/N thường/R không/R đáp_ứng/V được/R nhu_cầu/N của/E doanh_nghiệp/N CNTT/Np khiến/V tình_trạng/N khan_hiếm/V nhân_lực/N vốn/N đã/R thiếu/V người/N lại/R càng/R thiếu/A hơn/R bởi/E phải/V dành/V nhiều/A nguồn_lực/N để/E chọn_lọc/V hoặc/CC đào/V tào/N lại/R 
+Cụ_thể/A dự_tính/V nhu_cầu/N nhân_lực/N của/E các/L doanh_nghiệp/N từ/E nay/P đến/E năm/N 2020/M là/V khoảng/N 400.000/M người/N trong/E khi/N toàn_bộ/L hệ_thống/N cung_cấp/V nhân_lực/N về/E CNTT/Np trên/E cả/P nước/N chỉ/R có/V khả_năng/N đáp_ứng/V quá/R nửa/L con_số/N ấy/P 
+Sự/N thiếu_hụt/V nhân_sự/N không_chỉ/C khiến/V doanh_nghiệp/N loay_hoay/V trong/E việc/N triển_khai/V phát_triển/V mà_còn/C dẫn/V tới/E tình_trạng/N bất_ổn_định/A trên/E thị_trường/N lao_động/V bởi/E sự/N giành_giật/V nhân_sự/N một_cách/N âm_thầm/A giữa/E các/L doanh_nghiệp/N 
+Sự/N bất_ổn_định/V đó/P nếu/C tiếp_tục/V không/R được/V xử_lý/V ổn_thỏa/N có_thể/R tiếp_tục/V làm/V tăng_giá/V nhân_công/N lao_động/N giảm/V năng_lực/N cạnh_tranh/V và/CC sức/N hấp_dẫn/V của/E ngành/N với/E các/L nhà_đầu_tư/N 
+Ông/Nc Hoàng_Nam_Tiến/Np Chủ_tịch/N FPT/Np Software/Np nhận_định/V Việt_Nam/Np đang/R có/V rất/R nhiều/A cơ_hội/N cạnh_tranh/V sòng_phẳng/A trong/E sân_chơi/N CNTT/Np toàn_cầu/N nhưng/C thách_thức/N lớn/A nhất/R hiện_nay/N là/V vấn_đề/N phát_triển/V nguồn/N nhân_lực/N CNTT/Np chất_lượng/N cao/A 
+Việt_Nam/Np cần/V mở_rộng/V quy_mô/N đào_tạo/V kỹ_sư/N CNTT/Np từ/E nay/P đến/E năm/N 2020/M lên/R gấp/V 3/M lần/N mới/R có_thể/A đáp_ứng/V về/E số_lượng/N 
+Dốt/N ngoại_ngữ/N  /N kém/A năng_lực/N Để/E đối_phó/V với/E thực_trạng/N khan_hiếm/N nguồn_lực/N một_số/L doanh_nghiệp/N CNTT/Np đầu_đàn/V đã/R xây_dựng/V chính_sách/N đào_tạo/V nguồn_lực/N tại_chỗ/A 
+Ví_dụ/V như/C FPT/Np đã/R đầu_tư/V Đại_học/N FPT/Np nhưng/C vẫn/R không/R đủ/A phục_vụ/V bởi/E theo/E ông/Nc Trương_Gia_Bình/Np Chủ_tịch/N HĐQT_FPT/Np thì/C “/A mỗi/M năm/N nhu_cầu/N của/E FPT/Np cần/V tuyển/V tới/E 5.000/M người/N ”/V 
+Cách/V đây/P không/R lâu/A Viettel/Np cũng/R tha_thiết/A xin/V tiếp_nhận/V Học_viện/N Bưu_chính/N Viễn_Thông/Np để/E giải_quyết/V bài_toán/N nhân_sự/N của/E mình/P 
+Tuy/C việc/N xin/V tiếp_nhận/V không/R được/V như/C mong_muốn/V nhưng/C theo/E kế_hoạch/N đến/V 2020/M Viettel/Np sẽ/R mở_rộng/V kinh_doanh/V tới/V 20/M quốc_gia/N trên/E thế_giới/N 
+Như_vậy/C nhu_cầu/N nhân_lực/N của/E Viettel/Np sẽ/R tăng/V lên/R gấp_bội/N 
+Thế_nhưng/C chất_lượng/N kiến_thức/N kỹ_năng/N chuyên_môn/N và/CC đặc_biệt/A là/C trình_độ/N ngoại_ngữ/N của/E sinh_viên/N ngành/N CNTT/Np mới/R ra/V trường/N lại/R rất/R hạn_chế/V 
+Bởi_vậy/C việc/N tuyển/V kỹ_sư/N CNTT/Np làm/V chuyên_gia/N đi/V triển_khai/V dự_án/N ở/E nước_ngoài/N càng/R khó_khăn/A hơn/R nhiều/A 
+Theo/V PGS/Np 
+TS/N Trần_Quang_Anh/Np Phó_giám_đốc/N Học_viện/N Bưu_chính/N Viễn_Thông/Np thì/C “/M điểm/N yếu/A nhất/A của/E sinh_viên/N ngành/N CNTT/Np khi/N tốt_nghiệp/V ra/V trường/N không/R phải/V là/V chuyên_môn/N mà/C chính/T là/V vấn_đề/N ngoại_ngữ/N 
+Năng_lực/N ngoại_ngữ/N kém/A trở_thành/V rào_cản/N hạn_chế/V cơ_hội/N các/L em/N tiếp_cận/V với/E thị_trường/N tuyển_dụng/V đa_dạng/A trong/E nước/N và/CC thị_trường/N nhân_sự/N chất_lượng/N cao/A của/E doanh_nghiệp/N quốc_tế/N 
+Đồng_thời/R với/E tốc_độ/N phát_triển/V mạnh_mẽ/A của/E thế_giới/N thiếu/V ngoại_ngữ/N sẽ/R biến/V các/L bạn/N trẻ/A trở_thành/V thợ_thủ_công/N làm_việc/V theo/E kinh_nghiệm/N bởi/E không_thể/R tiếp_cận/V và/CC học_hỏi/V được/R những/L thay_đổi/V tiến_bộ/N mới/A của/E thế_giới/N 
+Như_vậy/C là/C các/L bạn/N đã/R tự/P đào_thải/V mình/P khỏi/V chính/T môi_trường/N chuyên_môn/N được/V đào_tạo/V 
+Còn/C về/E chuyên_môn/N nghiệp_vụ/N thực_tế/N các/L doanh_nghiệp/N thường/R phải/V đào_tạo/V nhân_sự/N mới/R khoảng/A 3/M tháng/N đến/E 1/M năm/N vì/E nhiều/A lý_do/N trong/E đó/P có/V nguyên_nhân/N chủ_quan/A và/CC khách_quan/A 
+Chủ_quan/A là/C do/E cá_nhân/N nhân_sự/N đó/P thiếu/V năng_động/A ít/A va_chạm/V dẫn/V tới/E khi/N tham_gia/V công_việc/N còn/R nhiều/A ngỡ_ngàng/A 
+Khách_quan/A là/V do/E hệ_thống/N đào_tạo/V của/E chúng_ta/P chưa/R xây_dựng/V đủ/A các/L kỹ_năng/N để/E một/M sinh_viên/N ra/V trường/N có_thể/R trở_thành/V thợ/N lành_nghề/V ngay/T ”/M 
+Trước/E thực_tế/N khan_hiếm/V nguồn/N cung/N thị_trường/N lao_động/N ngành/N CNTT/Np đang/R có/V nguy_cơ/N rối_loạn/V bởi/E sự/N giành_giật/V nhân_sự/N của/E các/L doanh_nghiệp/N và/CC tâm_lý/N làm_việc/V thiếu/A tính/N ổn_định/A của/E người/N lao_động/N 
+Vậy/P các/L doanh_nghiệp/N CNTT/Np sẽ/R sử_dụng/V những/L chiêu_thức/N nào/P để/E giành_giật/V nhân_tài/N Lời_giải/V cho/E bài_toán/N nhân_sự/N càng/R trở_nên/V khó_khăn/A hơn/R bao_giờ/P hết/T !/! 
+ 

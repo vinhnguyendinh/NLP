@@ -1,0 +1,3 @@
+Hình_ảnh/N siêu/Z tàu_sân_bay/N 4,5/M tỉ/M USD/Nu của/E hải_quân/N Anh/N ra_mắt/V 
+Tàu_sân_bay/N HMS/Np Queen_Elizabeth/Np của/E Hải_quân/N Hoàng_gia/N Anh/N vừa/R ra_mắt/V sau/E khi/N rời/V xưởng/N đóng/V tàu/N Rosyth/Np ở/E Scotland/Np để/E chạy/V thử/V 
+ 

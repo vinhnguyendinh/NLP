@@ -1,0 +1,19 @@
+Bản/N tin/N nóng/A công_nghệ/N Fan_Bkav/Np “/V gom/V thóc/N ”/A sắm/V Bphone/Np 2/M Đừng/V kỳ_vọng/V i/N Phone/Np của/E Apple/Np 
+Nếu/C là/V fan/N của/E Bkav/Np thì/C hãy/R "/" gom/V thóc/N "/" vì/E cơ_hội/N mua/V Bphone/Np 2/M đã/R đến/V Thông_tin/N đồn/V về/E i/N Phone/Np thì/C nhiều/A mà/C Apple/Np làm/V được/R bao_nhiêu/P ./. 
+là/C thông_tin/N chính/T trong/E bản/N tin/V nóng/A công_nghệ/N 
+Fan_Bkav/Np “/V gom/V thóc/N ”/A sắm/V BPhone/Np 2/M 
+Cuối_cùng/A truyền_thông/N của/E Bkav/Np đã/R lên_tiếng/V xác_nhận/V tin_đồn/N về/E Bphone/Np 2/M là/V thật/R 
+Và/C đoạn/N video/N phát_tán/V trên/E mạng/N được/V cho/V là/C các/L đạo_diễn/V nhà/N làm/V phim/N đang/R quay/V clip/N giới_thiệu/V sản_phẩm/N mới/A Bphone/Np 2/M cũng/R là/V chuẩn/N 
+Dự_kiến/V trong/E tháng/N 8/M Bkav/Np sẽ/R cho/V ra/R Bphone/Np 2/M 
+Vì_vậy/C nếu/C là/V fan/N của/E Bkav/Np mà/C chưa/R mua/V được/R Bphone/Np thì/C sẽ/R vẫn/R sẽ/R có/V một/M cơ_hội/N nữa/R 
+Trước/E đó/P năm/N 2015/M Bkav/Np đã/R ra_mắt/V Bphone/Np với/E khẳng_định/N như/C đinh/N đóng/V cột/N đây/P là/V chiếc/Nc điện_thoại/N “/A made/V in/N Vietnam/Np ”/M 
+Điều/N này/P đã/R gây/V tranh_cãi/V trong/E cộng_đồng/N những/L người_yêu/N công_nghệ/N và/CC tạo/V ra/R 2/M thái_cực/N một/M bên/N ủng_hộ/N Bphone/Np một/M bên/N thì/C bác_bỏ/V với/E nhiều/A lý_lẽ/N khác_nhau/A 
+Tuy/C tạo/V được/R danh_tiếng/A và/CC thương_hiệu/N Bphone/Np song/C cái/Nc mà/C Bkav/Np cần/V là/V …/M doanh_số/N bán/V Bphone/Np 
+Trên/E thực_tế/N số_lượng/N Bphone/Np “/V tới/E tay/N ”/M người/N dùng/V vẫn/R có_hạn/A rất/R hiếm/A khi/N bắt_gặp/V một/M người/N dùng/V điện_thoại/N này/P ngoài/E đường/N quán/N càphê/V như/C những/L thương_hiệu/N lớn/A khác/A 
+Trong/E khi/N điện_thoại_di_động/N hiện_nay/N không/R còn/R chỉ/R nghe/V gọi/V mà/C nó/P còn/R phải/V tạo/V ra/R một/M cộng_đồng/N người/N dùng/V đủ/A lớn/A để/E có_thể/R chia_sẻ/V tương_tác/V với/E nhau/N …/V Tuy_nhiên/C dù/C gì/P Bphone/Np 2/M vẫn/R rất/R đáng/V chờ_đợi/V có_thể/R Bkav/Np lại/R tiếp_tục/V tạo/V ra/R những/L thứ/N mới_mẻ/A gây/V tranh_cãi/V chăng/R 
+Apple/Np sẽ/R không/R có/V nhiều/A thứ/N người/N dùng/V kỳ_vọng/V Mã/Np độc/A “/V ngủ/V ”/A trong/E máy_tính/N Fileless/Np malware/V (/N mã/V độc/A nội_trú/N )/M một/M xu_hướng/N mới/A của/E các/L tin_tặc/N 
+Theo/E đó/P mã/N độc/A dạng/N này/P có/V phương_thức/N tấn_công/V đa_dạng/A và/CC khó/A bị/V phát_hiện/V nên/C fileless/N malware/V vượt_trội/A hơn/R so/V với/E những/L loại/Nc mã/N độc/A truyền_thống/N 
+Fileless/Np malware/V không/R tấn_công/V thẳng/A vào/E các/L tệp_tin/N trên/E máy_tính/N mà/C ẩn/V ngay/T trong/E bộ_nhớ/N RAM/Np hay/C registry/N của/E máy/N và/CC thực_hiện/V các/L câu_lệnh/N theo/E mục_đích/N của/E kẻ/N tấn_công/V 
+Từ/E đó/P nó/P có_thể/R đánh_cắp/V dữ_liệu/N chiếm/V quyền/N sử_dụng/V hệ_thống/N từ/E xa/A hay/C phối_hợp/V với/E các/L lỗ_hổng/N bảo_mật/V khác/A để/E thực_hiện/V tấn_công/V cực_kỳ/R nguy_hại/A 
+Trong/E khi/N đó/P các/L chương_trình/N diệt/V virus/N phổ_biến/V hiện_nay/N chủ_yếu/A dựa/V trên/E việc/N quét/V các/L tệp_tin/N trong/E máy_tính/N hoặc/CC Ram/Np tuy_nhiên/C lúc/N này/P có_thể/R fileless/V malware/N chưa/R hoạt_động/V cho/E tới/E khi/N thực_thi/V các/L câu_lệnh/N từ/E tin_tặc/N 
+ 

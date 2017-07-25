@@ -1,0 +1,14 @@
+Bộ/N GTVT/Np “/V cấm_cửa/V ”/M dịch_vụ/N đi/V chung/V xe/N của/E Grab/Np Uber/Np 
+Cho/V rằng/C dịch_vụ/N đi/V chung/V xe/N của/E Grab/Np và/CC Uber/Np không/R phù_hợp/V với/E quy_định/N và/CC gây/V bất_tiện/A cho/E khách_hàng/N Bộ/N GTVT/Np vừa/R có/V văn_bản/N yêu_cầu/V không/R triển_khai/V dịch_vụ/N này/P 
+Trong/E công_văn/N số/N 6781/BGTVT-VT/Np ký/V ngày/N 22.6/M Bộ/N GTVT/Np yêu_cầu/V Uber/Np và/CC Grab/Np không/R áp_dụng/V dịch_vụ/N đi/V chung/V xe/N đối_với/E xe/N hợp_đồng/N 
+Nguyên_nhân/N của/E yêu_cầu/N này/P được/R nhận_định/V là/C do/E dịch_vụ/N đi/V chung/V xe/N không/R phù_hợp/V với/E quy_định/N hiện_hành/V 
+Cụ_thể/A theo/E Bộ/N GTVT/Np với/E mỗi/M chuyến/N xe/N hợp_đồng/N hành_khách/N (/V hoặc/CC nhóm/V )/N đã/R ký/V giao_kết/V trọn_gói/N cả/P chuyến/N xe/N không/R phải/V là/V thuê/V chỗ/N ngồi/V nên/C việc/N đơn_vị/N vận_tải/V có/V thêm/V hợp_đồng/N với/E nhiều/A người/N khác/A sẽ/R gây/V bất_tiện/A cho/E hành_khách/N 
+Bên_cạnh/N đó/P theo/E Thông_tư/N số/N 63/M quy_định/N về/E tổ_chức/V quản_lý/V hoạt_động/V vận_tải/V bằng/E xe/N ôtô/N và/CC dịch_vụ/N hỗ_trợ/V vận_tải/V đường_bộ/N hợp_đồng/N vận_chuyển/V hành_khách/N được/V ký_kết/V giữa/E đơn_vị/N kinh_doanh/V vận_tải/V với/E tổ_chức/N cá_nhân/N có/V nhu_cầu/N thuê/V cả/P chuyến/N xe/N 
+Đối_với/E mỗi/M chuyến/N xe/N đơn_vị/N kinh_doanh/V vận_tải/V chỉ/R được/V ký/V một/M hợp_đồng/N vận_chuyển/V khách/N và/CC quy_định/N này/P được/V đưa/V ra/R nhằm/V bảo_đảm/V quyền_lợi/N cho/E hành_khách/N phòng_ngừa/V những/L hệ_lụy/N phát_sinh/V trong/E quá_trình/N thuê/V xe/N 
+Bộ/N yêu_cầu/N Grab/Np không/R thực_hiện/V dịch_vụ/N Grabshare/Np và/CC Uber/Np không/R triển_khai/V dịch_vụ/N UberPool/Np 
+Các/L đơn_vị/N tham_gia/V thí_điểm/V khác/A cũng/R không/R triển_khai/V dịch_vụ/N tương_tự/A đối_với/E xe/N hợp_đồng/N 
+Để/E ngăn_chặn/V các/L Uber/Np và/CC Grab/Np thực_hiện/V sai/A quy_định/N Bộ/N GTVT/Np cho_biết/V sẽ/R yêu_cầu/V thanh_tra/V giao_thông/N ở/E địa_phương/N tăng_cường/V xử_lý/V các/L xe/N cung_cấp/V dịch_vụ/N đi/V chung/A 
+Mức/N phạt/V cho/E lỗi/N vi_phạm/V này/P là/V từ/E 4/M đến/E 6/M triệu/M đồng/Nu 
+Trước/E đó/P vào/E tháng/N 5/M hãng/N Grab/Np và/CC Uber/Np đã/R ra_mắt/V dịch_vụ/N đi/V chung/V xe/N 
+Dịch_vụ/N trên/E được/V nhận_định/N cho_phép/V hành_khách/N hưởng/V chi_phí/N rẻ/A hơn/A khoảng/N 30%/M so/V với/E dịch_vụ/N đặt/V xe/N thông_thường/A đồng_thời/R giúp/V tài_xế/N tăng/V thêm/R thu_nhập/N nhờ/V kết_hợp/V 2/M cuốc/N xe/N có/V cùng/A lộ_trình/N di_chuyển/V trên/E một/M chuyến/N xe/N và/CC giảm/V lượng/N xe/N lưu_thông/V trên/E đường/N 
+ 

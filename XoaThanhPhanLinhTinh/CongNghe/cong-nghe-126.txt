@@ -1,0 +1,20 @@
+Hạ/V kiện_tướng/N cờ/N trí_tuệ_nhân_tạo/X hái_ra_tiền/N Điểm/N mặt/N 100/M thương_hiệu/N đắt_giá/A nhất/A 
+Từ/E những/L siêu/Z máy_tính/N hạ/V các/L kiện_tướng/N cờ/N thế_giới/N trí_tuệ_nhân_tạo/X đang/R hái_ra_tiền/V Công_ty/N công_nghệ/N Trung_Quốc/Np vào/E bảng/N 100/M thương_hiệu/N đắt_giá/A nhất/R toàn_cầu/N ./. 
+là/C những/L tin/N chính/T tại/E Bản/N tin/N nóng/A công_nghệ/N 
+Từ/E cỗ/N máy/N hạ/V các/L kiện_tướng/N cờ/N trí_tuệ_nhân_tạo/X đang/R hái_ra_tiền/V 
+Lần/N đầu_tiên/A hơn/A 700/M lập_trình_viên/N chuyên_gia/N công_nghệ/N quốc_tế/N đã/R có_mặt/V tại/E Việt_Nam/Np để/E tham_gia/V các/L thảo_luận/V về/E thế_giới/N công_nghệ/N đặc_biệt/A lĩnh_vực/N trí_tuệ_nhân_tạo/N AI/Np 
+Đây/P là/V một/M xu_thế/N của/E công_nghệ/N mà/C khởi_đầu/V của/E AI/Np chỉ/R là/V những/L cỗ/Nc máy/N chơi/V cờ/N …/M Ông/N Lê_Hồng_Việt/Np Giám_đốc/N Công_nghệ/N FPT/Np cho_biết/V tại/E FPT/Np TechDay/Np 2017/M trí_tuệ_nhân_tạo/X phát_triển/V từ/E năm/N 1940/M và/CC bùng_nổ/V trong/E 20/M năm/N gần/A đây/P 
+Năm/N 1997/M siêu/Z máy_tính/N Deep_Blue/Np của/E IBM/Np thắng/V đại/V kiện_tướng/N cờ_vua/V người/N Nga/Np 
+Gần/A đây/P nhất_là/X trận/N so_găng/V giữa/E AlphaGo/Np và/CC thần_đồng/N cờ_vây/N 19/M tuổi/N Trung_Quốc/Np 
+AlphaGo/Np đã/R giành/V thắng_lợi/N trong/E loạt/N đấu/V 3/M trận/N 
+AlphaGo/Np là/V sản_phẩm/N trí_tuệ_nhân_tạo/X của/E hãng/N DeepMind/Np mà/C Google/Np đã/R bỏ/V 400/M triệu/M USD/Nu mua/V lại/R hồi/N năm/N 2014/M 
+Ở/E khía_cạnh/N khác/A AI/Np là/V lĩnh_vực/N hái_ra_tiền/N mà/C theo/V hãng/N nghiên_cứu/V Tractica/Np (/M Mỹ/Np )/M quy_mô/N doanh_thu/N từ/E các/L ứng_dụng/N dựa/V trên/E AI/Np sẽ/R đạt/V doanh_thu/N 59,7/M tỷ/N USD/Np vào/E năm/N 2025/M 
+Không/R nằm/V ngoài/E xu_hướng/N này/P FPT/Np cũng/R tự/P chuyển_đổi/V mình/P phát_triển/V AI/Np vào/E lĩnh_vực/N giao_thông/N thông_minh/A y_tế/N thông_minh/A xe/N tự_hành/V …/A 
+WannaCry/Np “/V bật/V khóc/V ”/A vì/E Windows/Np XP/Np cũ_rích/V Forbes/Np vừa/R công_bố/V danh_sách/N 100/M thương_hiệu/N giá_trị/N nhất/A toàn_cầu/N 2017/M 
+Có/V tới/E 18/M thương_hiệu/N công_nghệ/N trong/E danh_sách/N 100/M này/P 
+Trong/E đó/P các/L thương_hiệu/N công_nghệ/N của/E Mỹ/Np vẫn/R áp_đảo/V 
+Đứng/V đầu/N là/V Apple/Np được/V định_giá/V thương_hiệu/N lên/V tới/E 170/M tỷ/N USD/Np tiếp/V sau/E lần_lượt/R là/V Google/Np (/V 101,8/M tỷ/Nu USD/Nu )/M Microsoft/Np (/M 87/M tỷ/Nu USD/Nu )/M FaceBook/Np (/M 73,5/M tỷ/Nu USD/Nu )/M ./. 
+Amazon/Np chỉ/R xếp/V thứ/N 6/M với/E định_giá/V thương_hiệu/N 54,1/M (/Nu tỷ/M USD/Nu )/M Samsung/Np nằm/V ở/E vị_trí/N thứ/N 10/M với/E 38,2/M tỷ/N USD/Np 
+Tập_đoàn/N công_nghệ/N duy_nhất/A của/E Trung_Quốc/Np vào/E bảng/N 100/M thương_hiệu/N đắt_giá/A nhất/R toàn_cầu/N là/V Huawei/Np với/E vị_trí/N 88/M 
+Giá_trị/N thương_hiệu/N của/E tập_đoàn/N này/P được/V định_giá/V lên/R đến/E 7,3/M tỷ/N USD/Np là/V nhờ/V vào/E hoạt_động/N kinh_doanh/V phát_triển/V mạnh_mẽ/A tại/E nhiều/A quốc_gia/N số_lượng/N người/N dùng/V đông_đảo/A đứng/V thứ_ba/N thế_giới/N và/CC chiếm/V 9,3%/M thị_phần/N smartphone/N toàn_cầu/N 
+ 

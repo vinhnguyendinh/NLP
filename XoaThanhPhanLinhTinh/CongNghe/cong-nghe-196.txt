@@ -1,0 +1,16 @@
+Nóng/A Hơn/A 2.700/M máy_tính/N tại/E Việt_Nam/Np bị/V lây_nhiễm/V mã/N độc/A tống_tiền/V WannaCry/Np 
+Thông_cáo/N phát/V đi/V từ/E Bkav/Np tối/N 16.5/M cho_biết/V Thống_kê/V từ/E hệ_thống/N giám_sát/V virus/N của/E Bkav/Np cho/E thấy/V tại/E Việt_Nam/Np đã/R có/V hơn/R 1.900/M máy_tính/N bị/V lây_nhiễm/V mã/V độc/A tống_tiền/V WannaCry/Np 
+Trong/E đó/P khoảng/N 1.600/M máy_tính/N được/V ghi_nhận/V tại/E 243/M cơ_quan/N doanh_nghiệp/N và/CC khoảng/N 300/M máy_tính/N là/V của/E người/N sử_dụng/V cá_nhân/N 
+Các/L chuyên_gia/N Bkav/Np khẳng_định/V như_vậy/X tại/E thời_điểm/N này/P mã/V độc/A không/R đến/V mức/N bùng_nổ/V ở/E Việt_Nam/Np 
+Tuy_nhiên/C theo/E Bkav/Np 52%/M máy_tính/N tại/E Việt_Nam/Np tức_là/V khoảng/A 4/M triệu/M máy/N chưa/R được/V vá/V lỗ_hổng/N EternalBlue/Np có_thể/R bị/V nhiễm/V WannaCry/Np bất_cứ/R lúc_nào/N nếu/C hacker/V mở_rộng/V việc/N tấn_công/V 
+Cũng/R theo/E Bkav/Np việc/N phát_tán/V mã/N độc/A mã_hóa/V dữ_liệu/N tống_tiền/V WannaCry/Np chỉ/R là/V bề/N nổi/V của/E “/N tảng/N băng/N chìm/V ”/M 
+Ông/Nc Vũ_Ngọc_Sơn/Np Phó_Chủ/Np tịch/V phụ_trách/V mảng/N Chống/V mã/N độc/A (/A Anti_Malware/Np )/A của/E Bkav/Np phân_tích/V “/N Chúng_ta/P không/R nên/V quên/V Cơ_quan/N an_ninh/N Mỹ/Np (/V NSA/Np )/V được/R cho/V là/C đã/R sử_dụng/V lỗ_hổng/N này/P để/E do_thám/V 
+Do_đó/C không/R loại_trừ/V khả_năng/N cơ_quan/N gián_điệp/N của/E một/M quốc_gia/N khác/A cũng/R âm_thầm/A khai_thác/V lỗ_hổng/N này/P cài_đặt/V phần_mềm/N gián_điệp/N nằm_vùng/V để/E thực_hiện/V các/L cuộc/N tấn_công/V có/V chủ_đích/N APT”/Np 
+Với/E 4/M triệu/N máy_tính/N có/V lỗ_hổng/N tại/E Việt_Nam/Np việc/N bị/V cài_đặt/V phần_mềm/N gián_điệp/N để/E tấn_công/V có/V chủ_đích/N sẽ/R nguy_hiểm/A hơn/R nhiều/A thậm_chí/R tiềm_ẩn/V nguy_cơ/N đối_với/E an_ninh/N quốc_gia/N 
+Nguy_cơ/N này/P không_thể/R nhận_biết/V rõ/A như/C mã/N độc/A mã_hóa/V dữ_liệu/N tống_tiền/V 
+“/N Việt_Nam/Np cần/V ngay_lập_tức/R có/V chiến_dịch/N vá/V lỗ_hổng/N này/P ”/M ông/Nc Vũ_Ngọc_Sơn/Np nhấn_mạnh/V 
+Bkav/Np cũng/R cho_biết/V đã/R nâng_cấp/V công_cụ/N miễn_phí/V quét/V lỗ_hổng/N EternalBlue/Np so/V với/E phiên_bản/N đầu_tiên/A để/E người/N sử_dụng/V có_thể/R quét/V và/CC vá/V lỗ_hổng/N tự_động/A chỉ/R với/E thao_tác/V đơn_giản/A 
+Có_thể/R tải/N công_cụ/N từ/E địa_chỉ/N Bkav.com.vn/Tool/CheckWanCry.exe/Np không/R cần/V cài_đặt/V mà/C có_thể/R khởi/V chạy/V luôn/R để/E quét/V 
+Trong/E khi/N đó/P theo/E Cty_An/Np ninh/V mạng/N CMC/Np các/L điểm_nóng/N mã/V độc/A tống_tiền/V tấn_công/V tại/E Việt_Nam/Np đứng/V đầu/N là/V Hà_Nội/Np chiếm/V khoảng/A một_nửa/M trong/E tổng_số/N chừng/N 800/M máy_tính/N bị/V lây_nhiễm/V tiếp/V đến/R là/V TPHCM/Np với/E khoảng/N 200/M máy/N lây_nhiễm/V WannaCry/Np chủ_yếu/A là/V server/N Đà_Nẵng/Np cùng/A một_số/L tỉnh/N lân_cận/A TPHCM/Np với/E số/N máy/N còn/V lại/R …/M Nạn_nhân/N chủ_yếu/A là/V các/L doanh_nghiệp/N vừa/R và/CC nhỏ/A trang_bị/V các/L giải_pháp/N bảo_mật/V hạn_chế/V 
+Một_số/L doanh_nghiệp/N đã/R phải/V móc/V hầu_bao/N trả/V tiền/N chuộc/V để/E giải_cứu/V dữ_liệu/N 
+ 

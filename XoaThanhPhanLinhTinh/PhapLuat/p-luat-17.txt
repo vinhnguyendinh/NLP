@@ -1,0 +1,9 @@
+Công_an/N vào_cuộc/V điều_tra/V vụ/N tai_nạn/N nghiêm_trọng/A trên/E cầu/N Chương_Dương/Np 
+Công_an/N quận/N Long_Biên/Np (/V Hà_Nội/Np )/A đang/R điều_tra/V làm/V rõ/A vụ/N tai_nạn/N đặc_biệt/A nghiêm_trọng/A xảy_ra/V trên/E cầu/N Chương_Dương/Np (/M thuộc/V địa_phận/N quận/N Long_Biên/Np )/M vào_khoảng/X 23h30/M ngày/N 12.7/M làm/V 3/M người/N thiệt_mạng/V 
+Danh_tính/N 3/M nạn_nhân/N thiệt_mạng/V trong/E vụ/N tai_nạn/N gồm/V Hoàng_Văn_Đức/Np (/V SN/Np 1999/M ở/E huyện/N Xuân_Trường/Np Nam_Định/Np )/M Nguyễn_Đình_Văn/Np (/V SN/Np 1998/M )/N và/CC Quách_Văn_Điệp/Np (/V SN/Np 1999/M )/N cùng/A trú/V tại/E huyện/N Như_Thanh/Np Thanh_Hóa/N )/V 
+Một/M cán_bộ/N Công_an/N quận/N Long_Biên/Np cho_biết/V theo/V xác_minh/V ban_đầu/N của/E Công_an/N quận/N vào/E thời_điểm/N trên/A một/M chiếc/Nc xe_máy/N (/A màu/N đỏ/A )/A chở/V 3/M nam/N thanh_niên/N đi/V vào/E làn_đường/N dành/V cho/E ôtô/N trên/E cầu/N Chương_Dương/Np hướng/V từ/E quận/N Hoàn_Kiếm/Np (/V Hà_Nội/Np )/V đi/V quận/N Long_Biên/Np đã/R tông/V vào/E chiếc/Nc xe/N ôtô/N Lexus/Np đang/R di_chuyển/V theo/E hướng/N ngược_lại/C 
+Va_chạm/V khiến/V chiếc/Nc xe_máy/N văng/V ra/R phía/N thành/V cầu/N còn/R 3/M thanh_niên/N ngồi/V trên/E xe/N văng/V xuống_đường/V tử_vong/N 
+Trong/E khi/N đó/P chiếc/Nc xe/N ô_tô/N Lexus/Np tiếp_tục/V lao/V về/E phía/N trước/N tông/V vào/E xe/N Huyndai/Np chạy/V hướng/N quận/N Hoàn_Kiếm/Np đi/V quận/N Long_Biên/Np 
+Vụ/N tai_nạn/N khiến/V chiếc/Nc ôtô/N Lexus/Np và/CC Huyndai/Np đều/R bị/V hư_hỏng/A còn/C chiếc/Nc xe_máy/N chở/V 3/M thanh_niên/N xấu_số/A bị/V gãy/V đôi/M 
+Công_an/N quận/N Long_Biên/Np đã/R phối_hợp/V với/E các/L đơn_vị/N chức_năng/N khám_nghiệm/V hiện_trường/N điều_tra/V làm/V rõ/A vụ/N tai_nạn/N 
+ 

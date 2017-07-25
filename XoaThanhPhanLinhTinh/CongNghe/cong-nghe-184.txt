@@ -1,0 +1,25 @@
+Dự_án/N “/M Cánh_tay/N robot/V cho/E người/N khuyết_tật/N ”/A Cần/V hoàn_thiện/V thêm/V để/E đưa/V ra/R thị_trường/N 
+Dự_án/N  /M “/N Cánh_tay/N robot/V cho/E người/N khuyết_tật/N ”/M nam_sinh/N Phạm_Huy/Np (/V THPT/Np Quảng_Trị/Np )/M vừa/R giành/V được/R giải/N 3/M tại/E cuộc_thi/N Khoa_học_kỹ_thuật/Np quốc_tế/N (/M Intel/Np ISEF/Np 2017/M )/N tổ_chức/V ở/E Mỹ/Np 
+Đại_diện/N Bộ/N Khoa/Np học/V và/CC Công_nghệ/N đánh_giá/V đây/P là/V một/M công_trình/N giàu/A tính/V nhân_văn/N song/C cần/V tiếp_tục/V nghiên_cứu/V hoàn_thiện/V thêm/V mới/R có_thể/R đưa/V được/R sản_phẩm/N ra/V thị_trường/N 
+Liên_quan/V đến/E công_trình/N “/M Cánh_tay/N robot/V cho/E người/N khuyết_tật/N ”/M nam_sinh/N Phạm_Huy/Np (/V THPT/Np Quảng_Trị/Np )/M vừa/R giành/V được/R giải/N 3/M tại/E cuộc_thi/N Khoa_học_kỹ_thuật/Np quốc_tế/N (/M Intel/Np ISEF/Np 2017/M )/N tổ_chức/V ở/E Mỹ/Np trao_đổi/V với/E PV/Np Báo_Lao_Động/Np ông/Nc Phạm_Hồng_Quất/Np –/V Cục_trưởng/N Cục/N Phát/V triển/V thị_trường/N và/CC doanh_nghiệp/N khoa_học/N và/CC công_nghệ/N (/N Bộ/N Khoa/Np học/V và/CC Công_nghệ/N )/A đánh_giá/V đây/P là/V một/M công_trình/N hay/C và/CC có/V ý_nghĩa/N nhân_văn/N cao/A 
+Kết_quả/N này/P thể_hiện/V rõ/A nét/N việc/N ứng_dụng/V tư_duy/N về/E tự_động_hóa/V vào/E giải_quyết/V những/L vấn_đề/N bức_xúc/A trong/E cuộc_sống/N xã_hội/N 
+Chưa/R bàn/V đến/E nội_hàm/N công_nghệ/N ra_sao/V nhưng/C việc/N học_sinh/N –/M sinh_viên/N có/V định_hướng/V tư_duy/N ứng_dụng/V công_nghệ/N để/E giải_quyết/V nhu_cầu/N của/E cuộc_sống/N là/V điều/N rất/R tốt/A 
+Về/V chế_độ/N đối_với/E các/L em/N học_sinh/N có/V sản_phẩm/N đạt/V giải/N quốc_tế/N ông/N Quất/Np cho_biết/V thêm/V hiện/N Liên_hiệp/N các/L hội/N khoa_học/N và/CC kỹ_thuật/N Việt_Nam/Np (/V VUSTA/Np )/M cũng/R tổ_chức/V cuộc_thi/N khoa_học_kỹ_thuật/X toàn_quốc/N dành/V cho/E sinh_viên/N năm/N 2017/M 
+Với/E các/L công_trình/N đang/R ở/V mức/N ý_tưởng/N và/CC mô_hình/N việc/N tham_gia/V quỹ/N hỗ_trợ/V sáng_tạo/N kỹ_thuật/N Việt_Nam/Np (/V VIFOTEC/Np )/V sẽ/R rất/R phù_hợp/V 
+Khi/N sản_phẩm/N có_thể/R ra/V thị_trường/N thì/C chương_trình/N phát_triển/V thị_trường/N của/E Cục/N Phát/V triển/V thị_trường/N và/CC doanh_nghiệp/N khoa_học/N và/CC công_nghệ/N có_thể/R tham_gia/V hỗ_trợ/V 
+Khi/N được/V hỏi/V về/E tiềm_năng/N đưa/V sản_phẩm/N này/P ra/V thị_trường/N ông/N Quất/Np cho_biết/V “/V Để/E sản_phẩm/N ra/R được/V thị_trường/N còn/V rất/R nhiều/A điều/N cần/V thực_hiện/V gồm/V Đăng_kí/N bảo_hộ/V sở_hữu_trí_tuệ/N tiến_hành/V thử_nghiệm/V cấp/V phép/N lưu_hành/V độ/N an_toàn/A các/L bệnh_viện/N cơ_sở/N sản_xuất/V nhận/V chuyển_giao/V ứng_dụng/V như_thế_nào/X …/M Việc/N được/V giải/N mang/V tính_chất/N khích_lệ/V song/N để/E ra/V được/V thị_trường/N sản_phẩm/N của/E các/L em/N học_sinh/N phải/V có/V các/L doanh_nghiệp/N hoặc/CC các/L cơ_sở/N nghiên_cứu/V khác/A cùng/A tham_gia/V hỗ_trợ/V mới/R có_thể/R hoàn_thiện/V được/R ”/M 
+Trước/E đó/P Phạm_Huy/Np với/E dự_án/N “/M Cánh_tay/N robot/V cho/E người/N khuyết_tật/N ”/V được/R  /M Bộ/N Giáo/N dục/N và/CC Đào_tạo/N cử/V tham_dự/V cuộc_thi/N Intel/Np ISEF /Np tổ_chức/V tại/E Mỹ/Np vào/E 12/M 22.5/M 
+Nam_sinh/N này/P từng/R 2/M lần/N bị/V Đại_sứ_quán/N Mỹ/Np từ_chối/V cấp/V visa/N 
+Đến/E ngày/N khai_mạc/V em/N mới/R nhận/V được/R visa/N từ/E lần/N phỏng_vấn/V đặc_cách/V lần/N thứ/N 3/M và/CC tự/P bay/V qua/E Mỹ/Np một_mình/X do/E đoàn/N Việt_Nam/Np di_chuyển/V từ/E trước/N 
+Chung_cuộc/N đoàn/N Việt_Nam/Np có/V tất_cả/N 9/M giải_thưởng/N ở/E 2/M hạng_mục/N giải_thưởng/N 
+Trong/E đó/P nam_sinh/N lớp/N 11/M Phạm_Huy/Np với/E đề_tài/N "/" Cánh_tay/N robot/V cho/E người/N khuyết_tật/N "/" nhận/V giải/N 3/M ở/E lĩnh_vực/N robot/N và/CC thiết_bị/N thông_minh/A 
+Bốn/M đề_tài/N khác/A cùng/A nhận/V giải/N 4/M ở/E 3/M lĩnh_vực/N gồm/V 2/M đề_tài/N của/E các/L học_sinh/N Vũ_Nam_Anh/Np và/CC Trần_Khuê/Np (/V THPT/Np chuyên/A thuộc/V Đại_học/N khoa_học_tự_nhiên/X Hà_Nội/N )/A Đỗ_Mai/Np và/CC Bùi_Quân/Np (/V THPT/Np chuyên/A Trần_Phú/Np Hải_Phòng/Np )/A ở/E lĩnh_vực/N hoá_học/N 
+Hai/M em/N Phạm_Tân/Np và/CC Chu_Minh_Đức/Np ở/E lĩnh_vực/N hệ_thống/N nhúng/V 
+Em_Trần_Thị_Thu/X (/M THPT/Np chuyên/A Bảo_Lộc/Np Lâm_Đồng/Np )/A ở/E lĩnh_vực/N phần_mềm/N hệ_thống/N 
+Intel/Np ISEF/Np là/V cuộc_thi/N khoa_học_kỹ_thuật/N dành/V cho/E học_sinh/N phổ_thông/N lớn/A nhất/A thế_giới/N được/V tổ_chức/V hàng/N năm/M tại/E Mỹ/Np do/E Intel/Np tài_trợ/V chính/T 
+Cá_nhân/N hay/C nhóm/N dự/V thi/V (/A không/R quá/R 2/M học_sinh/N )/N sẽ/R trình_bày/V sản_phẩm/N của/E mình/P bằng/E tiếng/N Anh/Np 
+Mục_đích/N cuộc_thi/N là/V khơi/V dậy/V niềm/Nc đam_mê/V học_tập/V sự/Nc sáng_tạo/V hình_thành/V cho/E học_sinh/N phương_pháp/N tự/P học/V biết/V ứng_dụng/V kiến_thức/N đã/R học/V để/E giải_quyết/V những/L vấn_đề/N trong/E cuộc_sống/N ./. 
+Cuộc_thi/N được/V tổ_chức/V từ/E cấp/N trường/N tỉnh_thành/N và/CC quốc_gia/N 
+Việt_Nam/Np bắt_đầu/V tham_gia/V Intel/Np ISEF/Np từ/E năm/N 2012/M 
+Năm/N 2016/M cả/P 4/M dự_án/N của/E học_sinh/N Việt_Nam/Np tham_dự/V cùng/A đoạt/V giải/N ba/M lĩnh_vực/N Hóa_học/N Khoa/Np trái_đất/N và/CC môi_trường/N Kỹ_thuật/N cơ_khí/N Sinh_học/N tế_bào/N và/CC phân_tử/N của/E cuộc_thi/N 
+ 

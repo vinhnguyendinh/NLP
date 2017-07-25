@@ -1,0 +1,11 @@
+VIB/Np thu_xếp/V cấp/N tín_dụng/N hợp/V vốn/N 515/M tỷ/N đồng/N cho/E EVN_NPC/Np 
+Tổng_Công/Np ty/V Điện_lực/N Miền_Bắc/Np (/M EVN_NPC/Np )/M vừa/R ký_kết/V Hợp_đồng/N tín_dụng/N khoản/N vay/V hợp/V vốn/N trị_giá/V 515/M tỷ/N đồng/N 
+Ngân_hàng/N đầu_mối/N thu_xếp/V vốn/N cho/E khoản/N tín_dụng/N này/P là/V Ngân_hàng/N TMCP/Np Quốc_tế/N Việt_Nam/Np VIB/Np với/E sự/Nc tham_gia/V đồng/N tài_trợ/V của/E các/L ngân_hàng/N Taipei_Fubon/Np chi_nhánh/N Hà_Nội/Np ngân_hàng/N Taipei_Fubon/Np chi_nhánh/N thành_phố/N Hồ_Chí_Minh/Np và/CC Ngân_hàng/N First_Commercial_Bank/Np chi_nhánh/N thành_phố/N Hồ_Chí_Minh/Np 
+Đến/V dự/V lễ/N ký_kết/V có/V ông/N Thiều_Kim_Quỳnh/Np Chủ_tịch/N kiêm/V Tổng_giám_đốc/N cùng/A Ban/N lãnh_đạo/N EVN_NPC/Np và/CC đại_diện/V các/L ngân_hàng/N đồng/N tài_trợ/V 
+Khoản/N tín_dụng/N thời_hạn/N 7/M năm/N này/P sẽ/R góp_phần/V quan_trọng/A giúp/V EVN_NPC/Np triển_khai/V các/L hoạt_động/N đầu_tư/V nâng_cấp/V và/CC mở_rộng/V lưới_điện/N phân_phối/V trong/E thời_gian/N tới/V 
+Tổng_công_ty/N Điện_lực/N Miền_Bắc/Np là/V một/M trong/E 5/M Tổng_công_ty/N phân_phối/V điện/N của/E Tập_đoàn/N Điện_lực/N Việt_Nam/Np với/E địa_bàn/N quản_lý/V là/V 27/M tỉnh/N thành_phố/N miền/N Bắc/Np và/CC Bắc_Trung_Bộ/Np (/V trừ/V Hà_Nội/N )/A 
+EVN_NPC/Np đặt/V mục_tiêu/N tiếp_tục/V phát_triển/V lưới_điện/N đáp_ứng/V tốc_độ/N tăng_trưởng/V hàng/N năm/N đạt/V từ/E 13%/M đến/E 15%/M trong/E giai_đoạn/N đến/V 2020/M 
+Việc/N thu_xếp/V và/CC ký_kết/V thành_công/V khoản/N vay/V hợp/V vốn/N 515/M tỷ/N đồng_lần/N này/P có/V ý_nghĩa/N quan_trọng/A đối_với/E hoạt_động/N của/E Tổng_công_ty/N Điện_lực/N Miền_Bắc/Np đồng_thời/R khẳng_định/V uy_tín/N của/E EVN_NPC/Np trên/E thị_trường/N tài_chính/N sự/Nc tín_nhiệm/N và/CC tinh_thần/N hợp_tác/V hỗ_trợ/V của/E các/L ngân_hàng/N tài_trợ/V 
+Taipei_Fubon/Np và/CC First_Commercial_Bank/Np là/V hai/M ngân_hàng/N hàng_đầu/N của/E Đài_Loan/Np và/CC hiện/N đang/R cam_kết/V mạnh_mẽ/A để/E hỗ_trợ/V tài_chính/N cho/E các/L công_ty/N tập_đoàn/N cũng_như/C sự/N phát_triển/V nền/N kinh_tế/N Việt_Nam/Np 
+Đây/P cũng/R là/V một/M trong/E những/L khoản/N vay/V hợp/V vốn/N đầu_tiên/A được/V thu_xếp/V bởi/E một/M ngân_hàng/N trong/E nước/N Ngân_hàng/N TMCP/Np Quốc_tế/N Việt_Nam/Np với/E sự/Nc tham_gia/V đồng/N tài_trợ/V hoàn_toàn/A từ/E các/L chi_nhánh/N ngân_hàng/N nước_ngoài/N tại/E Việt_Nam/Np 
+ 

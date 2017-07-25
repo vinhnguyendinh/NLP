@@ -1,0 +1,6 @@
+Đặt_hàng/V 3/M nhiệm_vụ/N KHCN/Np về/E Quỹ/Np gen/V cấp/N Quốc_gia/Np 
+Bộ/N Khoa/Np học/V và/CC Công_nghệ/N (/V KHCN/Np )/V vừa/R phê_duyệt/V danh_mục/N đặt_hàng/V 3/M nhiệm_vụ/N KHCN/Np về/E Quỹ/Np gen/V cấp/N Quốc_gia/Np thuộc/V Chương_trình/N bảo_tồn/V và/CC sử_dụng/V bền_vững/A nguồn/N gen/N đến/E năm/N 2025/M định_hướng/V đến/E năm/N 2030/M 
+Cụ_thể/A đề_tài/N 1/M nghiên_cứu/V xây_dựng/V hệ_thống/N cơ_sở_dữ_liệu/N quỹ/N gen/V quốc_gia/N được/V xét/V giao/V trực_tiếp/A cho/E Trung_tâm/N Tài_nguyên/N thực_vật/N Viện_Khoa/Np học/V nông_nghiệp/N Việt_Nam/Np Bộ/N Nông/N nghiệp/N và/CC Phát_triển/V nông_thôn/N 
+Đề_tài/N 2/M là/V nghiên_cứu/V bảo_tồn/V nguồn/N gen/N cây/Nc nông/N lâm_nghiệp/N và/CC cây_thuốc/N tại/E lưu_vực/N thủy_điện/N Lai_Châu/Np được/V xét/V giao/V trực_tiếp/A cho/E Trung_tâm/N Tài_nguyên/N thực_vật/N Viện_Khoa/Np học/V nông_nghiệp/N Việt_Nam/Np Bộ/N NNPTNT/Np 
+Đề_tài/N 3/M là/V nghiên_cứu/V bảo_tồn/V nguồn/N gen/N cây_thuốc/N đặc_hữu/A quý/A hiếm/A của/E vùng/N Đông_Nam_Bộ/Np tại/E Khu/N bảo_tồn/V thiên_nhiên/N văn_hóa/N Đồng_Nai/Np được/V xét/V giao/V trực_tiếp/A cho/E Viện_Dược/Np liệu/V Bộ/N Y_tế/N 
+ 

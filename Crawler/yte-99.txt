@@ -1,0 +1,5 @@
+Chùm/Nc ảnh/N Nhọc_nhằn/A một/M ngày/N vật_vờ/A chờ/V khám/V của/E bệnh_nhân/N 
+Đầu/N giờ/N sáng/N Khoa_Khám/Np bệnh/N Bệnh_viện/N (/V BV/Np )/V Bạch_Mai/Np đông_nghịt/N người/N 
+Để/E hoàn_thành/V một/M buổi/N khám/V chữa/V bệnh/N người_bệnh/N phải/V mất/V cả/T buổi_sáng/N thậm_chí/R sang/V cả/P chiều/N mới/R xong/V 
+Hình_ảnh/N người_bệnh/N nằm/V vật_vờ/A chờ/V khám/V bệnh/N vẫn/R diễn/V ra/R dù/C BV/Np đã/R có/V nhiều/A thay_đổi/V trong/E quy_trình/N khám/V chữa/V bệnh/N 
+ 

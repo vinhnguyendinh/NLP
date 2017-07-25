@@ -1,0 +1,12 @@
+Đối_tượng/N nào/P được/V tuyển/V thẳng/A vào/E lớp/N 10/M ./. 
+Thông_tin/N từ/E Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np có/V bốn/M đối_tượng/N học_sinh/N được/V xét/V tuyển/V thẳng/A vào/E lớp/N 10/M THPT/Np năm_học/N 2017-2018/M  /M Những/L học_sinh/N trong/E diện/N này/P nộp/V hồ_sơ/N đăng_ký/V dự/V xét/V tuyển/V thẳng/A tại/E trường/N nơi/N đang/R học/V lớp/N 9/M vào/E ngày/N 10.5.2017/M 
+Theo/E quy_định/N bốn/M đối_tượng/N học_sinh/N được/V xét/V tuyển/V thẳng/A vào/E lớp/N 10/M THPT/Np năm_học/N 2017-2018/M gồm/V học_sinh/N trường/N phổ_thông/N dân_tộc/N nội_trú/N đã/R tốt_nghiệp/V THCS/Np học_sinh/N là/V người/N dân_tộc/N rất/R ít/A người/N (/V thuộc/V một/M trong/E các/L dân_tộc/N La_Ha/Np La_Hủ/Np Pà_Thèn/Np Chứt/Np Lự/Np Lô_Lô/Np Mảng/Np Cống/Np Cờ_Lao/Np Bố/N Y/Np Ngái/Np Si_La/Np Pú_Péo/Np Brâu/Np Rơ_Măm/Np Ơ/I Đu/Np )/M học_sinh/N khuyết_tật/N học_sinh/N đoạt/V giải/N cấp/N quốc_gia/N trở_lên/A về/E văn_hóa/N văn_nghệ/N thể_dục/N thể_thao/N cuộc_thi/N khoa_học_kỹ_thuật/X dành/V cho/E học_sinh/N trung_học/N 
+Mỗi/L học_sinh/N trong/E diện/N tuyển/V thẳng/A chỉ/R được/V đăng_ký/V tuyển/V thẳng/A vào/E một/M trường/N THPT/Np công_lập/V 
+Riêng/T học_sinh/N trường/N phổ_thông/N dân_tộc/N nội_trú/N đã/R tốt_nghiệp/V THCS/Np được/V tuyển/V thẳng/A vào/E lớp/N 10/M THPT/Np của/E trường/N phổ_thông/N dân_tộc/N nội_trú/N  /EOS 
+Trường_hợp/N HS/Np đủ/A điều_kiện/N mà/C không/R có/V nguyện_vọng/N tuyển/V thẳng/A thì_phải/N tham_gia/V thi_tuyển/V vào/E ngày/N 9.6/M và/CC được/V cộng/V điểm/N khuyến_khích/V theo/E quy_định/N  /EOS 
+Những/L học_sinh/N trong/E diện/N tuyển/V thẳng/A nộp/V hồ_sơ/N đăng_ký/V dự/V xét/V tuyển/V thẳng/A tại/E trường/N nơi/N đang/R học/V lớp/N 9/M vào/E ngày/N 10.5/M 
+Năm_học/N 2017/M –/N 2018/M toàn/R thành_phố/N Hà_Nội/Np dự_kiến/V có/V gần/A 83/M nghìn/N học_sinh/N xét/V tốt_nghiệp/V THCS/Np nhưng/C chỉ_tiêu/N tuyển_sinh/V vào/E hệ/N THPT/Np là/V 69.500/M học_sinh/N trong/E đó/P các/L trường/N công_lập/N tuyển/V 56.840/M học_sinh/N các/L trường/N ngoài/E công_lập/N tuyển/V 12.660/M học_sinh/N 
+Số/N học_sinh/N được/V tuyển/V vào/E trung_tâm/N giáo_dục/V thường_xuyên/A là/V 7.000/M học_sinh/N 
+Số/N học_sinh/N được/V tuyển/V vào/E các/L trường/N trung_học_chuyên_nghiệp/N là/V 6.443/M học_sinh/N 
+Như_vậy/C chỉ/R có/V khoảng/N 70%/M học_sinh/N Hà_Nội/Np có/V cơ_hội/N được/V học/V trong/E các/L trường/N THPT/Np công_lập/V 
+ 

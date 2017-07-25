@@ -1,0 +1,33 @@
+Vì_sao/X tội_phạm/N chọn/V lúc/N nửa_đêm/N để/E đánh_cắp/V tiền/N trong/E thẻ/N ./. 
+Thời_gian/N gần/A đây/P hàng_loạt/N các/L vụ/N mất/V tiền/N trong/E tài_khoản/N liên_tiếp/A xảy_ra/V 
+Nạn_nhân/N “/V ngơ_ngác/A ”/M vì/E số/N tiền/N mất/V quá/R lớn/A và/CC thời_điểm/N gây/V án/N “/A ưa_chuộng/V của/E bọn/Nc tội_phạm/N là/V vào/V nửa_đêm/N 
+“/A Nếu/C một/M ngày/N bạn/N ngủ/V dậy/V tài_khoản/N bỗng/R bốc_hơi/A cả/T trăm/M triệu/M đồng/Nu thì/C cảm_giác/N rất/R khủng_khiếp/A ”/M chị/N Hoàng_Thị_Na_Hương/Np nạn_nhân/N mất/V tiền/N chia_sẻ/V 
+Thống_đốc/N Ngân_hàng/N Nhà_nước/N (/V NHNN/Np )/M mới_đây/X đã/R có/V văn_bản/N yêu_cầu/V NAPAS/Np phối_hợp/V với/E các/L ngân_hàng/N theo_dõi/V phát_hiện/V kịp_thời/A các/L giao_dịch/N bất_thường/A đặc_biệt/A khoảng/A thời_gian/N từ/E 23h/M đến/E 1h/M sáng/N 
+Nửa_đêm/N tiền/N “/A bay/V ”/A  /M thẻ/N vẫn/R nằm/V im/A trong/E ví/N Anh/N Hoàng_Minh_Tâm/Np (/V Hà_Nội/Np )/A sử_dụng/V thẻ_ghi_nợ/N của/E Sacombank/Np bị/V mất/V sạch/A 94/M triệu/M đồng/Nu trong/E tài_khoản/N vào/E khuya/N 24.4.2017/M 
+Anh/N Tâm/Np hiện/N đang/R sống/V tại/E Hà_Nội/Np và/CC thẻ/N ATM/Np vẫn/R để/V trong/E ví/N tuy_nhiên/C địa_điểm/N rút_tiền/A là/V ATM/Np ở/E Công_viên/N Lê_Văn_Tám/Np quận/N 1/M TPHCM/Np 
+Cũng/R bằng/E thủ_đoạn/N tương_tự/A là/C gây/V án/N lúc/N nửa_đêm/N vụ/N mất/V tiền_của/N chị/N Hoàng_Thị_Na_Hương/Np chủ_tài_khoản/N Vietcombank/Np cũng/R từng/R khiến/V dư_luận/N dậy/V sóng/N 
+Chị/N Na_Hương/Np cho_biết/V vào/E lúc/N 23h18/M ngày/N 4.8.2016/M bọn/Nc tội_phạm/N hack/V trộm/V 100/M triệu/M đồng/Nu đầu_tiên/A 
+Từ/E đó/P đến/E rạng/A sáng/N hôm_sau/A hacker/N thực_hiện/V 7/M giao_dịch/N với/E tổng_số/N tiền/N đánh_cắp/V là/V 500/M triệu/M đồng/Nu 
+Sau/E đó/P Vietcombank/Np đã/R cho_biết/V kẻ_trộm/N đã/R rút/V 200/M triệu/M đồng/Nu qua/V ATM/Np ở/E Malaysia/Np 
+Vì_sao/X đối_tượng/N lừa_đảo/V hay/C chọn/V thời_điểm/N nửa_đêm/N để/E gây/V án/N Theo/E một/M chuyên_gia/N an_ninh/N mạng/N bọn/Nc tội_phạm/N chọn/V thời_điểm/N này/P vì/E hai/M nguyên_nhân/N chính/T 
+Thứ/N nhất/A lúc/N đó/P chủ/N thẻ/N đã/R ngủ/V say/V nên/C không/R để_ý/V tin/N nhắn/V SMS/Np báo/V tiền/N bị/V rút/V khỏi/V tài_khoản/N 
+Từ/E đó/P không_thể/R gọi/V điện/N đến/E tổng_đài/N nhờ/V khóa/N thẻ/N 
+Thường/R đến/E sáng/N hôm_sau/A khi/N phát_hiện/V giao_dịch/V lạ/A thì/C tiền/N đã/R “/V không_cánh_mà_bay/X ”/M 
+Thứ_hai/N các/L NH/N đều/R cài_đặt/V hạn_mức/A số/N tiền/N được/R rút/V khỏi/R ATM/Np trong/E ngày/N 
+Vì_vậy/C trước/E nửa_đêm/N bọn/N trộm/V sẽ/R rút/V hết/V tiền/N theo/E hạn_mức/N trong/E ngày/N 
+Sau/E 12h/M đêm/N bọn/N trộm/V có_thể/R tiếp_tục/V rút/V tiếp/V số/N tiền_của/N ngày/N mới/R 
+Trước/E tình_hình/N tội_phạm/N gây/V án/N lúc/N nửa_đêm/N ngày/N có/V chiều_hướng/N phức_tạp/A ngày/N 21.6.2017/M Thống_đốc/N NHNN/Np có/V văn_bản/N yêu_cầu/V Công_ty_cổ_phần/N Thanh_toán/N Quốc_gia/Np Việt_Nam/Np tăng_cường/V phối_hợp/V với/E các/L ngân_hàng/N theo_dõi/V phát_hiện/V kịp_thời/A các/L giao_dịch/N bất_thường/A 
+Đặc_biệt/A là/C trong/E khoảng/N thời_gian/N từ/E 23h00/M đến/E 1h/M sáng/N các/L đối_tượng/N phạm_tội/V tận_dụng/V hạn_mức/N rút_tiền/V hai/M ngày/N 
+Làm_gì/X để/E tránh/V đánh_cắp/V thông_tin/N thẻ/N Đại_diện/N Cục/N công_nghệ_thông_tin/N NHNN/Np cho_biết/V hoạt_động/V ăn_cắp/V thông_tin/N thẻ_tín_dụng/N làm/V thẻ/N giả/A để/E rút_tiền/V đang/R có/V chiều_hướng/N gia_tăng/V 
+Theo/E Cục_Cảnh/Np sát/A Phòng_chống/V tội_phạm/N sử_dụng/V công_nghệ_cao/N (/V C50/M )/N Bộ/N Công/N an/M chỉ/R trong/E 2/M năm/N gần/A đây/P đơn_vị/N đã/R phát_hiện/V hàng/R chục/M vụ/N trộm/V tiền/N qua/E tài_khoản/N ngân_hàng/N 
+C50/Np cho_biết/V hầu_hết/R kẻ_trộm/N đều/R có/V quốc_tịch/N nước_ngoài/N 
+Các/L đối_tượng/N sau/E khi/N nhập_cảnh/V vào/E Việt_Nam/Np sử_dụng/V thiết_bị/N sao_chép/V dữ_liệu/N (/A Skimming/Np )/A để/E đánh_cắp/V thông_tin/N  /M Theo/E Phó_Vụ/Np trưởng/N Cục/N thanh_toán/V thẻ/N (/A NHNN/Np )/A hiện/N một_số/L NHTM/Np chưa/R có/V hệ_thống/N phát_hiện/V ngăn_chặn/V cảnh_báo/V cho/E khách_hàng/N các/L giao_dịch/N bất_thường/A về/E thời_gian/N vị_trí/N địa_lý/N tần_suất/N giao_dịch/V số/N lần/N xác_thực/A sai/A hoặc/CC các/L dấu_hiệu/N bất_thường/A khác/A 
+Tội_phạm/N thẻ/N ngày_càng/N tinh_vi/A phức_tạp/A nguy_cơ/N tiềm_ẩn/V trong/E sử_dụng/V thẻ_tín_dụng/N rất/R lớn/A 
+Các/L chuyên_gia/N cảnh_báo/V chủ/N thẻ/N cần/V quan_sát/V kỹ/A máy/N ATM/Np trước/E khi/N thực_hiện/V giao_dịch/V đặc_biệt/A tại/E các/L vị_trí/N khe/N đọc/V thẻ/N bàn_phím/N camera/N 
+Nếu/C nhận/V thấy/V máy/N ATM/Np có/V các/L thiết_bị/N lạ/A hoặc/CC có/V bất_kỳ/A dấu_hiệu/N bất_thường/A nào/P nên/C ngừng/V giao_dịch/V và/CC thông_báo/V ngay/R cho/E NH/Np 
+Đặc_biệt/A nên/C dùng/V tay/N che/V bàn_phím/N khi/N nhập/V mật_khẩu/N PIN/Np 
+Khi/N giao_dịch/V mua/V bán/V trên/E Internet/Np chủ/N thẻ/N chỉ/R giao_dịch/V tại/E các/L website/N uy_tín/N không/R nên/V sử_dụng/V máy_tính/N công_cộng/A khi/N thực_hiện/V các/L giao_dịch/N thanh_toán/V online/V 
+Luôn/R nhớ/V Thoát/V //X Đăng/V xuất/V khỏi/R website/N sau/E khi/N kết_thúc/V giao_dịch/V 
+Lời/N khuyên/V của/E các/L chuyên_gia/N là/C không/R đặt/V mật_khẩu/N có/V liên_quan/V đến/E các/L thông_tin/N cá_nhân/A như/C Ngày_tháng/N năm/N sinh/V số/N điện_thoại/N biển_số/N xe/N …/M Không/R ghi/V mật_khẩu/N lên/E thẻ/N hoặc/CC gần/A nơi/N để/E thẻ/N để/E tránh/V việc/N lộ/V thông_tin/N ./. 
+Không/R đưa/V thẻ/N của/E mình/P cho/E bất_cứ/R ai/P trừ/V những/L nhân_viên/N của/E ngân_hàng/N 
+ 

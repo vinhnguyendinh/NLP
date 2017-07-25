@@ -1,0 +1,11 @@
+Bản/N tin/N nóng/A công_nghệ/N Tìm/V wifi/N “/V chùa/N ”/A trên/E FaceBook/Np Surface/Np với/E Windows/Np 10/M S/Np không/R gõ/V nổi_tiếng/A Việt/Np 
+FaceBook/Np ra/V tính_năng/V tìm/V wifi/N “/V chùa/N ”/A khỏi/V cần/V cài/V thêm/V phần_mềm/N khác/A Microsoft/Np đã/R vào/V Việt_Nam/Np từ/E lâu/A nhưng/C những/L sản_phẩm/N của/E họ/P có_vẻ/X ít/A quan_tâm/V tới/E thị_trường/N này/P đặc_biệt/A với/E máy_tính/N Surface/Np và/CC Windows/Np 10S/Np ./. 
+là/C thông_tin/N chính/T trong/E bản/N tin/V nóng/A công_nghệ/N 
+Mặc_dù/C Microsoft/Np đã/R vào/V Việt_Nam/Np từ/E lâu/A nhưng/C những/L sản_phẩm/N của/E họ/P có_vẻ/X ít/A quan_tâm/V tới/E thị_trường/N Việt_Nam/Np 
+Đặc_biệt/A phiên_bản/N hệ_điều_hành/N Windows/Np 10/M mới/R với/E máy_tính/N Surface/Np được/V Microsoft/Np khoe/V có/V nhiều/A tính_năng/N vượt_trội/V và/CC bảo_mật/V tốt/A nhưng/C lại/R không_thể/R gõ/V tiếng/N Việt/Np 
+Trong/E khi/N đó/P các/L bộ/N cài/V tiếng/N Việt/Np vốn/R quen_thuộc/A người/N dùng/V như/C UniKey/Np (/V tác_giả/N Phạm_Kim_Long/Np )/M GoTiengViet/Np (/V tác_giả/N Trần_Kỳ_Nam/Np )/M chưa/R có/V trên/N Windows_Store/Np 
+Vì_vậy/C với/E Windows/Np 10S/M tất_cả/P chỉ/R để/E ngắm/V nếu/C bạn/N làm_việc/V với/E các/L văn_bản/N sử_dụng/V tiếng/N Việt/Np 
+Theo/E Genk/Np thực_chất/N hệ_điều_hành/N Windows/Np được/V tích_hợp/V sẵn/A một/M bộ_gõ/N tiếng/N Việt/Np 
+Tuy_nhiên/C có_thể/R nói/V rằng/C bộ_gõ/N này/P là/V hoàn_toàn/A vô_dụng/V do/E cách/N gõ/V của/E nó/P không/R tuân/V theo/E hai/M chuẩn/N phổ_biến/V hiện_nay/N là/V TELEX/Np và/CC VNI/Np 
+Trong/E khi/N đó/P hệ_điều_hành/N Mac/Np của/E Apple/Np vốn/R ít/A người/N biết/V thì/C những/L năm/N gần/A đây/P việc/N gõ/V tiếng/N Việt/Np dù/E chưa/R chuẩn/A nhưng/C luôn/R được/V hỗ_trợ/V ở/E mức/N chấp_nhận/V được/R 
+ 

@@ -1,0 +1,21 @@
+Đua/V xe/N không/R người/N lái/V Đội/N HV/Np Kỹ_thuật/N Quân_sự/N giành/V quán_quân/N và/CC suất/N đi/V Mỹ/Np 
+Trong/E khi/N xe/N không/R người/N lái/V của/E đội/N MTA/Np Racer/Np Học_viện/N Kỹ_thuật/N Quân_sự/N xuất_phát/V trơn/A chu/N thì/C xe/N của/E đội/N CDIO/Np Đại_học/N Bách_Khoa/Np TPHCM/Np gặp/V tai_nạn/N ngay/T khi/N đổ/V dốc/N 
+Tối_qua/N 10.5/M 8/M đội/N đua/V lọt/V vào/E chung_kết/N Cuộc/N đua/V số_là/N Đại_học/N Bách_Khoa_Hà_Nội/Np Đại_học/N Bách_Khoa/N TPHCM/Np Học_viện/N Công_nghệ/N Bưu_chính/N Viễn_thông/Np Đại_học/N Công_nghệ/N ĐH_QG/Np Hà_Nội/Np Đại_học/N CNTT/Np –/V ĐH_QG_TPHCM/Np  /M Đại_học/N FPT/Np Học_viện/N Kỹ_thuật/N Quân_sự/N Đại_học/N Lạc_Hồng/Np đã/R thi_đấu/V để/E giành/V ngôi/Nc quán_quân/N  /EOS 
+8/M đội/N thi/V đã/R được/V trang_bị/V xe/N ô_tô/N mô_hình/N tài_liệu/N đào_tạo/V về/E công_nghệ/N xử_lý/V ảnh/N các/L thư_viện/N mã/V nguồn/N mở/V 
+Các/L đội/N không/R được/V thay_thế/V hoặc/CC bổ_sung/V các/L thiết_bị/N có/V sẵn/A trên/E xe/N 
+Và/C phần_mềm/N được/V viết/V trên/E điện_thoại_di_động/N và/CC máy_tính/N để/E cấu_hình/V xe/N ô_tô/N thông_qua/V mạng/N wifi/V nội_bộ/N giúp/V xe/N chạy/V tự_động/A hoàn_toàn/A 
+Các/L đội/N khởi_động/V xe/N và/CC cấu_hình/V bằng/E điện_thoại/N hoặc/CC máy_tính/N trước/E khi/N thi_đấu/V 
+Khi/N vào/V sân/N thi_đấu/V chính_thức/A mọi/L kết_nối/V tới/E xe/N phải/V được/V gỡ/V bỏ/V để/E xe/N tự/P xuất_phát/V 
+Xe/N sẽ/R chạy/V tự_động/A hoàn_toàn/A và/CC có/V khả_năng/N tránh/V vật/N cản/V trên/E sa/V hình/N 
+Chung_cuộc/N đội/N  /N MTA/Np Racer/Np Học_viện/N Kỹ_thuật/N Quân_sự/N đã/R giành/V ngôi/Nc quán_quân/N với/E giá_trị/N giải_thưởng/N là/V 450/M triệu/M đồng/Nu (/N gồm/V 3/M máy_tính_xách_tay/N và/CC suất/N đi/V Mỹ/Np trải_nghiệm/V 7/M ngày/N dành/V cho/E thành_viên/N trong/E đội/N 
+Đội/N CDIO/Np Đại_học/N Bách_Khoa/Np TP.HCM/Np giành/V giải/N nhì/N 30/M triệu/M đồng/Nu và/CC giải/N ba/M thuộc/V về/E đội/N Alpha_One/Np Đại_học/N FPT/Np và/CC Đội/N LHU/Np Racer/Np 304/M ĐH/Np Lạc_Hồng/Np ./. 
+Nhận_định/V khả_năng/N của/E các/L bạn/N trẻ/A trong/E sân_chơi/N này/P cũng_như/C trong/E lĩnh_vực/N CNTT/Np nói_chung/X ông/N Trương_Gia_Bình/Np –/M Chủ_tịch/N FPT/Np –/V cho/V rằng/C “/N Việt_Nam/Np đang/R được/V coi/V là/C nguồn/N cung/N nhân_lực/N công_nghệ/N trẻ/A cho/E cuộc/N cách_mạng/N 4.0/M 
+Các/L bạn/N trẻ/A một/M sứ_mệnh/N to_lớn/A những/L người/N tiên_phong/A đưa/V Việt_Nam/Np bắt/V kịp/A thế_giới/N và/CC không/R bỏ/V lỡ/V cuộc/N cách_mạng/V chưa/R từng/R có/V này/P 
+Tôi/P tin_tưởng/V rằng/C bằng/E kinh_nghiệm/N và/CC những/L kiến_thức/N mà/C các/L bạn/N tích_lũy/V được/V từ/E ngày/N hôm_nay/N bằng/E ý_chí/N sự/Nc đam_mê/V và/CC quyết_tâm/V các/L bạn/N là/V lực_lượng/N nòng_cốt/N tiên_phong/A tham_gia/V chuỗi/Nc giá_trị/N công_nghệ/N toàn_cầu/N góp_phần/V đưa/V Việt_Nam/Np có/V vị_trí/N xứng_đáng/A trong/E cuộc/N cách_mạng_công_nghiệp/V lần/N thứ/N 4/M và/CC vì/E một/M Việt_Nam/N thịnh_vượng/A ”/A 
+Được/V biết/V tự/P vận_hành/V là/V 1/M trong/E 9/M công_nghệ/N trụ_cột/N của/E cuộc/N cách_mạng/N 4.0/M 
+Nhiều/A nghiên_cứu/V trong/E lĩnh_vực/N này/P đã/R được/V áp_dụng/V tại/E nhiều/A quốc_gia/N trên/E thế_giới/N như/C Robot/Np giao/V hàng/N máy_bay/N và/CC ô_tô/N không/R người/N lái/V các/L ứng_dụng/N hỗ_trợ/V người/N lái/V trong/E xe/N ô_tô/N trợ_lý/N ảo/A (/V Siri/Np Cortana/Np Google_Now/Np )/V …/N Các/L ứng_dụng/N này/P ngày_càng/X thông_minh/A hơn/R và/CC có/V khả_năng/N tự_động/A xử_lý/V tình_huống/N thay/V cho/E người/N sử_dụng/V  /EOS 
+Theo/E dự_báo/V của/E Gartner/Np lĩnh_vực/N này/P sẽ/R có/V nhiều/A tiến_bộ/N hơn_nữa/C trong/E thời_gian/N tới/V 
+Theo/E Mc_Kinsey/Np xe/N ô_tô/N có/V kết_nối/V và/CC ứng_dụng/V thông_minh/A sẽ/R tăng_trưởng/V trung_bình/A 30%/M trong/E các/L năm/N tới/V và/CC sẽ/R chiếm/V 25%/M tổng/N số_lượng/N xe/N trên/E toàn/N thế_giới/N vào/E năm/N 2020/M  /EOS 
+Theo/E ban/N tổ_chức/V Cuộc/N đua/V số/N của/E năm/N tiếp_theo/V các/L đội/N tham_dự/V sẽ/R phải/V lập_trình/V cho/E xe/N tự_động/A di_chuyển/V ở/E điều_kiện/N môi_trường/N như/C thật/R và/CC phải/V nhận_dạng/V biển_báo/V tốc_độ/N cấm/V rẽ/V …/A và/CC không/R có/V vạch/N kẻ/V đường/N 
+Clip/Np vòng/V đua/V kịch_tính/A giữa/E  /N MTA/Np Racer/Np Học_viện/N Kỹ_thuật/N Quân_sự/N và/CC  /N CDIO/Np Đại_học/N Bách_Khoa/Np TPHCM/Np 
+ 

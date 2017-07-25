@@ -1,0 +1,3 @@
+Hà_Nội/Np công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M THPT/Np chuyên/A 
+Chiều/N 25.6/M Sở/N GDĐT/Np Hà_Nội/Np công_bố/V điểm_chuẩn/N trúng_tuyển/V vào/E lớp/N 10/M THPT/Np chuyên/A năm_học/N 2017/M 2018/M 
+ 

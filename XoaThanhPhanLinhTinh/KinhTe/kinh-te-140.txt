@@ -1,0 +1,11 @@
+Sửa/V nhà_ga/N T1/Np từ/E 11.7/M sân_bay/N Nội_Bài/Np khuyến_cáo/N khách/N đi/V sớm/A 
+Từ/E ngày/N 11.7/M sân_bay/N Nội_Bài/Np sẽ/R tiến_hành/V thi_công/V sửa_chữa/V cải_tạo/V nâng_cấp/V nhà_ga/N hành_khách/N T1/M 
+Việc/N nâng_cấp/V nhà_ga/N này/P nằm/V trong/E kế_hoạch/N nâng/V cao/A chất_lượng/N phục_vụ/V hành_khách/N và/CC nâng/V công_suất/N khai_thác/V của/E nhà_ga/N hành_khách/N T1/Np đáp_ứng/V phục_vụ/V 15/M triệu/M hành_khách/N //X năm/N 
+Theo/E đại_diện/N của/E sân_bay/N Nội_Bài/Np thời_gian/N thi_công/V sẽ/R kéo_dài/V trong/E vòng/N 8/M tháng/N từ/E tháng/N 7.2017/M 3.2018/M 
+Đại_diện/N này/P cho_biết/V trong/E thời_gian/N vừa/R sửa_chữa_vừa/V khai_thác/V nhà_ga/N khó/A tránh/V khỏi/V sự/Nc bất_tiện/A cho/E hành_khách/N và/CC các/L đơn_vị/N khai_thác/V tại/E nhà_ga/N 
+Do_vậy/C cơ_quan_chức_năng/N tại/E đây/P khuyến_cáo/N khách_hàng/N lưu_tâm/V đến/E thời_gian/N làm/V thủ_tục/N chuyến/N bay/V và/CC luồng/N di_chuyển/V theo/E hệ_thống/N biển_báo/N của/E nhà_ga/N 
+Các/L hãng/N hàng_không/N cũng/R lưu_ý/V khách_hàng/N nên/C đến/V sớm/A hơn/R thời_gian/N quy_định/N để/E đảm_bảo/V hoàn_tất/V thủ_tục/N đúng/A giờ/N 
+Nhà_ga/N hành_khách/N T1/Np đã/R được/V khánh_thành/V và/CC đưa/V vào/R khai_thác/V từ/E năm/N 2001/M với/E công_suất/N thiết_kế/V ban_đầu/N 6/M triệu/M hành_khách/N //X năm/N 
+Sau/E nhiều/A năm/N khai_thác/V quá_tải/A đã/R được/V mở_rộng/V và/CC khánh_thành/V sảnh/N E/Np vào/E năm/N 2013/M nâng/V công_suất/N lên/R 9/M triệu/M hành_khách/N //X năm/N 
+Đến/E năm/N 2017/M Cảng/Np HKQT/Np Nội_Bài/Np tiếp_tục/V cải_tạo/V sửa_chữa/V để/E tăng/V hiệu_quả/N khai_thác/V và/CC nâng/V công_suất/N phục_vụ/V lên/R tới/T 15/M triệu/M hành_khách/N //X năm/N 
+ 

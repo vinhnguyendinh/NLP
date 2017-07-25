@@ -1,0 +1,4 @@
+Container/N chứa/V đầy/A hàng/N cấm/V nhập_khẩu/V bị/V bắt_giữ/V ở/E cảng/N Sài_Gòn/Np 
+Hôm_nay/N (/V 5.7/M )/N Chi_cục/N Hải_quan/Np cửa_khẩu/N cảng/N Sài_Gòn/Np KV1/Np phối_hợp/V với/E các/L đơn_vị/N có/V liên_quan/V đã/R tiến_hành/V khám_xét/V một/M container/N khả_nghi/A phát_hiện/V bên/N trong/E container/N này/P có/V chứa/V hơn/A 200/M máy_điều_hòa/N 225/M nồi_cơm_điện/N 133/M máy/N xử_lý/V không_khí/N loa_thùng/N tủ_lạnh/N máy/N quạt/N …/V Tất_cả/P các/L mặt_hàng/N trên/A đều/R đã/R qua/V sử_dụng/V và/CC thuộc/V danh_mục/N cấm/V nhập_khẩu/V vào/E Việt_Nam/Np 
+Lô/N hàng/N này/P được/V 1/M Cty/N có/V trụ_sở/N tại/E Bình_Dương/Np nhập/V về/R khai_báo/V là/V vải/N vụn/A để/E qua_mặt/V cơ_quan_chức_năng/N 
+ 

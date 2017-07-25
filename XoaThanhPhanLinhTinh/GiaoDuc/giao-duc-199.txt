@@ -1,0 +1,20 @@
+Chuyên_gia/N chỉ/R nguyên_nhân/N thất_bại/V về/E phân_luồng/N sau/E THCS/Np 
+Góp_ý/V Dự_thảo/N Chương_trình/N giáo_dục_phổ_thông/X tổng_thể/A (/M GDPTTT/Np )/M hai/M nhà_nghiên_cứu/N Hồ_Sỹ_Anh/Np và/CC Nguyễn_Thị_Thu_Ba/Np (/V Viện_Nghiên/Np cứu/V Giáo_dục/N –/N Trường/N ĐH/Np Sư_phạm/N TPHCM/Np )/V đã/R đưa/V ra/R nhận_định/N một/M trong/E những/L nguyên_nhân/N dẫn/V đến/E thất_bại/V về/E phân_luồng/N sau/E THCS/Np là/V chương_trình/N giáo_dục/V THCS/Np chưa/R tạo/V điều_kiện/N cho/E học_sinh/N khám_phá/V bản_thân/N 
+Cần/V thêm/V hoạt_động/N hướng_nghiệp/A ở/E cấp/N THCS/Np Đánh_giá/V Dự_thảo/N lần/N này/P có/V nhiều/A điểm/N tiến_bộ/V so/V với/E các/L lần/N công_bố/V trước/A tuy_nhiên/C hai/M giảng_viên/N cũng/R đưa/V ra/R một_số/L vấn_đề/N cần/V lưu_ý/V 
+Trong/E chương_trình/N GDPTTT/Np mới/R ở/E giai_đoạn/N cơ_bản/A tập_trung/V vào/E việc/N giảng_dạy/V và/CC học_tập/V tích_hợp/A bắt_buộc/V và/CC giống/V nhau/N đối_với/E mọi/L học_sinh/N 
+Sự/N phân_hóa/V được/V thực_hiện/V ở/E các/L môn/N bắt_buộc/V có/V phân_hóa/V gồm/V Tin_học/N Công_nghệ/N và/CC Hướng_nghiệp/N Giáo_dục/N thể_chất/N Nghệ_thuật/N Hoạt_động/V trải_nghiệm/V sáng_tạo/N và/CC thông_qua/V môn/N tự/P chọn/V Tiếng/N dân_tộc_thiểu_số/N Ngoại_ngữ/N 2/M 
+Khả_năng/N và/CC sở_thích/N của/E học_sinh/N thường/R bắt_đầu/V xuất_hiện/V ở/E lứa/N tuổi/N 12/M và/CC 13/M tức_là/V vào/E lớp/N 8/M và/CC lớp/N 9/M 
+Vì_vậy/C chương_trình/N giáo_dục/V và/CC nhà_trường/N phải/V làm_sao/X để/E phát_hiện/V sự/Nc khác_biệt/A nơi/N học_sinh/N 
+Học_sinh/N cũng/R tự/P mình/P có_thể/R khám_phá/V năng_lực/N và/CC sở_thích/N để/E đến/E khi/N tốt_nghiệp/V THCS/Np có_thể/R xác_định/V được/R hướng/N đi/V tiếp/V của/E mình/P là/V học/V lên/R THPT/Np hay/C rẽ/V sang/E trung_cấp/N nghề/N ./. 
+Qua/E các/L lĩnh_vực/N công_nghệ/N như/C trên/N kết_hợp/V với/E hướng_nghiệp/N sẽ/R giúp/V học_sinh/N xác_định/V được/R năng_lực/N và/CC sở_thích/N của/E mình/P 
+Bên_cạnh/N đó/P cần/V phải/V có/V các/L hoạt_động/N hướng_dẫn/V học_sinh/N hoặc/CC làm/V các/L trắc_nghiệm/N hướng_nghiệp/V vào/E cuối/N lớp/N 9/M đồng_thời/R phải/V tăng/V hoạt_động/V thực_tế/N về/E hướng_nghiệp/N 
+Một/M trong/E những/L nguyên_nhân/N dẫn/V đến/E thất_bại/V về/E phân_luồng/N sau/E THCS/Np là/V chương_trình/N giáo_dục/V THCS/Np chưa/R tạo/V điều_kiện/N cho/E học_sinh/N khám_phá/V bản_thân/N 
+Đề_xuất/N xây_dựng/V môn/N cơ_bản/A và/CC nâng/V cao/A Dự_thảo/N lần/N này/P đề_xuất/V 3/M môn_học/N bắt_buộc/V xuyên/V suốt/A từ/E lớp/N 1/M đến/E lớp/N 12/M gồm/V Toán/Np Ngữ_văn/N và/CC Ngoại_ngữ/N 1/M 
+Phải/V khẳng_định/V rằng/C Toán/Np Ngữ_văn/N và/CC Ngoại_ngữ/N là/V 3/M công_cụ/N quan_trọng/A giúp/V học_sinh/N học_tập/V các/L môn/N khác/A và/CC vận_dụng/V vào/E cuộc_sống/N rất/R nhiều/A 
+Tuy_nhiên/C nếu/C quy_định/N tất_cả/P học_sinh/N phải/V học/V như/C nhau/N đối_với/E 3/M môn/N này/P là/V bất_hợp_lý/N và/CC trái/N với/E quy_luật/N phân_hóa/V và/CC gây/V ra/R sự/Nc quá_tải/A đối_với/E học_sinh/N 
+Bởi_vì/E nhu_cầu/N học/V toán/N học/V văn/N hay/C ngoại_ngữ/N là/V khác_nhau/A đối_với/E từng/P người/N 
+Một/M học_sinh/N có/V năng/R kiếu/V về/E văn_học/N nghệ_thuật/N không/R nhất_thiết/V phải/V học/V hình_học_không_gian/X hay/C toán_học/N cao_cấp/A thay/V vào/E đó/P là/V học/V các/L nội_dung/N nâng/V cao/A về/E văn_học/N hay/C nghệ_thuật/N 
+Ngược_lại/X một/M học_sinh/N có/V năng_khiếu/N về/E toán/N thì/C họ/P mong_muốn/V có/V chương_trình/N toán/N nâng/V cao/A 
+Vì_vậy/C 3/M môn/N bắt_buộc/V ở/E THPT/Np gọi_là/X Toán/Np cơ_bản/A Ngữ_văn/N cơ_bản/A và/CC Ngoại_ngữ/N 1/M cơ_bản/A đồng_thời/R có/V thêm/V 3/M môn/N Toán/Np nâng/V cao/A Ngữ_văn/N nâng/V cao/A và/CC Ngoại_ngữ/N 1/M nâng/V cao/A vào/E nhóm/N các/L môn/N tự/P chọn/V ./. 
+Nói/V cách/N khác/A cần/V bổ_sung/V nhiều/A chuyên_đề/N học_tập/V hay/C một_số/L môn/N vào/E nhóm/N môn/N tự/P chọn/V chứ/C không_chỉ/R có/V 2/M môn/N Tiếng/N dân_tộc/N và/CC Ngoại_ngữ/N 2/M như/C dự_thảo/N 
+ 

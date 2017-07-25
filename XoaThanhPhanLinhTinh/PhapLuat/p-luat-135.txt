@@ -1,0 +1,16 @@
+Vụ/N người_nhà/N bệnh_nhân/N đâm/V bảo_vệ/V bệnh_viện/N Nạn_nhân/N đã/R tử_vong/V 
+Mặc_dù/C được/V cấp_cứu/V kịp_thời/A sau/E khi/N bị/V người_nhà/N bệnh_nhân/N đâm/V tuy_nhiên/C nạn_nhân/N H/Np 
+-/- bảo_vệ/V Bệnh_viện/N Sản/Np –/M Nhi_Nghệ_An/Np đã/R không/R qua/V khỏi/R 
+Ngày/N 1.7/M thông_tin/N từ/E Bệnh_viện/N Đa_khoa/Np tỉnh/N Nghệ_An/Np cho_biết/V nạn_nhân/N L/Np M/Np H/Np (/M 1958/M )/N trú/V tại/E huyện/N Qùy_Hợp/Np đã/R không/R qua/V khỏi/R sau/E một/M ngày/N cấp_cứu/V tại/E bệnh_viện/N 
+Trước/E đó/P vào/E sáng/N 30.6/M đối_tượng/N Nguyễn_Ngọc_Thái/Np (/V SN/Np 1976/M )/Nu trú/V tại/E xóm/N 3/M xã/N Nam_Cường/Np huyện/N Nam_Đàn/Np đã/R dùng/V dao/N đâm/V vào/E vùng/N ngực/N và/CC cổ/N nạn_nhân/N H/Np 
+trước/E Bệnh_viện/N Sản_Nhi_Nghệ_An/Np 
+Ngay/T sau/E đó/P tổ/N bảo_vệ/V và/CC người_dân/N đã/R đưa/V nạn_nhân/N H/Np 
+vào/E cấp_cứu/V tại/E bệnh_viện/N trên/E 
+Hơn/A 40/M người/N gồm/V các/L bác_sĩ/N y_tá/N sinh_viên/N thực_tập/V đã/R tập_trung/V hiến/V máu/N cứu/V nạn_nhân/N 
+Do/E vết_thương/N quá/R nặng/A nạn_nhân/N H/Np 
+được/R chuyển/V sang/V Bệnh_viện/N Đa_khoa/N Nghệ_An/N cấp_cứu/V 
+Sau/E một/M ngày/N cấp_cứu/V nạn_nhân/N H/Np 
+đã/R không/R qua/V khỏi/R và/CC đã/R được/V người_nhà/N đưa/V về/V nhà/N 
+Được/V biết/V nạn_nhân/N là/V nhân_viên/N của/E Cty/N TNHH/Np dịch_vụ/N bảo_vệ/V vệ_sĩ/N Bảo_An_Nghệ_An/Np có/V nhiệm_vụ/N bảo_vệ/V ở/E Bệnh_viện/N sản/N nhi/V Nghệ_An/N 
+Hiện_Công/Np an/M tỉnh/N Nghệ_An/Np cũng/R đã/R ra/V quyết_định/V khởi_tố/V vụ_án/N khởi_tố/V bị_can/N bắt/V tạm/A giam/V đối_tượng/N Nguyễn_Ngọc_Thái/Np để/E điều_tra/V tội/N “/V Giết/V người/N ”/A 
+ 

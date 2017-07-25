@@ -1,0 +1,15 @@
+Suýt/R mất_mạng/V vì/E biến_chứng/N hóc/V xương_cá/N 
+Ngày/N 13.6/M Bệnh_viện/N Tai_Mũi_Họng/Np TPHCM/Np thông_tin/N vê/V ̀/N mô/P ̣/V t/A trường_hợp/N biê/V ́/M n/N chứng/V hiê/N ́/M m/Nu gặp/V sau/E khi/N hóc/V xương_cá/N 
+BS/Np Nguyễn_Quang_Tú/Np Trưởng/Np ca/V trực/V cấp_cứu/V ngày/N 7.6/M cho_biết/V anh/N M/Np H/Np D/Np (/M 41/M tuổi/N ở/E quận/N 7/M )/Nu được/V đưa/V vào/R cấp_cứu/V trong/E tình_trạng/N tím_tái/A ngưng/V thở/V mạch/N huyết_áp/N bằng/E 0/M tiểu_tiện/V không/R tự_chủ/V 
+Người_nhà/N bệnh_nhân/N cho_biết/V trước/E đó/P 20/M ngày/N bệnh_nhân/N ăn/V cơm/N với/E cá/N thấy/V vướng/V trong/E họng/N nghĩ/V là/V hóc/N xương/N thông_thường/A nên/C không/R đi/V khám/V 
+Một/M ngày_trước/N khi/N nhập_viện/V bệnh_nhân/N thấy/V cổ_họng/N vướng/V đau/V ho/V khạc/V nhiều/A 
+Hôm_sau/N anh/Nc D/Np đi/V bán/V hàng/N như/C bình_thường/A nhưng/C thấy/V mệt/A khó/A thở/V nên/C nhờ/V người/N chở/V đến/V bệnh_viện/N 
+Trên/E đường/N đi/V bệnh_nhân/N tím_tái/A dần/R ngưng/V thở/V ngay/T tại/E nơi/N đăng_ký/V khám/V 
+Sau/E đó/P các/L bác_sĩ/N khẩn_trương/V đặt/V nội/N khí_quản/N nội_soi/N phát_hiện/V thanh/N thiệt/A (/A còn/R gọi_là/X nắp/N khí_quản/N )/A của/E bệnh_nhân/N bị/V phù_nề/A bít/V hết/V đường/N thở/V 
+Qua/E chụp/V X-Quang/Np cũng/R cho/V thấy/V toàn_bộ/L vùng/N cổ/N bị/V phù_nề/A chẩn_đoán/V bệnh_nhân/N bị/V viêm/V thanh/N thiệt/A cấp/V phù_nề/A nhiễm_trùng/A và/CC nhiễm_độc/A rất/R cao/A 
+Các/L bác_sĩ/N tiếp_tục/V thiết_lập/V đường/N truyền/V và/CC xét_nghiệm/V máu/N chích/V thuốc/N trợ_tim/V và/CC mở/V khí_quản/N cứu/V sống/V bệnh_nhân/N 
+ThS.BSCKII/Np Võ_Quang_Phúc/Np Phó_Giám/Np đốc/V chuyên_môn/N của/E Bệnh_viện/N Tai_Mũi_Họng/Np cho_biết/V nếu/C trễ/A 5/M phút/Nu anh/Nc D/Np có_thể/R chết_não/V ngưng/V hô_hấp/N ngưng/V tim/N suy/V hô_hấp/N và/CC có_thể/R tử_vong/V 
+BS/Np Phúc/Np cho_biết/V có/V nhiều/A nguyên_nhân/N dẫn/V đến/E viêm/N thanh/N thiệt/A như/C cảm/V cúm/N hóc/N xương/N thường/R xảy_ra/V ở/E trẻ/N nhỏ/A vào/E thời_điểm/N giao/V mùa/N 
+Triệu_chứng/N ban_đầu/N của/E bệnh/N là/V đau/V họng/N dữ_dội/A khàn/V tiếng/N thay_đổi/V giọng/N nói/V đột_ngột/A khó/A thở/V 
+Y/N văn/N thế_giới/N đã/R ghi_nhận/V từ/E khi/N khởi_phát/V viêm/N thanh/N thiệt/A cấp/V đến/E khi/N nguy_kịch/A tử_vong/A chỉ/R trong/E khoảng/N 30/M phút/Nu vì_thế/C khi/N thấy/V có/V các/L triệu_chứng/N trên/A bệnh_nhân/N nên/C khi/N khám/V càng/R sớm/A càng/R tốt/A 
+ 

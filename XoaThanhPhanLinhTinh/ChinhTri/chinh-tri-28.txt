@@ -1,0 +1,3 @@
+Việt_Nam/Np Hà_Lan/Np xác_định/V 5/M lĩnh_vực/N hợp_tác/V ưu_tiên/A 
+Chiều_tối/N 8.7/M theo/E giờ_địa_phương/N (/M đêm/N 8.7/M theo/E giờ/N Việt_Nam/Np )/M Thủ_tướng/N Nguyễn_Xuân_Phúc/Np và/CC Phu_nhân/N cùng/A đoàn/N đại_biểu/N cấp/V cao/A Việt_Nam/Np đã/R đến/V thủ_đô/N Amsterdam/Np bắt_đầu/V chuyến/V thăm/V Hà_Lan/Np theo/E lời/N mời/V của/E Thủ_tướng/N Vương_quốc/Np Hà_Lan_Mark_Rutte/Np 
+ 

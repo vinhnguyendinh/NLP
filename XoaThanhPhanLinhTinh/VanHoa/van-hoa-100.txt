@@ -1,0 +1,4 @@
+Giang_Hồng_Ngọc/Np chờ_đợi/V 10/M năm/N mới/R “/V dám/V ”/V cover/N ca_khúc/V yêu_thích/V 
+Giang_Hồng_Ngọc/Np yêu_thích/V "/" Bài/N không/R tên/N cuối_cùng/A "/" của/E nhạc_sĩ/N Vũ_Thành_An/Np từ/E tuổi/N 18/M nhưng/C đến/E nay/P giọng/N ca/N 28/M tuổi/N mới/R dám/V hát/V vì/E đây/P là/V một/M ca_khúc/N đầy/A sức/N nặng/A 
+Xem_Giang_Hồng_Ngọc/X hát/V "/" Bài/N không/R tên/N cuối_cùng/A "/" 
+ 

@@ -1,0 +1,5 @@
+Câu_chuyện/N quản_lý/V “/M Phanh/Np ”/M hỏa_tốc/N ./. 
+bị/V lờn/V 
+Các/L tường_thuật/N về/E cuộc/N đối_thoại/V giữa/E doanh_nghiệp/N taxi/N truyền_thống/A với/E Grab/Np Uber/Np tại/E Bộ/N GTVT/Np ngày/N 28.6/M cho/V rằng/C đã/R trở_thành/V cuộc/N tranh_cãi/V nảy_lửa/A của/E hai/M phía/N lợi_ích/N 
+Bộ/N GTVT/Np đứng/V ở/E giữa/N đang/R phải/V xem_xét/V thế_nào/X để/E hài_hòa/V các/L bên/N và/CC lợi_ích/N người/N tiêu_dùng/V 
+ 

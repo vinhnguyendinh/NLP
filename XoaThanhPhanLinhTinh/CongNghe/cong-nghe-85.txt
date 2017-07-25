@@ -1,0 +1,10 @@
+Bản/N tin/N nóng/A công_nghệ/N Đăng_ký/V thuê_bao/N phải/V chụp/V ảnh/N fan/V Samsung/Np sẽ/R thất_vọng/V vì/E Note/Np 8/M ./. 
+Khả_năng/N lớn/A nhà_sản_xuất/N di_động/V Hàn_Quốc/Np không/R kịp/A khắc_phục/V lỗi/N trước/E khi/N ra_mắt/V Galaxy_Note/Np 8/M Người/N dùng/V đăng_ký/V thuê_bao/N ngoài/E CMND/Np sẽ/R phải/V chụp/V ảnh/N để/E nhà/N mạng/N lưu/V ./. 
+là/C những/L tin/N chính/A trong/E bản/N tin/V công_nghệ/N 
+Trang/N i/N Fixit/Np nổi_tiếng/A vừa/R công_bố/V thông_tin/N khá/R bất_ngờ/A đó/P là/V bộ/N đôi/M máy_tính/N Surface/Np mới/R ra_mắt/V của/E Microsoft/Np là/V Surface_Pro/Np và/CC Surface_Laptop/Np rất/R khó/A sửa_chữa/V nếu/C bị/V hỏng/V 
+Với_Surface_Laptop/Np iFixit/Np cho/E điểm/N là/V 0/M vì/E khi/N sửa_chữa/V phải/V cắt/V bàn_phím/N của/E thiết_bị/N vốn/N được/V bao_phủ/V bởi/E chất_liệu/N Alcantara_Signature/Np 
+Còn/C các/L thành_phần/N như/C CPU/Np và/CC RAM/Np được/V hàn/V vào/E bo_mạch_chủ/N do_đó/C việc/N thay_thế/V là/V không_thể/R 
+iFixit/N khuyến_cáo/N rất/R khó/A để/E can_thiệp/V vào/E trong/E máy/N mà/C không/R làm/V hư_hỏng/A sản_phẩm/N 
+Với_Surface_Pro/Np có/V thiết_kế/N tương_tự/A như/C Surface_Pro/Np 4/M khi/N sửa/V cần/V lấy/V màn_hình/N ra/V ngoài/N mới/R có_thể/A can_thiệp/V vào/E các/L thành_phần/N bên/N trong/E 
+Tuy_nhiên/C việc/N này/P cũng/R không/R dễ/A bởi/E các/L cấu_kiện/N được/V gắn/V keo/N khá/R chắc_chắn/A 
+ 

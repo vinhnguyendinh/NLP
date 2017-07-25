@@ -1,0 +1,8 @@
+7/M giao_diện/N màn_hình/N có_thể/A xuất_hiện/V chính_xác/A trên/E i/N Phone/Np 8/M 
+Những/L mẫu/N thiết_kế/V của/E Benjamin_Geskin/Np mô_tả/V chi_tiết/N giao_diện/V màn_hình/N có_thể/R xuất_hiện/V trên/E i/N Phone/Np 8/M 
+Theo/E đó/P nút/N Home/Np cảm_ứng/V trên/E i/N Phone/Np 8/M sẽ/R biến_mất/V thay/V vào/E đó/P là/V khu_vực/N chức_năng/N 
+Khu_vực/N này/P được/V bố_trí/V nút/N Home/Np ảo/A (/V có/V cảm_biến/N vân/N tay/N )/V điều_khiển/V ứng_dụng/N nghe/V nhạc/N và/CC video/N giống/A như/C Touch_Bar/Np trên/E MacBook/Np Pro/Np 
+Trong/E khi/N đó/P những/L thông_tin/N rò_rỉ/V gần/A đây/P cho/V thấy/V i/N Phone/Np 8/M sẽ/R có/V màn_hình/N 5,8/M inch/N 
+Tuy_nhiên/C nhà/N dự_đoán/N Ming-Chi/Np Kuo/Np người/N có/V nhiều/A thành_tích/N ấn_tượng/N trong/E việc/N dự_đoán/N chính_xác/A các/L tính_năng/N trên/E các/L thiết_bị/N sắp/R ra_mắt/V cho/V rằng/C chỉ/R có/V i/N Phone/Np 8/M màn_hình/N 5,15/M inch/N tương_tự/A như/C những/L dòng/N i/A Phone/V trước/E đó/P và/CC phần/N còn/V lại/R là/V khu_vực/N chức_năng/N (/M phía/N dưới/N màn_hình/N )/M 
+Dưới/E đây/P là/V một_số/L mẫu/N thiết_kế/V của/E Benjamin_Geskin/Np 
+ 

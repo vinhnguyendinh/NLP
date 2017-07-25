@@ -1,0 +1,6 @@
+Công_nghệ/N 360/M Ra_mắt/V mẫu/N xe/N tự/P lái/V NEVS/Np InMotion/Np kết_hợp/V ./. 
+văn_phòng/N làm_việc/V 
+Nokia/Np chính_thức/A ra_mắt/V loạt/N Smartphone_Android/Np mới/R tại/E Việt_Nam/Np Xe/N tự/P lái/V NEVS/Np InMotion/Np kết_hợp/V ./. 
+văn_phòng/N làm_việc/V Facebook/Np đã/R bắt_đầu/V cho_phép/V "/" thả/V cầu_vồng/N "/" Nền_tảng/N học/V máy/N Core/Np ML/Np của/E Apple/Np nhận_diện/V máy/N Mac_Pro/Np cũ/A là/V lò_sưởi/N Trí_tuệ_nhân_tạo/N của/E Amazon/Np đã/R có_thể/R nhận_diện/V được/R người/N nổi_tiếng/A ./. 
+là/C những/L tin/N chính/A có/V trong/E bản/N tin/V công_nghệ/N 360/M ngày/N hôm_nay/N 
+ 

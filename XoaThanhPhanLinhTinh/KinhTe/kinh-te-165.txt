@@ -1,0 +1,5 @@
+Khu/N biệt_thự/N kiểu_mẫu/N bị/V phá/V vỡ/V ./. 
+quy_hoạch/V mẫu/N 
+Được/V quyết_định/V xây_dựng/V để/E trở_thành/V khu/N biệt_thự/N kiểu_mẫu/N đầu_tiên/A của/E thành_phố/N UBND_TP/Np Hải_Phòng/Np đã/R giao/V chủ/N đầu_tư/V xây_dựng/V một/M loạt/Nc biệt_thự/N mẫu/N tại/E lô/N 18/M đường/N Lê_Hồng_Phong/Np (/V quận/N Hải_An/Np )/V với/E mong_muốn/V mang/V lại/R diện_mạo/N mới/R cho/V thành_phố/N 
+Tuy_nhiên/C do/E công_tác/N quản_lý/V quy_hoạch/V và/CC trật_tự/N xây_dựng/V bị/V buông_lỏng/V nên/C các/L hộ/N dân/N sau/E khi/N mua/V đã/R tự_ý/A sửa_chữa/V cơi_nới/V xây/V thêm/V phòng/N dẫn/V đến/E việc/N phá/V vỡ/V quy_hoạch/V được/R duyệt/V các/L biệt_thự/N lô_nhô/A …/V phá/V vỡ/V khu/N nhà/N kiểu_mẫu/A 
+ 

@@ -1,0 +1,17 @@
+Người_dân/N kiến_nghị/V Thủ_tướng/N can_thiệp/V giải_quyết/V hậu_quả/N liên_quan/V thủy_điện/N An_Khê/Np Ka_Nak/Np 
+Kỳ/N họp/V thứ/N 3/M khóa/N XI_HĐND/Np tỉnh/N Gia_Lai/Np diễn/V ra/R ngày/N 10.7/M nổi_bật/A là/V việc/N người_dân/N đề_nghị/V UBND/Np tỉnh/N Gia_Lai/Np kiến_nghị/V Thủ_tướng/N Chính_phủ/N giải_quyết/V hậu_quả/N liên_quan/V đến/E thủy_điện/N An_Khê/Np Ka_Nak/Np 
+Người_dân/N TX.An/Np Khê/Np (/M Gia_Lai/Np )/A nói/V rằng/C việc/N ngăn/V đập/V bẻ/V hướng/N dòng/N nước/N sông/N Ba/Np về/E Bình_Định/Np thay_vì/V qua/V Gia_Lai/Np đổ/V về/E Phú_Yên/Np đã/R để/V lại/R nhiều/A di_họa/N nặng_nề/A cho/E người_dân/N Gia_Lai/Np 
+Đó/P là/V nguồn/N nước/N cạn_kiệt/V ô_nhiễm/V môi_trường/N đất_đai/N bạc_màu/A các/L nhà_máy/N thiếu/V nước/N vận_hành/V nền/N văn_minh/N sông_nước/N sông/N Ba/Np xóa_sổ/V ./. 
+Để/E khắc_phục/V một/M phần/N nguồn/N nước/N cử_tri/N đề_nghị/V tỉnh/N Gia_Lai/Np sớm/A có/V ý_kiến/N với/E Thủ_tướng/N Chính_phủ/N điều_chỉnh/V việc/N ban_hành/V quy_định/N vận_hành/V liên/X hồ/N chứa/V trên/E lưu_vực/N sông/N Ba/Np 
+Bởi/C dù/C mùa/N mưa/V nhưng/C sông/N Ba/Np vẫn/R thiếu/V nước/N nước/N sau/E đập/N đỏ_ngầu/A do_đó/C nhà_máy/N nước/N An_Khê/Np không_thể/R cung_cấp/V nước/N cho/E hàng/R ngàn/M hộ/N dân/N trên/E địa_bàn/N 
+Phó_Chủ/Np tịch/V tỉnh/N Gia_Lai_Nguyễn_Đức_Hoàng/Np ký/V báo_cáo/V số/N 77/M báo_cáo/V kết_quả/N giải_quyết/V kiến_nghị/V cử_tri/N nêu/V rõ/A :/: Tỉnh/N Gia_Lai/Np đã/R có/V văn_bản/N kiến_nghị/V và/CC được/V Thủ_tướng/N ban_hành/V quyết_định/N sửa_đổi/V bổ_sung/V 
+Theo/E đó/P quy_định/N rằng/C khi_không/N tham_gia/V vận_hành/V giảm/V lũ/N cho/E vùng/N hạ_du/N hồ_thủy/N điện/N An_Khê/Np phải/V xả/V nước/N liên_tục/A về/E hạ_du/N không/R nhỏ/A hơn/R 4m3/M //X s/V 
+Trường_hợp/N có/V yêu_cầu/N của/E UBND/Np tỉnh/N Gia_Lai/Np thì_phải/V xả/V lũ/N theo/V yêu_cầu/V 
+Định_kỳ/N 1/M tháng/N 1/M lần/N vận_hành/V xả/V lũ/N qua/E đập/N An_Khê/Np về/E hạ_du/N sông/N Ba/Np trong/E thời_gian/N từ/E 4/M giờ/Nu đến/E 6/M giờ/Nu liên_tục/A với/E lưu_lượng/N từ/E 20m3/M //X s/V đến/E 30m3/M //X s/V 
+Thực_tế/N từ/E năm/N 2017/M hồ_thủy/N điện/N An_Khê/Np liên_tục/A xả/V nước/N qua/V đập/V về/E hạ_du/N sông/N Ba/Np với/E lưu_lượng/N 5-8m3/M //X s/N và/CC định_kỳ/N vào/E ngày/N 1/M hàng/N tháng/N xả/V 30m3/M //X s/V trong/E 5/M giờ/Nu liên_tục/A 
+Tỉnh/N Gia_Lai/Np cũng/R cam_kết/V Thủ_tướng/N Chính_phủ/N đã/R giao/V Viện_Địa/Np lý/N –/M Viện_Hàn/Np lâm/V khoa_học/N và/CC Công_nghệ/N Việt_Nam/Np triển_khai/V dự_án/N “/V Điều_tra/V đánh_giá/V ảnh_hưởng/N của/E thủy_điện/N An_Khê/Np –/M KaNak/Np đến/E tài_nguyên/N nước/N vùng/N hạ_lưu/N lưu_vực/V sông/N Ba/N ”/M 
+Sau/E điều_tra/V khảo_sát/V sẽ/R có/V đề_xuất/V với/E Thủ_tướng/N Chính_phủ/N can_thiệp/V tiếp/V 
+Dù/C tỉnh/N Gia_Lai/Np nỗ_lực/V xử_lý/V nhưng/C nguồn/N nước/N được/V trả/V về/E vẫn/R chưa/R được/V người_dân/N hài_lòng/V mô_tả/V là/V "/" ít_ỏi/A còn/R khan_hiếm/V "/" 
+Theo/E HĐND/Np tỉnh/N Gia_Lai/Np mặc_dù/C UBND/Np tỉnh/N đã/R rất/R cố_gắng/V trong/E việc/N kiến_nghị/V đề_xuất/V với/E Thủ_tướng/N Chính_phủ/N 
+Tuy_vậy/C qua/V khảo_sát/V cho/E thấy/V việc/N thực_hiện/V cam_kết/V giữa/E Ban/N quản_lý/V Thủy_điện/N 7/M (/Nu Tập_đoàn/N điện_lực/N Việt_Nam/Np )/V trong/E việc/N xây_dựng/V các/L hạng_mục/N công_trình/N đi/V kèm/V dự_án/N Thủy_điện/N An_Khê/Np –/M KaNak/Np là/V chưa/R nghiêm_túc/A 
+ 

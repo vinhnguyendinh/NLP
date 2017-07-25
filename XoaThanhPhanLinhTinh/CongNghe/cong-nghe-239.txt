@@ -1,0 +1,12 @@
+Khai_mạc/V Vòng/N chung_kết/N Cuộc_thi/N Sáng_tạo/V Robot_Việt_Nam/Np năm/N 2017/M 
+Tối/N 9.5/M tại/E Ninh_Bình/Np Đài_Truyền/Np hình/N Việt_Nam/Np phối_hợp/V với/E UBND/Np tỉnh/N Ninh_Bình/Np tổ_chức/V khai_mạc/V Vòng/N chung_kết/N Cuộc_thi/N Sáng_tạo/V Robot_Việt_Nam/Np năm/N 2017/M (/N Robocon/Np 2017/M )/N 
+Đây/P là/V năm/N thứ/N 2/M liên_tiếp/A cuộc_thi/N Sáng_tạo/V Robocon/Np được/V tổ_chức/V tại/E Ninh_Bình/Np 
+Cuộc_thi/N có/V tên/N gọi_là/X “/V Chinh_phục/V đĩa_bay/N ”/V dựa/V trên/E một/M trò_chơi/N dân_gian/N của/E Nhật_Bản/Np –/V nước/N chủ/N nhà/N đăng_cai/V tổ_chức/V cuộc_thi/N Robocon/Np  /V Châu/Np Á/Np –/M Thái_Bình_Dương/Np năm/N 2017/M 
+Vượt/V qua/E vòng_loại/N 32/M đội_tuyển/N xuất_sắc/A nhất/R đến/V từ/E 10/M trường/N Đại_học/N Cao_đẳng/N và/CC Trung_học_chuyên_nghiệp/N trong/E cả/P nước/N sẽ/R tranh/V tài/N để/E chọn/V ra/R đội/N vô_địch/A đại_diện/N cho/E Việt_Nam/Np tham_gia/V Cuộc_thi/N Sáng_tạo/V Robocon_Châu/Np Á/Np –/M Thái_Bình_Dương/Np được/V tổ_chức/V vào/E tháng/N 8.2017/M 
+Chủ_đề/N của/E cuộc_thi/N năm/N nay/P hứa_hẹn/V sẽ/R có/V nhiều/A trận/N thi_đấu/V hấp_dẫn/V mang/V tính/N tương_tác/V cao/A 
+Sân/N thi_đấu/V sẽ/R có/V 7/M vị_trí/N đáp/V đĩa/N với/E các/L cột/N có/V độ/N cao/A khác_nhau/A mỗi/L vị_trí/N có/V một/M quả/Nc bóng/N đặt/V ở/E trên/E 
+Nhiệm_vụ/N của/E các/L Robot/Np là/V ném_đĩa/N chính_xác/A để/E làm/V rơi/V quả/Nc bóng/N sau/E đó/P ném/V các/L đĩa/N lên/V khu_vực/N đáp/V đĩa/N để/E ghi_điểm/V 
+Mỗi/L đội/N chơi/V sẽ/R có/V 7/M thành_viên/N trong/E đó/P 3/M thành_viên/N tham_gia/V thi_đấu/V trực_tiếp/A mỗi/M trận/N đấu/V sẽ/R kéo_dài/V trong/E 3/M phút/Nu 
+Đội/N vô_địch/N sẽ/R giành/V được/R giải_thưởng/N 50/M triệu/M đồng/Nu và/CC sẽ/R đại_diện/V cho/E Việt_Nam/Np tham_gia/V cuộc_thi/N quốc_tế/N tại/E Nhật_Bản/Np vào/E tháng/N 8.2017/M 
+Vòng/N chung_kết/N Robocon/Np năm/N 2017/M sẽ/R diễn/V ra/R từ/E ngày/N 9.5/M đến/E 14.5/M 
+ 

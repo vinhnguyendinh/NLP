@@ -1,0 +1,15 @@
+Giá/N vàng/N hôm_nay/N 8.7/M lao/V dốc/N xuyên/V thủng/V đáy/N 7/M tuần/N nhà_đầu_tư/N tháo_chạy/A 
+Giá/N vàng/N hôm_nay/N 8.7/M ngay/R từ/E đầu/N phiên/N đã/R giảm_giá/V 
+Vàng/Np đang/R hướng/V đến/E tuần/N mất_giá/V mạnh/A nhất/R trong/E hai/M tháng/N qua/V trong/E khi/N đó/P đồng/Nu USD/Nu mạnh/A lên/V và/CC lợi_suất/V trái_phiếu/N tăng/V 
+Giá/N kim_loại_quý/N là/V bạc/N cũng/R rớt/V thảm/N chạm/V mốc/N đấy/P của/E 15/M tháng/N 
+Mở_cửa/V phiên/N giao_dịch/V sáng/N nay/P (/V 8.7/M )/N Tập_đoàn/N DOJI/Np niêm_yết/V  /V giá/N vàng/N SJC /Np ở/E mức/N 36,12/M –/Nu 36,27/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E bán/V ra/R )/M giảm/V 20/M nghìn/N ở/E chiều/N bán/V ra/R và/CC tăng/V 50/M nghìn/N đồng/N ở/E chiều/N mua/V vào/R so/V với/E phiên/N giao_dịch/V sáng/N hôm_qua/N 
+Giá/N vàng/N SJC/Np tại/E Bảo_Tín_Minh_Châu/Np niêm_yết/V ở/E mức/N 36,13/M –/Nu 36,19/M triệu/M đồng/Nu //X lượng/N giảm/V 30/M nghìn/N đồng/N ở/E chiều/N mua/V và/CC giảm/V 20/M nghìn/M đồng/Nu ở/E chiều/N bán/V ra/R  /N so/V với/E cùng/A thời_điểm/N ngày/N hôm/N trước/A 
+Giá/N nhẫn/N tròn/A trơn/A Vàng/Np rồng/V Thăng_Long/Np đang/R ở/V mức/N 34,03/M –/Nu 34,48/M triệu/lượng/N giảm/V 100/M nghìn/M đồng/Nu ở/E cả/P hai/M chiều/N so/V với/E phiên/N ngày/N hôm_qua/N 
+Tại_Công/Np ty/V cổ_phần/N vàng_bạc/V đá_quý/N Phú_Nhuận/Np (/V PNJ/Np )/V giá/N  /V vàng/N miếng/Nc SJC /Np được/V niêm_yết/V ở/E 36,06/M –/N 36,25/M triệu/M đồng/Nu //X lượng/N  /N (/V mua/V vào/E –/N bán/V ra/R )/M giảm/V 40/M nghìn/M đồng/Nu ở/E chiều/N mua/V vào/R và/CC giữ/V nguyên/A ở/E chiều/N bán/V ra/R so/V với/E phiên/N giao_dịch/V ngày/N 7.7/M 
+Giá/N vàng/N thế_giới/N  /A hiện/N đang/R niêm_yết/V ở/E mức/N 1212,20/M –/Nu 1213,20/M USD/ounce/Np 
+Giá/N vàng/N  /A đang/R hướng/V đến/E tuần/N mất_giá/V mạnh/A nhất/R trong/E hai/M tháng/N qua/V trong/E bối_cảnh/N giới/N đầu_tư/V tìm_kiếm/V lợi_nhuận/N cao/A hơn/A từ/E đồng/N USD/Np mạnh/A và/CC lợi_suất/A trái_phiếu/A tăng/V 
+Theo/E các/L chuyên_gia/N các/L nhà_đầu_tư/N vẫn/R đang/R trông_chờ/V vào/E báo_cáo/N việc_làm/N phi/N nông_nghiệp/N của/E Mỹ/Np sắp/R được/V công_bố/V 
+Trên/E thị_trường/N kim_loại_quý/N khác/A giá/N bạc/N giao/V ngay/T đã/R có/V thời_điểm/N rơi/V xuống/R mức/N thấp/A nhất/A của/E 15/M tháng/N và/CC cuối/N phiên/N giảm/V 0,6%/M xuống/E 15,9/M USD/ounce/Np 
+Trên/E thị_trường/N ngoại_hối/N tỷ_giá/N trung_tâm/N do/E Ngân_hàng/N Nhà_nước/N công_bố/V sáng/N 8.7/M là/V 22.447/M VND/USD/Np giữ/V nguyên/A so/V với/E phiên/N trước/E đó/P 
+Tỷ_giá/N USD/Np Vietcombank/Np hôm_nay/N đang/R niêm_yết/V ở/E mức/N 22.710/M –/Nu 22.790/M VND/USD/Np (/V mua/V vào/E bán/V ra/R )/N tăng/V 10/M đồng/Nu cả/P hai/M chiều/N bán/V ra/R so/V với/E phiên/N giao_dịch/V trước/E đó/P một/M ngày/N 
+ 

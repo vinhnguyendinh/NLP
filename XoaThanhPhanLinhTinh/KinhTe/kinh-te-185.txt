@@ -1,0 +1,9 @@
+Huy_động/V hơn/R 22.300/M tỷ/N đồng/N trái_phiếu/V Chính_phủ/N trong/E tháng/N 6/M 
+Sở/N Giao/V dịch/N Chứng_khoán/N Hà_Nội/Np (/V HNX/Np )/M vừa/R tổ_chức/V 16/M phiên/N đấu_thầu/V trong/E tháng/N 6/M huy_động/V được/R tổng_cộng/V 22.348/M tỷ/N đồng/N trái_phiếu/V (/A tất_cả/P đều/R do/E Kho_bạc/N Nhà_nước/N phát_hành/V )/A giảm/V 6,2%/M so/V với/E tháng/N 5/M 
+Tỉ_lệ/N giá_trị/N trúng_thầu/V so/V với/E giá_trị/N gọi_thầu/N đạt/V 90,1%/M 
+Theo/E đó/P lãi_suất/N trúng_thầu/N của/E trái_phiếu/N kỳ_hạn/N 5/M năm/N nằm/V trong/E khoảng/N 4,90/M 5,05%/M //X năm/N 7/M năm/N trong/E khoảng/N 5,18/M 5,33%/M //X năm/N 10/M năm/N trong/E khoảng/N 5,65/M 5,79%/M //X năm/N 15/M năm/N là/V 6,3%/M //X năm/N 20/M năm/N trong/E khoảng/N 6,67/M 7%/M //X năm/N 30/M năm/N trong/E khoảng/N 7,1/M 7,5%/M //X năm/N 
+So/V với/E tháng/N 5/M lãi_suất/N trúng_thầu/N của/E trái_phiếu/N Kho_bạc/N Nhà_nước/N giảm/V khá/R mạnh/A trên/E tất_cả/P các/L kỳ_hạn/N 
+Trái_phiếu/N Chính_phủ/N kỳ_hạn/A 5/M năm/N giảm/V 0,15%/M //X năm/N 7/M năm/N giảm/V 0,14%/M //X năm/N 10/M năm/N giảm/V 0,26%/M //X năm/N 15/M năm/N giảm/V 0,34%/M //X năm/N 20/M năm/N giảm/V 0,33%/M //X năm/N 30/M năm/N giảm/V 0,45%/M //X năm/N 
+Trên/E thị_trường/N trái_phiếu/V Chính_phủ/N thứ/N cấp/N tổng/N khối_lượng/N giao_dịch/V trái_phiếu/N Chính_phủ/N theo/V phương_thức/N giao_dịch/V thông_thường/A (/M outright/N )/A đạt/V hơn/R 912,5/M triệu/N trái_phiếu/A tương_đương/A với/E giá_trị/N giao_dịch/V đạt/V hơn/R 97.800/M tỷ/N đồng/N tăng/V 5,9%/M về/E giá_trị/N so/V với/E tháng/N 5/M 
+Tổng/N khối_lượng/N giao_dịch/V trái_phiếu/N Chính_phủ/N theo/V phương_thức/N giao_dịch/V mua_bán/V lại/R (/M repo/N )/A đạt/V hơn/R 917,8/M triệu/N trái_phiếu/A tương_đương/A với/E giá_trị/N giao_dịch/V đạt/V hơn/R 90.300/M tỷ/N đồng/N tăng/V 0,3%/M về/E giá_trị/N so/V với/E tháng/N 5/M 
+ 
