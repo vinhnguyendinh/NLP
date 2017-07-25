@@ -1,5 +1,0 @@
-Thể_thao/N -/- vũ_khí/N tối_thượng/A trong/E cuộc_chiến/N chống/V ung_thư/N ?/? ./. 
-Ung_thư/N -/- căn_bệnh/N được/V coi/V như/C bản_án/N tử_hình/N ký/V sẵn/A đối_với/E những_ai/P mắc/V phải/V 
-Nhiều/A phương_pháp/N chữa_trị/V ,/, nhiều/A loại/Nc thuốc/N khác_nhau/A đã/R ra_đời/V nhằm/V ngăn_chặn/V ung_thư/N nhưng/C cho_đến/E nay/P chưa/R có/V một/M phương_pháp/N hay/C loại/Nc thuốc/N nào/P có/V khả_năng/N chữa/V khỏi/V hoàn_toàn/A căn_bệnh/N quái_ác/A này/P 
-Tuy_nhiên/C ,/, có/V một/M phương_pháp/N hết_sức/R phổ_thông/A và/CC dễ/A thực_hiện/V nhưng/C lại/R mang/V đến/R hiệu_quả/N cao/A mà/C người_ta/N thường/R hay/C quên/V mất/V 
-Đó/P chính/T là/V Thể_dục/N thể_thao/N ./. 

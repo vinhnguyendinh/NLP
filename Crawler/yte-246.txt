@@ -1,6 +1,0 @@
-Bệnh_nhân/N nặng/A trong/E sự_cố/N chạy/V thận/N đang/R diễn_biến/V xấu/A suy/V đa/N tạng/V ​/A 
-Do/E tình_hình/N sức_khoẻ/N không/R tốt/A bệnh_nhân/N Nguyên/Np không_thể/R chuyển/V xuống/R Hà_Nội/Np tiếp_tục/V điều_trị/V 
-Các/L bác_sĩ/N Bệnh_viện/N Bạch_Mai/Np Hà_Nội/Np đã/R lên/V tận/E nơi/N cùng/C các/L bác_sĩ/N Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np cứu_chữa/V 
-Bệnh_nhân/N được/V đặt/V ECMO/Np (/M ôxy/N hóa/V máu/N bằng/E màng/N ngoài/E cơ_thể/N là/V một/M thiết_bị/N hỗ_trợ/V sự/N sống/V )/A 
-Bệnh_nhân/N đã/R 2/M lần/N ngừng/V tuần_hoàn/V nhưng/C được/V cấp_cứu/V kịp_thời/A và/CC đã/R có/V phản_ứng/N 
- 

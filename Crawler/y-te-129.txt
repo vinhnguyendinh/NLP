@@ -1,2 +1,0 @@
-Cảnh_báo/V :/: Sốt_xuất_huyết/Np lan_rộng/V bất_thường/A ./. 
-Theo/E Cục/N Y_tế/N dự_phòng/V -/- Bộ/N Y_tế/N ,/, mặc_dù/C người/N mắc/V sốt_xuất_huyết/N vẫn/R tập_trung/V ở/E khu_vực/N miền/N Nam/Np (/V gần/A 70%/M người_bệnh/N )/A ,/, nhưng/C Hà_Nội/Np ,/, Quảng_Nam/Np ,/, Đà_Nẵng/Np ,/, Trà_Vinh/Np ,/, Quảng_Ngãi/Np và/CC Cà_Mau/Np là/V những/L tỉnh/N ,/, thành_phố/N có/V số/N mắc/V sốt_xuất_huyết/N tăng/V cao/A bất_thường/A so/V với/E năm/N trước/A ./. 

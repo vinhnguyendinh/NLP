@@ -1,4 +1,0 @@
-Từ/E 1.7/M 38/M bệnh_viện/N sẽ/R liên_thông/V kết_quả/N xét_nghiệm/V 
-Từ/E 1.7/M tới/V 38/M bệnh_viện/N (/V BV/Np )/N trực_thuộc/V Bộ/N Y_tế/N sẽ/R thực_hiện/V việc/N liên_thông/V kết_quả/N xét_nghiệm/V 
-Liên_thông/V xét_nghiệm/V nghĩa_là/X  /V kết_quả/N xét_nghiệm/V  /A ở/E bệnh_viện/N này/P sẽ/R được/V chấp_nhận/V khi/N khám/V chữa/V ở/E bệnh_viện/N khác/A giúp/V người_bệnh/N không/R phải/V xét_nghiệm/V nhiều/A lần/N mỗi/L khi/N chuyển/V viện/N 
- 

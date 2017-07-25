@@ -1,5 +1,0 @@
-Vụ/N 8/M người/N chạy/V thận/N tử_vong/V Tạm/Np đình_chỉ/V Giám_đốc/N Bệnh_viện/N đa_khoa/A Hòa_Bình/Np 
-Hôm_nay/N (/A 8.6/M )/Nu ông/Nc Trần_Quang_Khánh/Np Giám_đốc/N Sở/N Y_tế/N Hòa_Bình/Np cho_biết/V Liên_quan/V đến/E vụ/N tai_biến/V khi/N chạy/V thận/N làm/V 8/M người/N chết/V Sở/N Y_tế/N tỉnh/N Hoà_Bình/Np đã/R có/V quyết_định/N tạm/A đình_chỉ/V 3/M cán_bộ/N bác_sĩ/N trong/E đó/P có/V ông/Nc Trương_Quý_Dương/Np Giám_đốc/N Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np 
-Cùng/A ngày/N 8.6/M TS/N Trương_Quý_Dương/Np Giám_đốc/N Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np cho_biết/V sau/E tai_biến/N xảy_ra/V với/E 18/M bệnh_nhân/N đang/R chạy/V thận/N tại/E Đơn_nguyên/N thận/N nhân_tạo/A của/E Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np tập_thể/N y_bác_sĩ/N y_khoa/N đã/R rút/V kinh_nghiệm/N bước_đầu/N đưa/V ra/R nguyên_nhân/N sự_cố/N 
-PV/Np báo/V Lao_động/N sẽ/R tiếp_tục/V cập_nhật/V thông_tin/N 
- 

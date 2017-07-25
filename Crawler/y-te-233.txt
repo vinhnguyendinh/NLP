@@ -1,5 +1,0 @@
-Nửa/M năm/N đi/V khám/V BHYT/Np hơn/R 300/M lần/N ,/, bệnh_nhân/N phải/V trả/V lại/R tiền/N ./. 
-Ông/N H/Np 
-có/V nhà_ở/N quận/N 8/M nhưng/C thường/R đi/V nhiều/A bệnh_viện/N khác/A trên/E địa_bàn/N TPHCM/Np để/E khám/V và/CC lấy/V thuốc/N 
-Đơn_cử/V ,/, ngày/N 13.10.2016/M ,/, ông/N H/Np 
-đến/E khám/V ở/E bệnh_viện/N quận/N 1/M ,/, bệnh_viện/N quận/N 3/M ,/, bệnh_viện/N quận/N Tân_Bình/Np và/CC bệnh_viện/N Y_học/N cổ_truyền/A TPHCM/Np ./. 

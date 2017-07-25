@@ -1,3 +1,0 @@
-Mua/V thêm/V máy/N chạy/V thận/N cho/E Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np ./. 
-Sau/E sự_cố/N chạy/V thận/N làm/V 8/M người/N tử_vong/V tại/E Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np ,/, Bộ_trưởng/N Bộ/N Y_tế/N đã/R nhất_trí/V cho/V mua/V bổ_sung/V 10-15/M máy/N chạy/V thận/N cho/E bệnh_viện/N này/P 
-TS/N Lương_Ngọc_Khuê/Np -/- Cục_trưởng/N Cục/N quản_lý/V Khám/V ,/, chữa/V bệnh/N (/N Bộ/N Y_tế/N )/M -/- cho_biết/V ,/, đã/R thành_lập/V Tổ/N công_tác/N xử_lý/V sự_cố/N tại/E Bệnh_viện/N đa_khoa/N tỉnh/N Hòa_Bình/Np và/CC hỗ_trợ/V bệnh_viện/N cho_đến/E khi/N vận_hành/V lại/R đơn_nguyên/A thận/N nhân_tạo/A ,/, giúp/V bệnh_nhân/N không/R phải/V xuống/V Hà_Nội/Np chạy/V thận/N ./. 
