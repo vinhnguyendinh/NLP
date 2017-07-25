@@ -1,0 +1,23 @@
+Trường/N “/N hot/A ”/A ở/E Hà_Nội/Np tuyển_sinh/V lớp/N 6/M như_thế_nào/X ?/? ./. 
+Hiện_nay/N ,/, một_số/L trường/N điểm/N ,/, trường/N chất_lượng/N cao/A trên/E địa_bàn/N Hà_Nội/Np đã/R công_bố/V phương_án/N tuyển_sinh/V năm_học/N 2017-2018/M 
+Năm_học/N 2017-2018/M ,/, trường/N THCS-THPT/Np Nguyễn_Siêu/Np tuyển_sinh/V tổng_số/N 210/M học_sinh/N 
+Sĩ_số/N không/R quá/R 30/M học_sinh/N //X lớp/N 
+Ưu_tiên/N tuyển/V trước/E học_sinh/N lớp/N 5/M trường/N Tiểu_học/N Nguyễn_Siêu/Np 
+Điều_kiện/N tuyển/V là/V học_sinh/N sinh/V năm/N 2006/M đã/R hoàn_thành/V chương_trình/N Tiểu_học/N 
+Đảm_bảo/V sức_khỏe/N theo/E yêu_cầu/N của/E trường/N 
+Kết_quả/N rèn_luyện/V năm_học/N trước/E cần/V đạt/V yêu_cầu/N :/: Về/V kiến_thức/N ,/, kĩ_năng/V xếp/V loại/N Hoàn_thành/V hoặc/CC Hoàn_thành/V Tốt/A ;/; Về/V phẩm_chất/N –/A Năng_lực/N xếp/V loại/N Tốt/A và/CC có/V năng_lực/N tiếng/N Anh/Np 
+Phương_thức/N xét/V tuyển/V của/E trường/N thông_qua/V chương_trình/N giao_lưu/V và/CC các/L hoạt_động/N trải_nghiệm/V 
+Để/E xét/V truyển/N vào/E trường/N ,/, cha_mẹ/N tự_nguyện/V làm/V đơn/N xin/V cho/V con/N vào/V học/V 
+Nếu/C là/V người/N đỡ_đầu/V làm/V đơn/N xin/V học/V cho/E học_sinh/N phải/V có/V giấy/N ủy_quyền/V hợp_lệ/N 
+Trường/N THPT/Np chuyên/A Hà_Nội/Np –/A Amsterdam/Np :/: Xét/V tuyển/V khoảng/A 200/M chỉ_tiêu/N Năm_học/N 2017/M -/- 2018/M ,/, trường/N THPT/Np chuyên/A Hà_Nội/Np –/A Amsterdam/Np tuyển_sinh/V đối_với/E học_sinh/N có/V hộ_khẩu/N thường_trú/V tại/E Hà_Nội/Np ,/, hoặc/CC có/V bố/N ,/, mẹ/N có/V hộ_khẩu/N thường_trú/V tại/E Hà_Nội/Np ,/, hoàn_thành/V chương_trình/N Tiểu_học/N và/CC đạt/V học_lực/N giỏi/A từ/E lớp/N 1/M đến/E lớp/N 3/M ,/, được/V đánh_giá/V hoàn_thành/V học/V lớp/N 4/M và/CC lớp/N 5/M 
+Các/L năm_học/N từ/E lớp/N 1/M đến/E lớp/N 5/M tổng/N điểm/N bài/N kiểm_tra/V định_kỳ/N cuối/N năm_2/N môn/N tiếng/N Việt/Np và/CC Toán/Np phải/V đạt/V từ/E 19/M điểm/N trở_lên/A 
+Hạnh_kiểm/N của/E học_sinh/N từ/E lớp/N 1/M đến/E lớp/N 3/M là/V thực_hiện/V đầy_đủ/A các/L nhiệm_vụ/N của/E học_sinh/N tiểu_học/N ,/, lớp/N 4/M và/CC lớp/N 5/M phần/N đánh_giá/V năng_lực/N và/CC phẩm_chất/N phải/V được/V đánh_giá/V đạt/V 
+Điểm/N xét/V tuyển/V vào/E lớp/N 6/M ,/,  /M trường/N THPT/Np chuyên/A Hà_Nội/Np -/- Amsterdam/Np là/V tổng/N điểm/N của/E điểm/N học_tập/V từ/E lớp/N 1/M đến/E lớp/N 5/M ,/, điểm/N ưu_tiên/V và/CC điểm/N khuyến_khích/V 
+Nhà_trường/N sẽ/R đưa/V ra/R bảng/N quy_đổi/V điểm/N kết_quả/N học_tập/V của/E học_sinh/N theo/V từng/R năm_học/N ,/, quy_đổi/V điểm/N ưu_tiên/V và/CC khuyến_khích/V cùng/A điểm/N khuyến_khích/V cho/E học_sinh/N tham_gia/V các/L giải/N theo/E quy_định/N của/E Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np 
+Học_sinh/N trúng_tuyển/V sẽ/R được/V xét/V điểm/N từ/E cao/A xuống/V thấp/A 
+Trường_hợp/N học_sinh/N đạt/V điểm/N xét/V tuyển/V trùng/V nhau/N vượt/V chỉ_tiêu/N được/V giao/V ,/, hội_đồng/N tuyển_sinh/V nhà_trường/N sẽ/R xét/V tổng/N điểm/N khuyến_khích/V của/E toàn_bộ/L các/L giải_thưởng/N học_sinh/N đạt/V được/R từ/E lớp/N 1/M đến/E lớp/N 5/M và/CC xếp/V thứ_tự/N từ/E cao/A xuống/V đến/E đủ/A chỉ_tiêu/N 
+Trường_Marie_Curie/Np :/: Xét/V tuyển/V 360/M chỉ_tiêu/N Trường/N THCS/Np Marie_Curie/Np tuyển_sinh/V vào/E lớp/N 6/M với/E tổng/N chỉ_tiêu/N là/V 360/M học_sinh/N (/N chia/V làm/V 12/M lớp/N )/M ,/, sĩ_số/N 30/M học_sinh/N //X lớp/N 
+Nhà_trường/N thực_hiện/V Hướng_dẫn/V tuyển_sinh/V vào/E lớp/N 6/M đến/E hết/R ngày/N 7.6/M 
+Ông/Nc Nguyễn_Xuân_Khang/Np ,/, Hiệu_trưởng/N trường/N THCS/Np &/CC THPT/Np Marie_Curie/Np cho_biết/V ,/, trong/E số/N chỉ_tiêu/N 360/M học_sinh/N ,/, nhà_trường/N chọn/V 6/M lớp/N (/M 180/M học_sinh/N )/A đã/R học/V cấp/N Tiểu_học/N ở/E trường/N Marie_Curie/Np ,/, còn/V lại/R là/V tuyển/V học_sinh/N từ/E các/L trường/N Tiểu_học/N khác/A 
+Trường/N THCS/Np Đoàn_Thị_Điểm/Np :/: Xét/V tuyển/V 560/M chỉ_tiêu/N Học_sinh/N xét/V tuyển/V vào/E trường/N đã/R hoàn_thành/V chương_trình/N Tiểu_học/N 
+Nhà_trường/N xét/V tuyển/V dựa/V vào/E kết_quả/N học_tập/V trong/E học_bạ/N của/E học_sinh/N và/CC các/L điểm/N khuyến_khích/V quy/V ra/R điểm/N ./. 

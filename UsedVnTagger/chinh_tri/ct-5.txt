@@ -1,0 +1,23 @@
+Kiến_trúc/N chính_phủ_điện_tử/N nhằm/V giảm/V hao_phí/N cho/E xã_hội/N ./. 
+Tại_Hội/Np thảo/V góp_ý/V Dự_án/N Luật_Hành/Np chính/T công/N vừa/R diễn/V ra/R ,/, các/L điều_khoản/N về/E thủ_tục/N hành_chính/N công/N ,/, vấn_đề/N cải_cách/V hành_chính/N và/CC kiến_trúc/N chính_phủ_điện_tử/X được/V đại_biểu/N Quốc_hội/N Trần_Thị_Quốc_Khánh/Np -/- Trưởng_ban/N soạn_thảo/V dự_án/N đặc_biệt/A nhấn_mạnh/V 
+Phát_biểu/V tại/E hội_thảo/N ,/, đại_biểu/N Trần_Thị_Quốc_Khánh/Np cho/V rằng/C :/: “/M Vấn_đề/N thủ_tục/N hành_chính/N đang/R là/V vấn_đề/N nhức_nhối/A và/CC được/V dư_luận/N xã_hội/N quan_tâm/V 
+Vì_thế/C Ban/N soạn_thảo/V dự_án/N Luật_Hành/Np chính/T công/N cũng/R lựa_chọn/V lĩnh_vực/N này/P để/E bàn_bạc/V và/CC đưa/V ra/R những/L quy_định/N cụ_thể/A 
+Từ/E đó/P thủ_tục/N hành_chính/N phải/V quản_lý/V hết_sức/R chặt_chẽ/A 
+Các/L cơ_quan/N quản_lý/V hành_chính/N cần/V soi/V chiếu/N để/E luật/N về/E thủ_tục/N hành_chính/N ở/E các/L điều_luật/N không/R bị/V vênh/V nhau/N ,/, phải/V có/V những/L quy_định/N chung/A nhất/A 
+Sau/E đó/P phải/V có/V sự/N kiểm_soát/V ,/, công_khai/V thủ_tục/N hành_chính/N công/N và/CC đánh_giá/V vấn_đề/N thủ_tục/N hành_chính/N công/N đạt/V những/L hiệu_quả/N cụ_thể/A như_thế_nào/X ./. ”/M Cũng/R trong/E khuôn_khổ/N hội_thảo/N ,/, nhiều/A chuyên_gia/N đã/R chỉ/R ra/V những/L hạn_chế/V trong/E quản_lý/N hành_chính/N hiện_nay/N 
+Ông/Nc Lê_Hồng_Sơn/Np -/- nguyên/Z Cục_trưởng/N Cục/N Kiểm/V tra/V văn_bản/N của/E Bộ/N Tư/Np pháp/V -/- cho_biết/V :/: Bản_chất/N của/E chính_phủ_điện_tử/N là/V phương_pháp/N ,/, cách_thức/N hoạt_động/V của/E các/L cơ_quan/N Nhà_nước/N ở/E trung_ương/N và/CC địa_phương/N sử_dụng/V hệ_thống/N công_nghệ_thông_tin/N và/CC viễn_thông/N để/E giải_quyết/V công_việc/N thuộc/V thẩm_quyền/N trong/E mối/N quan_hệ/N với/E công_dân/N ,/, doanh_nghiệp/N và/CC cơ_quan/N ,/, tổ_chức/V khác/A ,/, tạo/V sự/Nc minh_bạch/A ,/, công_khai/A ,/, thuận_tiện/A ,/, nâng/V cao/A hiệu_quả/N quản_lý/V ,/, tiết_giảm/V chi_phí/N và/CC hạn_chế/V tham_nhũng/V 
+Tuy_nhiên/C ,/, chính_phủ_điện_tử/X chưa/R hoàn_thành/V được/R sứ_mệnh/N của/E mình/P và/CC còn/R rất/R nhiều/A hạn_chế/V 
+Đại_biểu/N Trần_Thị_Quốc_Khánh/Np cũng/R bày_tỏ/V quan_điểm/N tương_đồng/A :/: “/V Cải_cách/V hành_chính/N mà/C không/R gắn/V với/E công_nghệ_thông_tin/N thì/C rất/R khó_khăn/A 
+Nhiều/A năm/N qua/V ,/, cải_cách/V hành_chính/N tốn/V rất/R nhiều/A tiền/N 
+Từ/E năm/N 2001/M đến/E nay/P ,/, chương_trình/N tổng_thể/N cải_cách/V hành_chính/N rất/R tốn_kém/V nhưng/C người_dân/N vẫn/R kêu_ca/V không/R cải_cách/V triệt_để/A 
+Vừa_rồi/X chúng_tôi/P đi/V khảo_sát/V mới/R nhận/V ra/R được/R lỗ_hổng/V và/CC hạn_chế/V 
+Đó/P là/V bởi_vì/E mỗi/M bộ/N ngành/N hay/C địa_phương/N ứng_dụng/V công_nghệ_thông_tin/N nhưng/C không/R liên_kết/V với/E bộ/N ngành/N khác/A 
+Để/E người_dân/N không/R cần/V mang/V giấy_tờ/N đến/E các/L cơ_quan/N nhà_nước/N quá/R nhiều/A lần/N 
+Chúng_ta/P đang/R xây_dựng/V cơ_sở_dữ_liệu/N quốc_gia/N 
+Chúng_tôi/P có/V các/L chuyên_gia/N về/E công_nghệ_thông_tin/N và/CC đang/R xây_dựng/V khung/N kiến_trúc/N chính_phủ_điện_tử/X ,/, từ/E nay/P trở/V đi/V xây_dựng/V hạ_tầng/N dùng/V chung/A ,/, có/V sự/Nc kết_nối/V liên_thông/V và/CC đồng_bộ/A ”/M 
+Theo/E dự_thảo/N Luật_Hành/Np chính/T công/N ,/, kiến_trúc/N chính_phủ_điện_tử/X là/V thiết_kế/V tổng_thể/N chính_phủ_điện_tử/X nhằm/V quản_lý/V ,/, phát_triển/V chính_phủ_điện_tử/X thống_nhất/V ,/, tối_ưu/A ,/, hiệu_quả/N ,/, bảo_đảm/V kết_nối/V liên_thông/V các/L hạ_tầng/N thông_tin/N ,/, tránh/V trùng_lặp/N 
+Kiến_trúc/N chính_phủ_điện_tử/X bao_gồm/V khung/N kiến_trúc/N chính_phủ_điện_tử/N Việt_Nam/Np ,/, kiến_trúc/N chính_phủ_điện_tử/X cấp_bộ/V ,/, kiến_trúc/V chính_quyền/N điện_tử/N cấp/N tỉnh/N 
+Việc/N đầu_tư/V ,/, xây_dựng/V chính_phủ_điện_tử/X phải/V tuân_thủ/V kiến_trúc/N chính_phủ_điện_tử/X 
+“/N Lần/N này/P ,/, chúng_tôi/P đề_xuất/V để/E đồng_bộ/A quốc_gia/N ,/, chúng_ta/P có/V mơ_ước/N để/E việc_làm/N thủ_tục/N hành_chính/N không/R phải/V mang/V một_lô_một_lốc/X giấy_tờ/N đến/E cơ_quan_hành_chính/N mà/C chỉ/R cần/V một/M mã_số/N định_danh/V công_dân/N để/E giải_quyết/V 
+Tuy_nhiên/C ,/, chúng_ta/P vẫn/R đang/R phải/V chờ_đợi/V hoàn_thiện/V việc/N xây_dựng/V cơ/N sỡ/V dữ_liệu/N dân_cư/N quốc_gia/N vào/E năm/N 2020/M 
+Sau/E khi/N hoàn_thành/V sẽ/R thực_hiện/V các/L thủ_tục/N hành_chính/N tập_trung/V ,/, tiết_kiệm/V ”/M -/- đại_biểu/N Trần_Thị_Quốc_Khánh/Np cho_biết/V thêm/V ./. 

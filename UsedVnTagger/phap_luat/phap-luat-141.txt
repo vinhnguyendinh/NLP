@@ -1,0 +1,9 @@
+Xế/N hộp/N BMW/Np đè_bẹp/V xe_máy/N ,/, 1/M người/N chết/V ./. 
+Chiều/N 30.6/M ,/, CSGT/Np Công_an/N huyện/N Krông_Pắk/Np (/M tỉnh/N Đắk_Lắk/Np )/V cho_biết/V ,/, trên/E quốc_lộ/N 26/M vừa/R xảy_ra/V vụ/N tai_nạn/N giữa/E siêu/Z xe/N BMW/Np và/CC xe_máy/N khiến/V một/M người/N tử_vong/V 
+Thông_tin/N ban_đầu/N ,/, khoảng/N 14h/M cùng/A ngày/N ,/, trên/E quốc_lộ/N 26/M ,/, đoạn/N qua/V xã/N Ea_Knuêc/Np ,/, huyện/N Krông_Pắk/Np ,/, xe/N ôtô/N hiệu/N BMW_BKS/Np 51F-733.92/Np do/E Nguyễn_Thế_Phương/Np (/V SN/Np 1975/M ,/, trú/V quận/N 12/M ,/, TP/Np 
+Hồ_Chí_Minh/Np )/V điều_khiển/V lưu_thông/V trên/E quốc_lộ/N 26/M ,/, hướng/N từ/E TP/Np 
+Buôn_Ma_Thuột/Np đi/V Nha_Trang/Np ,/, đến/E km/Nu 20/M thì/C tông/V trực_diện/V vào/E xe_máy/N BKS/Np 47S7-2072/Np do/E anh/N Nguyễn_Văn_Thanh/Np (/V SN/Np 1972/M ,/, trú/V thôn/N Tân_Hưng/Np ,/, xã/N Ea_Knuêc/Np ,/, huyện/N Krông_Pắk/Np )/V điều_khiển/V theo/E hướng/N ngược_lại/C 
+Vụ/N tai_nạn/N khiến/V anh/N Thanh/Np tử_vong/V trên/E đường/N đi/V cấp_cứu/V 
+Tại/E hiện_trường/N ,/, ôtô/N BMW/Np kéo/V lê/V xe_máy/N cùng/A nạn_nhân/N hàng/R chục/M mét/Nu 
+Siêu/Nc xe/N chỉ/R dừng/V lại/R khi/N lao/V sang/V vệ/V đường_hướng/N ôtô/N di_chuyển/V 
+Vụ_việc/N đang/R được/V điều_tra/V ./. 

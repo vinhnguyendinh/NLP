@@ -1,0 +1,13 @@
+Nam_sinh/N “/M Cánh_tay/N robot/V ”/N được/V phỏng_vấn/V lần/N 3/M để/E cấp/V visa/N sang/V Mỹ/Np dự/V cuộc_thi/N quốc_tế/N ./. 
+Nhận/V được/R điện_thoại/N của/E một/M nhân_viên/N Đại_sứ_quán/N Mỹ/Np tại/E TP.Hồ/Np Chí_Minh/Np thông_báo/V ,/, sẽ/R phỏng_vấn/V để/E cấp/V visa/N lần/N 3/M ,/,  /M Phạm_Huy/Np -/- tác_giả/N "/" Cánh_tay/N robot/N "/" -/- lập_tức/R lên/V xe/N ôtô/N ra/V Hà_Nội/Np 
+"/" Cánh/N cửa/N "/" đến/V với/E cuộc_thi/N Khoa_học/N Kỹ_thuật/N Quốc_tế/N tại/E Mỹ/Np của/E nam_sinh/N hứa_hẹn/V sẽ/R mở/V ra/R ./. ./. 
+13h30/M ngày/N  /V 12.5/M ,/, em/N Phạm_Huy/Np -/- học_sinh/N lớp/N 11/M Trường/N THPT/Np thị_xã/N Quảng_Trị/Np -/- nhận/V được/R điện_thoại/N của/E một/M nhân_viên/N ở/E Đại_sứ_quán/N Mỹ/Np về/E việc/N phỏng_vấn/V để/E cấp/V visa/N giúp/V Huy/Np tiếp_tục/V tham_gia/V cuộc_thi/N Khoa_học_kỹ_thuật/Np Quốc_tế/N tại/E Mỹ/Np 
+Phạm_Huy/Np vui_mừng/V cho_biết/V ,/, sáng_mai/N (/V 13.5/M )/N ,/, sau/E 10h/M ,/, em/N có_mặt/V tại/E Đại_sứ_quán/N Mỹ/Np ở/E Hà_Nội/Np để/E tham_gia/V phỏng_vấn/V 
+Nếu/C thuận_lợi/N ,/, việc/N cấp/V visa/N cho/E Phạm_Huy/Np sẽ/R được/V tiến_hành/V trước/E 19h/M ,/, để/E 22h/M ngày/N 13.5/M em/N sẽ/R lên/V máy_bay/N sang/V Mỹ/Np 
+Nhận/V được/R thông_tin/N này/P ,/, Phạm_Huy/Np đã/R báo/V cho/E Sở/N GDĐT/Np tỉnh/N Quảng_Trị/Np 
+Dù/C đang/R bận/V họp/V ,/, nhưng/C bà/N Lê_Thị_Hương/Np -/- Giám_đốc/N Sở/N GDĐT/Np tỉnh/N Quảng_Trị/Np -/- đã/R lập_tức/V chỉ_đạo/V xử_lý/V thủ_tục/N vé/N và/CC kinh_phí/N trong/E quá_trình/N Phạm_Huy/Np đi/V sang/V Mỹ/Np tham_dự/V kỳ/N thi/V 
+"/" Tôi/P kỳ_vọng/V Phạm_Huy/Np sẽ/R có_mặt/V tại/E Mỹ/Np và/CC thực_hiện/V tốt/A phần/N thi/V của/E mình/P "/" -/- bà/N Lê_Thị_Hương/Np cho_biết/V 
+Được/V biết/V ,/, nếu/C quá_trình/N cấp/V visa/N suôn_sẻ/A ,/, Phạm_Huy/Np sẽ/R sang/V Mỹ/Np một_mình/X chứ/C không/R có/V thầy_giáo/N hướng_dẫn/V đi/V cùng/A như/C dự_kiến/V ban_đầu/N 
+Phạm_Huy/Np nói/V rằng/C ,/, em/N sẽ/R cố_gắng/V hết_sức/R và/CC gửi/V lời/N cảm_ơn/V đến/E các/L cơ_quan/N ,/, đơn_vị/N và/CC báo_chí/N đã/R hỗ_trợ/V ,/, để/E em/N có/V cơ_hội/N được/V tham_dự/V kỳ/N thi/V lần/N này/P 
+Trước/E đó/P ,/, LĐO/Np đã/R có/V bài/N viết/V "/" Nam_sinh/N khó/A dự/V cuộc_thi/N quốc_tế/N tại/E Mỹ/Np vì/E không/R được/V cấp/V visa/N "/" ,/, phản_ánh/V thông_tin/N em/N Phạm_Huy/Np -/- người/N chế_tạo/V cánh_tay/N robot/V cho/E nạn_nhân/N bom_mìn/N được/V Bộ/N GDĐT/Np cử/V sang/V Mỹ/Np tham_dự/V một/M cuộc_thi/N quốc_tế/N 
+Tuy_nhiên/C ,/, sau/N 2/M lần/N phỏng_vấn/V ,/, Phạm_Huy/Np không/R được/V cấp/V visa/N ,/, dù/C ngày/N thi/V đã/R đến/V gần/A ./. 

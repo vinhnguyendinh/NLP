@@ -1,0 +1,16 @@
+Phần_mềm/N độc_hại/A ẩn/V trên/E Google_Play/Np được/V tải/N xuống/V hơn/R 50.000/M lần/N ./. 
+Đây/P là/V một/M phát_hiện/V của/E các/L chuyên_gia/N bảo_mật/V Kaspersky_Lab/Np 
+Ngay/T sau/E đó/P ,/, phía/N Google/Np được/V báo/V tin/N ,/, và/CC phần_mềm/N độc_hại/A này/P (/V Trojan_Dvmap/Np )/A đã/R bị/V loại_bỏ/V khỏi/V chợ/N ứng_dụng/V 
+Trojan_Dvmap/Np có/V khả_năng/N không_chỉ/C nhận/V quyền/N truy_cập/V root/V (/M root/N là/V quyền/N kiểm_soát/V hệ_thống/N trên/E thiết_bị/N -/- PV/Np )/V trên/E một/M smartphone/N chạy/V Android/Np ,/, mà/C nó/P còn/R có_thể/A kiểm_soát/V thiết_bị/N bằng/E cách/N chèn/V mã/N độc_hại/A vào/E thư_viện/N hệ_thống/N 
+Nếu/C thành_công/V ,/, nó/P có_thể/R xóa/V quyền/N truy_cập/V root/N 
+Trojan/Np này/P đã/R được/V người/N dùng/V tải/N xuống/V từ/E Google_Play/Np hơn/R 50.000/M lần/N kể/V từ/E tháng/N 3.2017/M 
+Để/E vượt/V qua/R kiểm_tra/V an_ninh/N của/E chợ/N ứng_dụng/V Google_Play/Np của/E Google/Np ,/, người/N tạo/V ra/R Trojan_Dvmap/Np đã/R tải/N một/M “/N phiên_bản/N sạch/A ”/A của/E nó/P lên/R chợ/N ứng_dụng/N này/P ,/, sau/E đó/P nó/P mới/R được/V cập_nhật/V phiên_bản/N độc_hại/A ,/, rồi/C lại/R tải/N lên/V tiếp/V một/M phiên_bản/N sạch/A khác/A 
+Đây/P là/V một/M hành_vi/N tinh_vi/A mới/R của/E tin_tặc/N 
+Dvmap_Trojan/Np tự/P cài_đặt/V vào/E một/M thiết_bị/N nạn_nhân/N trong/E hai/M giai_đoạn/N 
+Trong/E giai_đoạn/N đầu/N ,/, phần_mềm/N độc_hại/A cố_gắng/V giành/V quyền/N root/V trên/E thiết_bị/N 
+Nếu/C thành_công/V ,/, nó/P sẽ/R cài_đặt/V một_số/L công_cụ/N ,/, một_số/L trong/E đó/P có/V vài/L nhận_xét/N bằng/E tiếng/N Trung_Quốc/Np 
+Trong/E giai_đoạn/N chính/A của/E sự/Nc lây_nhiễm/V ,/, Trojan/Np khởi/V chạy/V một/M tập_tin/N "/" bắt_đầu/V "/" ,/, kiểm_tra/V phiên_bản/N Android/Np được/V cài_đặt/V và/CC quyết_định/V thư_viện/N nào/P để/E đưa/V mã/N của/E nó/P vào/E 
+Bước/N tiếp_theo/V ,/, ghi/V đè/V lên/R mã/N hiện/N có/V với/E mã/N độc_hại/A ,/, có_thể/A làm/V cho/E thiết_bị/N bị/V nhiễm/V hoàn_toàn/A hư_hỏng/A 
+Các/L thư_viện/N hệ_thống/N mới/R được/V vá/V thực_hiện/V một/M môđun/N độc_hại/A ,/, có_thể/A tắt/V tính_năng/V VerifyApps/Np 
+Sau/E đó/P ,/, thiết_bị/N sẽ/R chuyển/V sang/V cài_đặt/V '/M Nguồn/N không/R xác_định/V '/N cho_phép/V cài_đặt/V ứng_dụng/V từ/E mọi/L nơi/N chứ/C không_chỉ/C là/V từ/E Google_Play/Np 
+Đây/P có_thể/R là/V các/L ứng_dụng/N quảng_cáo/N độc_hại/A hoặc/CC người/N dùng/V không/R mong_muốn/V ./. 

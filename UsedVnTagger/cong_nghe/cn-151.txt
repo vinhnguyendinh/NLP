@@ -1,0 +1,2 @@
+Czech/Np ra_mắt/V phiên_bản/N cải_tiến/V xe_tăng/N T-72/Np ./. 
+Cồng/N ty/V Excaliburhas/Np của/E CH/Np Czech/Np đã/R thực_hiện/V gói/N nâng_cấp/V xe_tăng/N chủ_lực/N T-72/M của/E Liên_Xô/Np và/CC giới_thiệu/V tại/E một/M hội_chợ/N quốc_phòng/N ./. 

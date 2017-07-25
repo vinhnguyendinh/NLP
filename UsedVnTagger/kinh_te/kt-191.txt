@@ -1,0 +1,14 @@
+Báo/N lỗ/N ,/, Grab/Np ,/, Uber/Np và/CC taxi/N truyền_thống/N cùng/A bị/V thanh_tra/V thuế/N ./. 
+Nguồn/N tin/V từ/E Tổng_cục/N Thuế/Np cho_biết/V ,/, cơ_quan/N này/P đã/R có/V quyết_định/N thanh_tra/V thuế/N công_ty/N Uber/Np ,/, Grab/Np và/CC 2/M doanh_nghiệp/N taxi/N truyền_thống/N 
+Theo/E đó/P ,/, cơ_quan/N thuế/N sẽ/R kiểm_tra/V toàn_diện/A vấn_đề/N kê_khai/V và/CC nộp/V thuế/N của/E các/L doanh_nghiệp/N này/P 
+Trước/E đó/P ,/, trong/E cuộc/N đối_thoại/V giữa/E Uber/Np ,/, Grab/Np với/E taxi/N truyền_thống/N do/E Bộ/N GTVT/Np tổ_chức/V ngày/N 28.6/M ,/, đại_diện/N Vụ/N thuế/N TNDN/Np ,/, Tổng_cục/Np Thuế/Np đã/R đề_nghị/V Bộ/N GTVT/Np phối_hợp/V cung_cấp/V số_liệu/N về/E lượng/N xe/N tham_gia/V dịch_vụ/N Uber/Np ,/, Grab/Np để/E có/V cơ_sở/N rà_soát/V ,/, kiểm_tra/V việc/N kê_khai/V nộp/V thuế/N của/E các/L đơn_vị/N này/P 
+Trước/E đó/P ,/, theo/V thông_tin/N từ/E Hiệp_hội/N Taxi_Hà_Nội/Np ,/, năm/N 2016/M Công_ty/N TNHH/Np Grab/Np đạt/V doanh_thu/N 192/M tỉ/M đồng/Nu ,/, báo/N lỗ/V 443/M tỉ/N và/CC vì/E kinh_doanh/V lỗ/N ,/, Grab_Việt_Nam/Np không/R phải/V nộp/V thuế_thu_nhập/N doanh_nghiệp/N 
+Tổng_số/N thuế/N của/E Grab/Np năm/N 2016/M (/N bao_gồm/V thuế_giá_trị_gia_tăng/N ,/, thuế_môn_bài/N )/V nộp/V cho/E ngân_sách/N nhà_nước/N là/V 5,8/M tỉ/M đồng/Nu 
+Trong/E khi/N đó/P ,/, số/N thuế/N của/E Uber/Np được/V công_bố/V hồi/N tháng/N 3/M vừa_qua/X nộp/V khoảng/A 40/M tỉ/M đồng/Nu 
+Cũng/R theo/V Hiệp_hội/N Taxi_Hà_Nội/Np ,/, dù/C công_ty/N TNHH/Np Grab/Np có/V số/N vốn/N đăng_ký/V chỉ/R 20/M tỉ/M đồng/Nu nhưng/C công_ty/N này/P đã/R thua_lỗ/V 443/M tỉ/M đồng/Nu trong/E năm/N 2016/M 
+Phát_biểu/V tại/E cuộc/N đối_thoại/V ngày/N 28.6/M ,/, CEO/Np Grab_Việt_Nam_Nguyễn_Tuấn_Anh/Np khẳng_định/V ,/, công_ty/N này/P tuân_thủ/V việc/N đóng/V đầy_đủ/A các/L loại/N thuế/N theo/V quy_định/N 
+Còn/C trao_đổi/V với/E báo_giới/N ,/, đại_diện/N Grap_Việt_Nam/Np từ_chối/V bình_luận/V về/E con_số/N lỗ/N khủng/V do/E Hiệp_hội/N taxi/N Hà_Nội/Np đưa/V ra/R và/CC cho/V rằng/C ,/, do/E công_ty/N này/P áp_dụng/V nhiều/A khuyến_mại/N cho/E khách/N ,/, đối_tác/N tài_xế/N ./. ./. 
+nên/C lỗ/N cũng/R là/V điều/N dễ/A hiểu/V và/CC không/R có/V gì/P bất_thường/A 
+Trước/E đó/P ,/, bà/Nc Nguyễn_Thị_Hạnh/Np -/- Vụ_trưởng/N Vụ_Thuế/Np thu_nhập/V cá_nhân/N ,/, Tổng_cục/N thuế/N -/- khẳng_định/V ,/, chính_sách/N thuế/N đang/R bình_đẳng/A đối_với/E các/L đối_tượng/N kinh_doanh/V vận_tải/V khi/N có/V cùng/A loại/Nc thuế/N ,/, thuế_suất/N và/CC chỉ/R khác/A phương_pháp/N hạch_toán/A và/CC không/R có/V sự/Nc phân_biệt/V về/V chính_sách/N 
+Theo/E bà/Nc Hạnh/Np ,/, không_chỉ/C Uber/Np báo/V lỗ/N mà/C quá/R nửa/M số/N doanh_nghiệp/N taxi/N truyền_thống/N cũng/R đang/R lỗ/V nên/C không/R nộp/V thuế_thu_nhập/N doanh_nghiệp/N 
+Bà/N Hạnh/Np không/R cung_cấp/V số_liệu/N nhưng/C cho_biết/V ,/, số/N tiền/N đóng/V thuế/N của/E nhiều/A doanh_nghiệp/N taxi/N truyền_thống/N cũng/R rất/R thấp/A ./. 

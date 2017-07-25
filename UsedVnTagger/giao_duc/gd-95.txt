@@ -1,0 +1,3 @@
+Gợi_ý/V bài/N giải/N môn/N Toán/Np vào/E lớp/N 10/M ở/E Hà_Nội/Np ./. 
+Lao_Động/N xin/V đăng_tải/V gợi_ý/V bài/N giải/N môn/N Toán/Np vào/E lớp/N 10/M ở/E Hà_Nội/Np của/E giáo_viên/N Hồng_Trí_Quang/Np (/M Hệ_thống/N Giáo_dục/N HOCMAI/Np )/M ,/, để/E học_sinh/N và/CC phụ_huynh/N tham_khảo/V 
+Lao_Động/N xin/V đăng_tải/V gợi_ý/V bài/N giải/N môn/N Toán/Np vào/E lớp/N 10/M ở/E Hà_Nội/Np của/E giáo_viên/N Hồng_Trí_Quang/Np (/M Hệ_thống/N Giáo_dục/N HOCMAI/Np )/M ,/, để/E học_sinh/N và/CC phụ_huynh/N tham_khảo/V ./. 

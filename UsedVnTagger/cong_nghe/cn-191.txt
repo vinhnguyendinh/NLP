@@ -1,0 +1,2 @@
+Belarus/Np giới_thiệu/V robot/N tên_lửa/V chống/V tăng/V tự_hành/V "/" Bọ_ngựa/N "/" ./. 
+Tập_đoàn/N vũ_khí/N Belspetsvneshtechnika/Np của/E Belarus/Np vừa/R giới_thiệu/V hệ_thống/N tên_lửa/V chống/V tăng/V tự_hành/V Bogomol/Np (/M Bọ_ngựa/N )/A ./. 

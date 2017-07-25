@@ -1,0 +1,24 @@
+Hàng_loạt/N công_ty/N đa/Z quốc_gia/N bị/V tấn_công/V bởi/E mã/N độc/A nguy_hiểm/A hơn/R WannaCry/Np ./. 
+Một/M cuộc/N tấn_công/V mạng/N đòi/V tiền/N chuộc/V quy_mô/N lớn/A nhằm/V vào/E các/L công_ty/N và/CC tập_đoàn/N trên/E toàn_cầu/N ,/, đặc_biệt/A ảnh_hưởng/V nặng_nề/A nhất_là/X vào/E Ukraina/Np đã/R xảy_ra/V hôm/N 27.6/M 
+Các/L công_ty/N đa/Z quốc_gia/N thông_báo/N bị/V ảnh_hưởng/V trong/E vụ/N tấn_công/V mạng/N quy_mô/N toàn_cầu/N này/P gồm/V tập_đoàn/N quảng_cáo/N Anh/N WPP/Np ,/, hãng/N dầu_mỏ/N và/CC khí_đốt/N Nga_Rosneft/Np và/CC hãng/N tàu/N Đan_Mạch_Maersk/Np 
+“/M Hệ_thống/N IT/Np của/E một_số/L công_ty/N thuộc/V WPP/Np đã/R bị/V ảnh_hưởng/V bởi/E vụ/N tấn_công/V mạng/N ”/V ,/, WPP/Np thông_báo/V trên/E tài_khoản/N Twitter/Np 
+Hãng_Maersk/Np cũng/R đưa/V ra/R thông_báo/N tương_tự/A cho_biết/V ,/, hệ_thống/N kỹ_thuật/N của/E hãng/N ở/E tất_cả/P các/L địa_điểm/N và/CC đơn_vị/N kinh_doanh/V đều/R bị/V sập/V do/E tấn_công/V mạng/N 
+Công_ty/N Dược_phẩm/N Merck/Np có/V trụ_sở/N tại/E Mỹ/Np cũng/R cho_biết/V :/: “/N Chúng_tôi/P xác_nhận/V mạng/N máy_tính/N của/E công_ty/N đã/R bị/V xâm_nhập/V ngày/N hôm_nay/N ,/, trong/E một/M phần/N của/E vụ/N tấn_công/V mạng/N quy_mô/N toàn_cầu/N ”/M 
+Theo/E CNN/Np ,/, nguồn_gốc/N của/E vụ/N tấn_công/V hiện/N chưa/R được/V làm/V rõ/A 
+Loại/N mã/N độc/A này/P tương_tự/A như/C WanaCry/Np đã/R lây_lan/V trên/E phạm_vi/N toàn_cầu/N vào/E tháng/N 5/M vừa_qua/X nhưng/C có/V một_số/N khác_biệt/A 
+Cả/P hai/M mã/N độc/A trong/E vụ/N tấn_công/V mạng/N này/P và/CC tháng/N trước/E đều/R có/V hướng_dẫn/V các/L nạn_nhân/N trả/V tiền/N chuộc/V cho/E tin_tặc/N bằng/E Bitcoin/Np và/CC có/V cách_thức/N lây_lan/V tương_tự/A 
+Tập_đoàn/N an_ninh/N mạng/N có/V trụ_sở/N tại/E Mátxcơva/Np IB/Np ước_tính/V ngày/N 27.6/M rằng/C mã/N độc/A này/P đã/R ảnh_hưởng/V tới/E khoảng/N 80/M công_ty/N ở/E Nga/Np và/CC Ukraina/Np 
+Tập_đoàn/N IB/Np cho_biết/V mã/N độc/A tống_tiền/V này/P lan_truyền/V ,/, khóa/N máy_tính/N và/CC yêu_cầu/V người/N dùng/V trả/V 300/M USD/Nu tiền/N chuộc/V bằng/E tiền/N ảo/A Bitcoins/Np 
+Trong/E vụ/N tấn_công/V này/P ,/, các/L công_ty/N của/E Ukraina/Np và/CC các/L cơ_quan/N chính_phủ/N nước/N này/P bị/V ảnh_hưởng/V nặng_nề/A 
+Ngân_hàng/N Trung_ương/N Ukaina/Np cảnh_báo/V các/L công_ty/N tài_chính/N trên/E toàn_quốc/N về/V một/M loại/Nc virus/N đang/R tấn_công/V hệ_thống/N ,/, gây/V hỗn_loạn/A trong/E hệ_thống/N ngân_hàng/N và/CC dịch_vụ/N khách_hàng/N 
+Theo/E hãng/N bảo_mật/V Cisco_Talos/Np ,/, mã/N độc/A tống_tiền/V ban_đầu/N nhiễm/V vào/E MeDoc/Np ,/, một/M phần_mềm/N kế_toán/N của/E Ukaina/Np 
+Sau/E đó/P MeDoc/Np gửi/V một/M tập_tin/N bị/V nhiễm_độc/V cho/E các/L khách_hàng/N khiến/V nó/P lây_lan/V 
+Các/L quan_chức/N Ukaina/Np xác_nhận/V liên_kết/V độc_hại/A phát_tán/V qua/V MeDoc/Np 
+Craig_William/Np -/- chuyên_gia/N của/E Cisco_Talos/Np nói/V rằng/C mã/N độc/A này/P mạnh/A hơn/A WannaCry/Np 
+Theo/E Reuters/Np ,/, ngoài/N Nga/Np và/CC Ukraina/Np ,/, các/L quốc_gia/N khác/A bị/V ảnh_hưởng/V trong/E vụ/N tấn_công/V mạng/N quy_mô/N lớn/A mới/A nhất/R gồm/V Anh/N ,/, Pháp/Np ,/, Đức/Np ,/, Italia/Np ,/, Ba_Lan/Np và/CC Mỹ/Np 
+Tổng_số/N máy_tính/N bị/V tấn_công/V hiện/N vẫn/R chưa/R được/V thống_kê/V 
+Nhiều/A tập_đoàn/N ,/, trong/E đó/P có/V Symantec/Np ,/, cho/V rằng/C mã/N độc/A tống_tiền/V này/P là/V một/M biến_thể/N của/E Petya/Np ,/, một/M loại/Nc mã/N độc/A là/V thủ_phạm/N tấn_công/V hệ_thống/N máy_tính/N toàn_cầu/N năm/N 2016/M 
+Tuy_nhiên/C theo/E hãng/N Kaspersky_Lab/Np ,/, những/L dấu_hiệu/N ban_đầu/N cho/E thấy/V những/L vụ/N tấn_công/V do/E một/M mã/N độc/A tống_tiền/V mới/R xuất_hiện/V và/CC được/V gọi_là/X “/M ExPetr/Np ”/M 
+Bộ/N An/Np ninh/V Nội_địa/N (/V DHS/Np )/M của/E Mỹ/Np đang/R theo_dõi/V vụ/N tấn_công/V mạng/N này/P 
+Scott_Mc/Np Connell/Np ,/, người_phát_ngôn/N của/E DHS/Np cho_biết/V “/N đang/R phối_hợp/V với/E các/L đối_tác/N trong/E nước/N và/CC quốc_tế/A và/CC sẵn_sàng/A giúp_đỡ/V bất_cứ/R yêu_cầu/N hỗ_trợ/V nào/P ”/V 
+Cơ_quan/N cảnh_sát/N Liên_minh/Np Châu_Âu/Np (/M Europol/Np )/M cũng/R cho_biết/V đang/R điều_tra/V vụ/N tấn_công/V ./. 

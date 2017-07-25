@@ -1,0 +1,24 @@
+Có/V bao_nhiêu/P ngân_hàng/N ở/E Việt_Nam/Np bị/V trúng/V mã/V độc/A Wanna_Cry/Np ?/? ./. 
+Chiều/N 15.5/M ,/, trao_đổi/V với/E PV/Np ,/, ông/Nc Hoàng_Minh_Tiến/Np –/V Phòng_An/Np ninh/V thông_tin/N của/E Ngân_hàng/N Nhà_nước/N Việt_Nam/Np đã/R cung_cấp/V thông_tin/N mới/A nhất/A về/E tình_hình/N an_ninh/N mạng/N ở/V Việt_Nam/Np 
+“/N Cho/V tới/E thời_điểm/N hiện_tại/N ,/, Ngân_hàng/N Nhà_nước/N (/V NHNN/Np )/V chưa/R nhận/V được/R thông_tin/N từ/E bất_kì/N NHTM/Np nào/P báo_cáo/V là/C bị/V lây/V mã/V độc/A WannaCry/Np 
+Ngay/T từ/E khi/N có/V thông_tin/N mã/V độc/A Wanna_Cry/Np tấn_công/V máy_tính/N của/E nhiều/A nước/N trên/E thế_giới/N ,/, Bộ/N Thông/Np tin/V và/CC Truyền_thông/N gửi/V công_văn/N cảnh_báo/V NHNN/Np và/CC chúng_tôi/P đã/R có/V văn_bản/N chính_thức/A gửi/V các/L NHTM/Np để/E phòng_chống/V loại/Nc mã/N độc/A này/P ”/M ,/,  /M ông/N Hoàng_Minh_Tiến/Np cho_biết/V 
+Theo/E ông/Nc Hoàng_Minh_Tiến/Np ,/, mã/N độc/A tống_tiền/V Wanna_Cry/Np tập_trung/V vào/E lỗ_hổng/N Window/Np do/E tổ_chức/V hacker/N tấn_công/V 
+NHNN/Np đã/R có/V văn_bản/N hướng_dẫn/V các/L NHTM/Np cập_nhật/V bản/N vá/V lỗi/N mới/A nhất/A của/E Window/Np 
+Trước/E đó/P ,/, đại_diện/N của/E BKAV/Np cho_biết/V ,/, đã/R có/V những/L trường_hợp/N lây_nhiễm/V mã/N độc/A này/P tại/E Việt_Nam/Np 
+Mã/N độc/A tống_tiền/V Wanna_Cry/Np chỉ/R trong/E vài/L giờ/N đã/R lây_nhiễm/V hơn/R 100/M nghìn/N máy_tính/N tại/E 74/M quốc_gia/N trên/E thế_giới/N 
+Wanna_Cry/Np tấn_công/V vào/E máy/N nạn_nhân/N qua/V file/N đính/N kèm/V email/N hoặc/CC link/V độc_hại/A ,/, như/C các/L dòng/N ransomware/N khác/A 
+Tuy_nhiên/C ,/, mã/N độc/A này/P được/V bổ_sung/V khả_năng/N lây_nhiễm/V trên/E các/L máy_tính/N ngang_hàng/N 
+Cụ_thể/A ,/, Wanna_Cry/Np sẽ/R quét/V toàn_bộ/L các/L máy_tính/N trong/E cùng/A mạng/N để/E tìm_kiếm/V thiết_bị/N chứa/V lỗ_hổng/N EternalBlue/Np của/E dịch_vụ/N SMB/Np (/V trên/E hệ_điều_hành/N Windows/Np )/M 
+Từ/E đó/P ,/, mã/N độc/A có_thể/R lây_lan/V vào/E các/L máy/N có/V lỗ_hổng/N mà/C không/R cần/V người/N dùng/V phải/V thao_tác/V trực_tiếp/A với/E file/N đính/N kèm/V hay/C link/V độc_hại/A 
+Theo/E các/L chuyên_gia/N Bkav/Np ,/, đã/R lâu/A rồi/R mới/R lại/R xuất_hiện/V loại/N virus/N phát_tán/V rộng/A qua/E Internet/Np ,/, kết_hợp/V với/E khai_thác/V lỗ_hổng/N để/E lây/V trong/E mạng/N LAN/V 
+Các/L virus/N tương_tự/A trước_đây/N chủ_yếu/A được/V hacker/N sử_dụng/V để/E "/" ghi_điểm/N "/" chứ/C không/R mang/V tính_chất/N phá_hoại/V ,/, kiếm/V tiền/N trực_tiếp/A 
+Wanna_Cry/Np có_thể/R xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A vì/E vừa/R lây_lan/V nhanh/A vừa/R có/V tính/N phá_hoại/V nặng_nề/A 
+Theo/E thông_tin/N mới/A nhất/A ,/, một/M chuyên_gia/N IT/Np 22/M tuổi/N đến/V từ/E Anh/N đã/R tìm/V ra/R cách/N vô_hiệu_hóa/V phần_mềm/N gián_điệp/N tống_tiền/V (/M ransomware/N )/N Wanna_Cry/Np đang/R lây_lan/V 
+Marcus_Hutchins/Np hiện/N đang/R làm_việc/V cùng/A chính_phủ/N để/E ngăn_chặn/V con/Nc virus/N thứ_hai/N 
+Marcus/Np cùng_với/C Darien_Huss/Np ,/, một/M người/N bạn/N đến/V từ/E công_ty/N an_ninh/N ProofPoint/Np ,/, đã/R vô_tình/A tìm/V ra/R một/M "/" công_tắc/N hủy_diệt/V "/" có_thể/R khống_chế/V được/R WannaCry/Np 
+Sau/E khi/N chân_tướng/N của/E anh/N được/V chia_sẻ/V trên/E mạng/N xã_hội/N ,/, nhiều/A công_ty/N đã/R gửi/V thư/N mời/V Marcus_Hutchins/Np đến/V làm_việc/V 
+Chuyên_gia/N IT/Np trẻ/A tuổi/N này/P đã/R giúp/V hơn/R 10,000/M máy_tính/N trên/E toàn/N thế_giới/N khỏi/R bị/V nhiễm/V loại/N virus/N WannaCry/Np 
+Chuyên_gia/N của/E Bkav/Np khuyến_cáo/N người/N dùng/V cập_nhật/V bản/N vá/V càng/R sớm/A càng/R tốt/A ,/, bằng/E cách/N vào/V Windows_Update/Np →/V Check/Np for/V updates/N để/E kiểm_tra/V các/L bản/N vá/V mới/A nhất/R 
+Cần/V khẩn_trương/V backup/N các/L dữ_liệu/N quan_trọng/A trên/E máy_tính/N 
+Nên/C mở/V các/L file/N văn_bản/N nhận/V từ/E Internet/Np trong/E môi_trường/N cách_ly/V Safe_Run/Np và/CC cài/V phần_mềm/N diệt/V virus/N thường_trực/V trên/E máy_tính/N để/E được/V bảo_vệ/V tự_động/A 
+Người/N dùng/V Bkav_Pro/Np đều/R đã/R được/V tự_động/A ngăn_chặn/V những/L kịch_bản/N khai_thác/V tương_tự/A ./. 

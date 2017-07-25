@@ -1,0 +1,19 @@
+Sự_cố/N tại/E tuyến/N cáp_quang/N biển/N APG/Np ảnh_hưởng/V đến/E Internet_Việt_Nam/Np ./. 
+Theo/E thông_tin/N từ/E các/L nhà/N mạng/N ,/, tuyến/N cáp_quang/N biển/N APG/Np bị/V đứt/V vào/E lúc/N 16h/M ngày/N 20.6/M ,/, lỗi/N xảy_ra/V ở/E phân_đoạn/N Việt_Nam/Np –/V Hong_Kong/Np ,/, do_đó/C làm/V ảnh_hưởng/V tới/E việc/N truy_cập/V Internet/N của/E khách_hàng/N 
+Thời_gian/N khắc_phục/V sự_cố/N tuyến/N cáp_quang/N APG/Np chưa/R được/V xác_định/V 
+Trước/E đó/P ,/, tối/N 20.6/M ,/, SCTV/Np đã/R ra/V thông_báo/V cho/E các/L chi_nhánh/N về/E sự_cố/N tuyến/N cáp_quang/N biển/N APG/Np bị/V đứt/V vào/E lúc/N 16h/M ngày/N 20.6.2017/M 
+Theo/E thông_tin/N từ/E phía/N đối_tác/N ,/, lỗi/N xảy_ra/V ở/E phân_đoạn/N Việt_Nam/Np –/V Hong_Kong/Np ,/, do_đó/C làm/V ảnh_hưởng/V tới/E việc/N truy_cập/V của/E khách_hàng/N 
+Hiện_tại/N một_số/L lưu_lượng/N đã/R được/V chuyển_hướng/V cáp_quang/N biển/N quốc_tế/N AAG/Np 
+SCTV/Np đang/R phối_hợp/V với/E đối_tác/N để/E mở/V thêm/V băng_thông/N ứng_cứu/V 
+Thời_gian/N khắc_phục/V sự_cố/N tuyến/N cáp_quang/N APG/Np chưa/R được/V xác_định/V 
+Từ/E chiều/N ngày/N 20.6/M ,/, rất/R nhiều/A người/N dùng/V đã/R phản_ánh/V về/E việc/N mạng/N Internet/Np đột_ngột/A bị/V chậm/A hoặc/CC gián_đoạn/V truy_cập/V ,/, nhưng/C vào/E sáng/N nay/P (/M 21.6/M )/N ,/, việc/N truy_cập/V đã/R bình_thường/A trở_lại/V 
+APG/Np là/V tuyến/N cáp_quang/N biển/N có/V dung_lượng/N lớn/A nhất/R đang/R hoạt_động/V tại/E khu_vực/N Châu/Np Á/Np với/E băng_thông/N tối_đa/A lên/R tới/E 54/M Tbps/Np ,/, băng_thông/N ban_đầu/N lúc/N mới/R khai_trương/V là/V 4/M Tbps/Np được/V các/L nhà/N mạng/N đưa/V vào/R sử_dụng/V cuối/N tháng/N 12.2016/M 
+Tuyến/N cáp/N này/P có/V chiều/N dài/A 10.400km/M đặt/V ngầm/A dưới/E biển/N Thái_Bình_Dương/Np 
+Cáp/V có/V điểm/N kết_nối/V ở/E Trung_Quốc/Np ,/, Hong_Kong/Np ,/, Đài_Loan/Np ,/, Nhật_Bản/Np ,/, Hàn_Quốc/Np ,/, Malaysia/Np ,/, Singapore/Np ,/, Thái_Lan/Np và/CC Việt_Nam/Np với/E băng_thông/N ban_đầu/N là/V 4/M Tbps/Np ,/, tuyến/N cáp/N này/P có/V dung_lượng/N thiết_kế/V 15,3/M Tbit/Np //X s/V 
+Nhà/N mang/V nói_gì/N về/E sự_cố/N ?/? Theo/E VNPT/Np VinaPhone/Np ,/, vào/E 16h00/M chiều/N 20.6/M ,/, sự_cố/N mất/V kết_nối/V trên/E tuyến/N cáp_quang/N biển/N APG/Np hướng/V từ/E Đà_Nẵng/Np đi/V các/L hướng/N quốc_tế/N (/M Mỹ/Np ,/, Nhật/Np ,/, Hong_Kong/Np )/M đã/R xảy_ra/V làm/V ảnh_hưởng/V đến/E tốc_độ/N kết_nối/V Internet/N quốc_tế/N tại/E một_số/L giờ/N cao_điểm/A 
+“/M VNPT/Np đang/R phối_hợp/V với/E các/L đối_tác/N quốc_tế/N để/E xác_minh/V nguyên_nhân/N sự_cố/N và/CC có/V kế_hoạch/N cụ_thể/A về/E việc/N xử_lý/V lỗi/N ,/, khắc_phục/V tình_trạng/N sớm/A nhất/R có_thể/R ”/V ,/, đại_diện/V VNPT/Np VinaPhone/Np cho_hay/V 
+Đại_diện/N VNPT/Np cũng/R cho_biết/V ,/, sự_cố/N xảy_ra/V với/E tuyến/N cáp_quang/N biển/N APG/Np vào/E chiều/N ngày/N 20.6/M có_thể/R ảnh_hưởng/V tới/E chất_lượng/N kết_nối/V các/L kênh/N quốc_tế/A ,/, đặc_biệt/A tại/E các/L tỉnh/N miền/N Trung/Np 
+Tuy_nhiên/C ,/, nhà/N mạng/N này/P khẳng_định/V đã/R chủ_động/V định_tuyến/V các/L kênh/N của/E khách_hàng/N bị/V ảnh_hưởng/V sang/V các/L tuyến/N cáp_quang/N biển/N quốc_tế/N khác/A là/V SMW/Np -/- 3/M ,/, AAG/Np và/CC tuyến/N CSC/Np (/V cáp/N chạy/V trên/E đất_liền/N )/M 
+“/A Do_đó/C ,/, về/V cơ_bản/A chất_lượng/N kết_nối/V Internet/Np đi/V quốc_tế/N của/E VNPT/Np vẫn/R được/V đảm_bảo/V ”/M ,/, đại_diện/N VNPT/Np VinaPhone/Np nhấn_mạnh/V 
+Với_Viettel/Np ,/, thông_tin/N về/E sự_cố/N xảy_ra/V với/E tuyến/N cáp/N APG/Np chiều/N ngày/N 20.6/M ,/, nhà/N mạng/N này/P cho_biết/V ,/, đến/E thời_điểm/N hiện_tại/N ,/, vị_trí/N ,/, nguyên_nhân/N và/CC thời_gian/N khắc_phục/V chính_xác/A của/E sự_cố/N vẫn/R chưa/R được/V xác_định/V 
+Cũng_như/C VNPT/Np ,/, Viettel/Np tuyên_bố/V các/L khách_hàng/N của/E Viettel/Np không/R bị/V ảnh_hưởng/V bởi/E sự_cố/N này/P bởi/E dung_lượng/N dự_phòng/V trên/E các/L tuyến/N cáp/N quốc_tế/N khác/A của/E Viettel/Np vẫn/R đáp_ứng/V nhu_cầu/N sử_dụng/V dịch_vụ/N của/E khách_hàng/N ./. 

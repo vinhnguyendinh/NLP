@@ -1,0 +1,18 @@
+Ngày/N thứ/N 2/M thi/V THPT/Np Quốc_gia/Np 2017/M :/: Lần/N đầu_tiên/A thí_sinh/V làm/V bài/N tổ_hợp/N khoa_học_tự_nhiên/X ./. 
+Sáng/N nay/P -/- 23.6/M ,/, thí_sinh/N trên/E cả/P nước/N sẽ/R “/V vượt/V vũ/N môn/N ”/V với/E bài/N tổ_hợp/N khoa_học_tự_nhiên/X lần/N đầu/N xuất_hiện/V trong/E kỳ/N thi/V THPT/Np Quốc_gia/Np 
+60%/M câu_hỏi/N là/V kiểm_tra/V kiến_thức/N cơ_bản/A của/E thí_sinh/N Thử_thách/V của/E các/L em/N là/V bài/N tổ_hợp/N khoa_học_tự_nhiên/X gồm/V Vật_lý/N ,/, Hóa_học/N ,/, Sinh_học/N ,/, mỗi/L môn/N thành_phần/N có/V thời_gian/N làm/V bài/N 50/M phút/Nu 
+Đây/P là/V lần/N đầu_tiên/A kỳ/N thi/V THPT/Np quốc_gia/N có/V bài/N thi/V tổ_hợp/N với/E hình_thức/N trắc_nghiệm/V 
+Theo/E Thứ/N trưởng/N Giáo_dục/N và/CC Đào_tạo/N Bùi_Văn_Ga/Np ,/, nội_dung/N đề/N thi/V nằm/V trọn/A trong/E chương_trình/N lớp/N 12/M ,/, không/R gồm/V cả/P lớp/N 10/M và/CC 11/M như/C các/L năm/N trước/E 
+60%/M thuộc/V về/E lĩnh_vực/N cơ_bản/A 
+Thí_sinh/N nắm/V vững/A kiến_thức/N lớp/N 12/M là/V có_thể/R làm/V được/R phần/N này/P 
+40%/M còn/V lại/R để/E phân_loại/V ,/, giúp/V các/L đại_học/N tuyển_chọn/V thí_sinh/N vào/V học/V 
+Mỗi/L phòng/N thi/V có/V 24/M mã_đề/N ,/, đồng_đều/N về/V mức_độ/N khó_dễ/V 
+Bài/N thi/V KHTN/Np ,/, KHXH/Np gồm/V 120/M câu/N (/V trong/E đó/P ,/, mỗi/L môn/N thi/V thành_phần/N là/V 40/M câu/N ,/, sắp_xếp/V theo/E thứ_tự/N )/M 
+Bài/N thi/V KHTN/Np (/V môn/N thi/V Vật_lí/N :/: từ/E câu/N 1-40/M ;/; môn/N thi/V Hóa_học/N :/: từ/E câu/N 41/M -/- 80/M ;/; môn/N thi/V Sinh_học/N :/: từ/E câu/N 81-120/M )/Nu ./. 
+Bài/N thi/V KHXH/Np (/V Môn/N thi/V Lịch_sử/N :/: từ/E câu/N 1-40/M ;/; môn/N thi/V Địa_lí/N :/: từ/E câu/N 41/M -/- 80/M ;/; môn/N thi/V GDCD/Np :/: từ/E câu/N 81-120/M )/Nu 
+Đặc_biệt/A hơn/R là/V các/L câu_hỏi/N trong/E mỗi/L đề/N thi/V được/V sắp_xếp/V theo/E trật_tự/N lần_lượt/V từ/E câu_hỏi/N dễ/A đến/E câu_hỏi/N khó/A (/V đối_với/E các/L môn/N ngoại_ngữ/N có/V tính/N đặc_thù/A riêng/A nên/C việc/N sắp_xếp/V cấp_độ/N của/E các/L câu_hỏi/N thi/V sẽ/R được/V bố_trí/V tối_ưu/A nhất/R theo/V quy_luật/N trên/E )/M 
+Việc/N sắp_xếp/V các/L câu_hỏi/N trong/E đề/N thi/V như_thế_này/X sẽ/R tạo/V thuận_lợi/N cho/E thí_sinh/N làm/V bài/N thi/V theo/E tuần_tự/N các/L câu_hỏi/N thi/V trong/E đề/N ,/, đồng_thời/R sẽ/R đánh_giá/V sát_thực/A hơn_nữa/C với/E năng_lực/N của/E các/L thí_sinh/N 
+Chớ/R nên/C khoanh/V bừa/N đáp_án/N trắc_nghiệm/V !/! Kỳ/N thi/V năm/N nay/P ,/, mỗi/L môn/N trắc_nghiệm/V có/V nhiều/A mã_đề/N thi/V khác_nhau/A 
+Ngoài_ra/C ,/,  /M việc/N tổ_hợp/N các/L đề/N thi/V và/CC bố_trí/V vị_trí/N các/L đáp_án/N đúng/A của/E các/L câu_hỏi/N thi/V là/V do/E máy_tính/N tự_động/A rút/V và/CC sắp_xếp/V ,/, do_đó/C có/V những/L phương_án/N lựa_chọn/V A/Np hoặc/CC B/Np hoặc/CC C/Np hoặc/CC D/Np của/E một_số/L mã_đề/N chỉ/R có/V khoảng/N 10%/M là/V số_là/N đáp_án/N đúng/A rơi/V vào/E phương_án/N lựa_chọn/V đó/P 
+Vì_vậy/C ,/, nếu/C thí_sinh/N cứ/R “/V chọn/V bừa/N ”/A tất_cả/P bài/N thi/V là/V một/M phương_án/N thì/C có_thể/R vô_tình/A chọn/V vào/E phương_án/N chỉ/R có/V 10%/M đáp/V áp/V là/V đúng/A ,/, như_vậy/X các/L em/N chỉ/R được/V 1,0/M điểm/N môn/N đó/P ,/, dẫn/V đến/R bị/V điểm/N liệt/A môn/N thi/V này/P và/CC không/R được/V xét/V công_nhận/V tốt_nghiệp/V THPT/Np 
+Vì_vậy/C ,/, để/E không/R bị/V điểm/N liệt/A ,/, bắt_buộc/V những/L thí_sinh/N có/V năng_lực/N môn/N thi/N nào/P yếu/A thì_phải/V tăng_cường/V học_tập/V môn/N đó/P ./. 

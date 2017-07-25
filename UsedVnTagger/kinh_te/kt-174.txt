@@ -1,0 +1,5 @@
+Xử_phạt/V 7/M công_ty/N phát_tán/V tin/N nhắn/V rác/N ./. 
+Nguồn/N tin/N từ/E Bộ/N TT&/Np TT/Np cho_biết/V ,/, Thanh_tra/N Bộ/N vừa/R xử_phạt/V 7/M doanh_nghiệp/N cung_cấp/V dịch_vụ/N nội_dung/N số/N vì/E hành_vi/N phát_tán/V tin/N nhắn/V rác/N để/E quảng_cáo/V dịch_vụ/N 
+Nguồn/N tin/N từ/E Bộ/N TT&/Np TT/Np cho_biết/V ,/, Thanh_tra/N Bộ/N vừa/R xử_phạt/V 7/M doanh_nghiệp/N cung_cấp/V dịch_vụ/N nội_dung/N số/N vì/E hành_vi/N phát_tán/V tin/N nhắn/V rác/N để/E quảng_cáo/V dịch_vụ/N 
+Tổng_số/N tiền/N xử_phạt/V các/L doanh_nghiệp/N vi_phạm/V là/V 280/M triệu/M đồng/Nu 
+Danh_tính/N các/L công_ty/N được/V công_bố/V bao_gồm/V :/: Công_ty/N TNHH/Np Quang_Nhật/Np ;/; Công_ty/N Cổ_phần/N thương_mại/N dịch_vụ/N công_nghệ/N Huy_Hoàng/Np ;/; Công_ty/N TNHH/Np thương_mại/N công_nghệ/N Thanh_Bình/Np ;/; Công_ty/N TNHH/Np HeKa/Np .../... 

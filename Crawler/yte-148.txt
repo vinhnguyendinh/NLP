@@ -1,3 +1,0 @@
-Từ 1.7, 38 bệnh viện sẽ liên thông kết quả xét nghiệm.
-Từ 1.7 tới, 38 bệnh viện (BV) trực thuộc Bộ Y tế sẽ thực hiện việc liên thông kết quả xét nghiệm
-Liên thông xét nghiệm nghĩa là kết quả xét nghiệm ở bệnh viện này sẽ được chấp nhận khi khám chữa ở bệnh viện khác, giúp người bệnh không phải xét nghiệm nhiều lần mỗi khi chuyển viện.

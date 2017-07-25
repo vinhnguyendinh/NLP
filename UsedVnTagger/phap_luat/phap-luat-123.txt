@@ -1,0 +1,11 @@
+Đoàn/N đại_biểu/N quốc_hội/V vào_cuộc/N giám_sát/V vụ/N hai/M cán_bộ/N xã/N bị/V giam/V oan/A ./. 
+Đoàn_Đại/Np biểu/V Quốc_hội/N (/V ĐBQH/Np )/M tỉnh/N Đồng_Nai/Np vừa/R có/V thông_báo/N trả_lời/V đơn/N cho/E ông/Nc Võ_Văn_Bảy/Np và/CC ông/Nc Trần_Bá_Đại/Np (/V ngụ/V H.Cẩm/Np Mỹ/Np ,/, Đồng_Nai/Np )/V 
+Theo/E đó/P ,/, đoàn/N ĐBQH/Np tỉnh/N Đồng_Nai/Np đã/R đề_nghị/V VKSND/Np tỉnh/N Đồng_Nai/Np xem_xét/V giải_quyết/V vụ_án/N ,/, khi/N có/V kết_quả/N sẽ/R thông_báo/V 
+Văn_phòng/N UBND/Np tỉnh/N Đồng_Nai/Np có/V văn_bản/N nêu/V rõ/A :/: Đoàn/N ĐBQH/Np tỉnh/N này/P đã/R tổ_chức/V giám_sát/V thực_hiện/V pháp_luật/N về/V khởi_tố/V ,/, điều_tra/V ,/, truy_tố/V ,/, xét_xử/V vụ_án/N lừa_đảo/V chiếm_đoạt/V tài_sản/N ,/, thiếu/V trách_nhiệm/N gây/V hậu_quả/N nghiêm_trọng/A tại/E huyện/N Cẩm_Mỹ/Np và/CC đã/R có/V kết_luận/N giám_sát/V 
+Đoàn/Np ĐBQH/Np tỉnh/N Đồng_Nai/Np đề_nghị/V VKSND/Np tỉnh/N Đồng_Nai/Np phối_hợp/V với/E các/L cơ_quan/N liên_quan/V tiếp_tục/V xử_lý/V vụ_án/N đúng/A pháp_luật/N ,/, không/R làm/V oan/A người/N vô_tội/A ,/, không/R bỏ/V lọt/V tội_phạm/N 
+Như/C thông_tin/N đã/R đưa/V ,/, năm/N 2007/M ,/, bà/N Nguyễn_Thị_Kim_Lý/Np nhờ/V một/M người/Nc hàng_xóm/N là/V ông/Nc Trần_Bá_Đại/Np ,/, một/M cán_bộ/N địa_chính/N xã/N ,/, mang/V hồ_sơ/N đến/E UBND/Np xã/N Xuân_Bảo/Np ký/V chứng_thực/V 
+Ông/Nc Đại/Np tin_tưởng/V nên/C đem/V trình/N Chủ_tịch/N xã/N Võ_Văn_Bảy/Np ký/V chứng_thực/V 
+Sau/E đó/P ,/, bà/Nc Lý/Np bị/V VKSND/Np huyện/N Cẩm_Mỹ/Np truy_tố/V tội/N lừa_đảo/V chiếm_đoạt/V tài_sản/N và/CC bị/V tòa/N cùng/A cấp/N phạt/V tù/N 
+Còn/C ông/Nc Đại/Np và/CC ông/Nc Bảy/Np bị/V xử_phạt/V lần_lượt/R 12/M tháng/N và/CC 18/M tháng/N cải_tạo/V không/R giam_giữ/V về/E tội/N Thiếu/V trách_nhiệm/N gây/V hậu_quả/N nghiêm_trọng/A 
+Sau/E khi/N án/N sơ_thẩm/V bị/V TAND/Np tỉnh/N Đồng_Nai/Np hủy/V ,/, VKSND/Np huyện/N Cẩm_Mỹ/Np đã/R đình_chỉ/V điều_tra/V bị_can/N 4/M người/N với/E lý_do/N miễn/V trách_nhiệm/N hình_sự/N theo/E khoản/N 1/M Điều/N 25/M BLHS/Np 
+Nhận/V thấy/V mình/P bị/V oan/A sai/A ,/, ông/Nc Đại/Np và/CC ông/Nc Bảy/Np đã/R làm/V đơn/N kêu_oan/V gửi/V các/L nơi/N ./. 

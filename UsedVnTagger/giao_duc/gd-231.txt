@@ -1,0 +1,11 @@
+TPHCM/Np công_bố/V số_liệu/N tuyển_sinh/V vào/E lớp/N 10/M trường/N công_lập/V ./. 
+Ngày/N 5.5/M ,/, Sở/N Giáo/N dục/N -/- Đào_tạo/N TPHCM/Np đã/R công_bố/V số_liệu/N tổng_hợp/V ban_đầu/N về/E số/N học_sinh/N đăng_ký/V dự/V thi/V vào/E lớp/N 10/M công_lập/N của/E từng/P trường/N 
+Tham_khảo/V số_liệu/N này/P ,/, thí_sinh/N có_thể/R thay_đổi/V nguyện_vọng/N đã/R đăng_ký/V 
+Số_liệu/N thống_kê/V cho/E thấy/V ,/, trường/N có/V nhiều/A hồ_sơ/N đăng_ký/V nguyện_vọng/N 1/M là/V THPT/Np Gia_Định/Np với/E 1.740/M hồ_sơ/N ;/; kế/V đến/R là/V THPT/Np Trần_Phú/Np với/E 1.715/M hồ_sơ/N ,/, THPT/Np Mạc_Đĩnh_Chi/Np và/CC THPT/Np Hùng_Vương/Np có/V cùng/A số_lượng/N là/V 1.656/M hồ_sơ/N 
+Ở/E nguyện_vọng/N 2/M ,/, trường/N có/V số/N học_sinh/N đăng_ký/V nhiều/A nhất_là/X Marie_Curie/Np 1.856/M hồ_sơ/N đăng_ký/V ,/, THPT/Np Phạm_Văn_Sáng/Np với/E 1.804/M hồ_sơ/N đăng_ký/V ,/, tiếp_theo/V là/V THPT/Np Nguyễn_Trung_Trực/Np với/E 1.670/M hồ_sơ/N 
+Còn/C ở/E nguyện_vọng/N 3/M ,/, trường/N THPT/Np Đa_Phước/Np có/V nhiều/A hồ_sơ/N đăng_ký/V nhất/A với/E 2.995/M hồ_sơ/N đăng_ký/V ,/, THPT/Np Nguyễn_Văn_Cừ/Np với/E 2.941/M hồ_sơ/N ,/, THPT/Np Nguyễn_Trung_Trực/Np 2.704/M hồ_sơ/N 
+Tại/E hệ/N trường/N chuyên/A ,/, THPT/Np chuyên/A Lê_Hồng_Phong/Np dẫn_đầu/V số_lượng/N học_sinh/N với/E 2.728/M hồ_sơ/N đăng_ký/V vào/E nguyện_vọng/N 1/M ,/, trong/E khi/N chỉ_tiêu/N tuyển_sinh/V là/V 700/M 
+Điều/N đó/P có/V nghĩa_là/X tỷ_lệ/A chọi/V khá/R cao/A 1/M chọi/V 3,9/M 
+Còn_Trường/Np THPT/Np chuyên/A Trần_Đại_Nghĩa/Np nhận/V được/R 782/M hồ_sơ/N đăng_ký/V nguyện_vọng/N 1/M ,/, THPT/Np Nguyễn_Thượng_Hiền/Np 711/M hồ_sơ/N nguyện_vọng/N 1/M 
+Dựa/V vào/E số_liệu/N tổng_hợp/V ban_đầu/N về/E số/N học_sinh/N đăng_ký/V 3/M nguyện_vọng/N ,/, học_sinh/N có/V quyền/N thay_đổi/V nguyện_vọng/N đăng_ký/V 
+Theo/E đó/P ,/, các/L em/N sẽ/R làm/V lại/R đơn/N mới/A ,/, hủy/V đơn/N cũ/A và/CC nộp/V tại/E trường/N đang/R học/V lớp/N 9/M từ/E ngày/N 5.5/M đến/E 11.5/M ./. 

@@ -1,0 +1,12 @@
+Vốn/N FDI/Np đổ/V “/N ào_ào/A ”/V vào/E công_nghiệp/N chế_biến/V ,/, chế_tạo/V và/CC bất_động_sản/N ./. 
+Theo/E Cục_Đầu/Np tư/M nước_ngoài/N (/N Bộ/N KHĐT/Np )/V ,/, tính/V đến/E ngày/N 20.6.2017/M ,/, cả/P nước/N có/V 23.594/M dự_án/N còn/V hiệu_lực/N với/E tổng/N vốn/N đăng_ký/V 306,3/M tỉ/M USD/Nu 
+Vốn/N thực_hiện/V lũy/N kế/V ước/V đạt/V 162,57/M tỉ/M USD/Nu ,/, bằng/E 53%/M tổng/N vốn/N đăng_ký/V còn/V hiệu_lực/N 
+Xét/V theo/E lĩnh_vực/N đầu_tư/V ,/, các/L nhà_đầu_tư/N nước_ngoài/N đã/R đầu_tư/V vào/E 19/21/M ngành/N lĩnh_vực/N trong/E hệ_thống/N phân/N ngành/N kinh_tế/N quốc_dân/A ,/, trong/E đó/P lĩnh_vực/N công_nghiệp/N chế_biến/V ,/, chế_tạo/V chiếm/V tỉ_trọng/N cao/A nhất/A với/E 180,68/M tỉ/M USD/Nu (/V chiếm/V 58,98%/M tổng/N vốn/N đầu_tư/V )/A 
+Đứng/V thứ_hai/N là/V lĩnh_vực/N kinh_doanh/V bất_động_sản/N với/E 50,99/M tỉ/M USD/Nu (/V chiếm/V 16,6%/M tổng/N vốn/N đầu_tư/V )/A 
+Lĩnh_vực/N sản_xuất/V ,/, phân_phối/V điện/N ,/, khí/N nước/N đứng/V thứ_ba/N với/E 18,83/M tỉ/M USD/Nu (/V chiếm/V 6,14%/M tổng/N vốn/N đầu_tư/V )/A 
+Xét/V theo/E đối_tác/N đầu_tư/V ,/, tính/V đến/E tháng/N 6.2017/M ,/, có/V 120/M quốc_gia/N và/CC vùng/N lãnh_thổ/N có/V đầu_tư/V vào/E Việt_Nam/Np ,/, trong/E đó/P đứng/V đầu/N là/V Hàn_Quốc/Np với/E tổng/N vốn/N đăng_ký/V 54,5/M tỉ/M USD/Nu (/V chiếm/V 17,7%/M tổng/N vốn/N đầu_tư/V )/A 
+Nhật_Bản/Np đứng/V thứ_hai/N với/E 46,19/M tỉ/M USD/Nu (/V chiếm/V 15%/M tổng/N vốn/N đầu_tư/V )/A ,/, tiếp_theo/V lần_lượt/R là/V Singapore/Np ,/, Đài_Loan/Np (/V TQ/Np )/M ,/, Quần_đảo/N Virgin/Np (/V Anh/N )/A ,/, Hồng_Kông/Np 
+Về/V địa_bàn/N đầu_tư/V ,/, đầu_tư/V nước_ngoài/N đã/R có_mặt/V ở/E 63/M tỉnh/N ,/, thành_phố/N ,/, trong/E đó/P TPHCM/Np dẫn_đầu/V về/V thu_hút/V đầu_tư/V trực_tiếp/A nước_ngoài/N với/E 41,67/M tỉ/M USD/Nu (/V chiếm/V 13,6%/M tổng/N vốn/N đầu_tư/V )/A 
+Bình_Dương/Np đứng/V thứ_hai/N với/E 28,66/M tỉ/M USD/Nu (/V chiếm/V 9,3%/M tổng/N vốn/N đầu_tư/V )/A 
+Bà/Nc Rịa/Np -/- Vũng_Tàu/Np đứng/V thứ_ba/N với/E 26,72/M tỉ/M USD/Nu (/V chiếm/V 8,7%/M tổng/N vốn/N đầu_tư/V )/A 
+Hà_Nội/Np đứng/V thứ_tư/V với/E 26,3/M tỉ/M USD/Nu (/V chiếm/V 8,5%/M tổng/N vốn/N đầu_tư/V )/A ./. 
