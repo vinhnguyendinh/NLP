@@ -1,0 +1,16 @@
+Tin_tặc/N biến/V ransomware/V thành/V ngành/N kinh_doanh/V béo_bở/A ./. 
+Mã/N độc/A bắt_cóc/V dữ_liệu/N tống_tiền/V (/N ransomware/N )/M bùng_phát/N từ/E năm/N 2015/M trở_lại/V đây/P cho/V thấy/V tin_tặc/N (/V hacker/N )/A đã/R bước/V qua/R “/M thuở/N thơ_ngây/V ”/N 
+Nghĩa_là/X ,/, chúng/P không/R tiếp_tục/V dành/V thời_gian/N và/CC công_sức/N chỉ/R để/E phá_hoại/V nữa/R ,/, mà/C chuyển_hướng/V vào/E mục_tiêu/N thực_dụng/V là/V làm_tiền/V 
+Mục_tiêu/N của/E ransomware/N là/V tiền/N chuộc/V 
+Tuy_nhiên/C ,/, khi/N tin_tặc/N đã/R khóa/V được/R dữ_liệu/N thì/C cũng/R hoàn_toàn/A có_thể/R thu_thập/V được/R dữ_liệu/N đó/P ,/, và/CC việc/N có/V công_khai/A ,/, phát_tán/V hay/C không/R hoàn_toàn/A phụ_thuộc/V vào/E tính_toán/V của/E chúng/P 
+Doanh_nghiệp/N là/V đối_tượng/N chính/T ransomware/N lấy_được/V tiền/N chuộc/V ;/; nhưng/C các/L thông_tin/N chính_trị/N ,/, an_ninh/N quốc_gia/N ,/, bí_mật/N quân_sự/N ./. v/V ./. v/V …/N càng/R trở_thành/V những/L món/N hàng/N kinh_doanh/V siêu/Z béo_bở/A đối_với/E tội_phạm/N ransomware/N ./. 
+Lỗ_hổng/N nghiêm_trọng/A nhất/A ở/E ý_thức/N người/N dùng/V 
+Theo/E Bkav/Np ,/, tại/E Việt_Nam/Np có/V đến/V 52%/M máy_tính/N tồn_tại/V lỗ_hổng/N mã/V độc/A WannaCry/Np có_thể/R xâm_nhập/V và/CC tấn_công/V 
+Tuy_nhiên/C trong/E 3/M ngày/N qua/V ,/, chưa/R có/V thống_kê/V số/N nạn_nhân/N chính_thức/A của/E WannaCry/Np tại/E Việt_Nam/Np 
+Có/V nguồn/N tin/N khó/A kiểm_chứng/V cho/V rằng/C đã/R có/V khoảng/A 200/M nạn_nhân/N ,/, và/CC có/V doanh_nghiệp/N bị/V yêu_cầu/V trả/V tiền/N chuộc/V lên/R đến/T 300/M triệu/M đồng/Nu 
+Trong/E khi/N đó/P ,/, các/L chuyên_gia/N bảo_mật/V mà/C chúng_tôi/P có/V dịp/N trao_đổi/V cho_biết/V ,/, họ/P đã/R nhận/V được/R hàng/R chục/M yêu_cầu/N trợ_giúp/V từ/E các/L doanh_nghiệp/N đã/R bị/V WannaCry/Np khóa/V dữ_liệu/N trong/E hệ_thống/N máy_tính/N ./. 
+Mã/N độc/A WannaCry/Np xâm_nhập/V vào/E máy_tính/N qua/V lỗ_hổng/N MS17-010/Np trên/E hệ_điều_hành/N Windows/Np của/E Microsoft/Np 
+Thế_nhưng/C việc/N cập_nhật/V bản/N vá/V lỗ_hổng/A cũng/R chỉ/R giới_hạn/V đối_với/E những/L máy/N sử_dụng/V hệ_điều_hành/N có/V bản_quyền/N ,/, trong/E đó/P cũng/R tích_hợp/V sẵn/A phần_mềm/N bảo_mật/V Windows_Defender/Np có_thể/R chống/V xâm_nhập/V của/E mã/N độc/A WannaCry/Np 
+Song/C đối_với/E những/L máy_tính/N không/R sử_dụng/V Windows/Np bản_quyền/N ,/, không/R cập_nhật/V được/R bản/N vá/V cũng_như/C phần_mềm/N Windows_Defender/Np ,/, chỉ/R còn/V cách/N cài_đặt/V phần_mềm/N chống/V virus/N có/V bản_quyền/N từ/E nhà_cung_cấp/N khác/A để/E có/V được/V các/L bản/N cập_nhật/V với/E những/L tính_năng/N bảo_vệ/V mới/A nhất/A ./.  /EOS 
+Tuy_nhiên/C ,/, theo/E chuyên_gia/N bảo_mật/V Võ_Đỗ_Thắng/Np -/- Giám_đốc/N Trung_tâm/N An_ninh/N mạng/N Athena/Np ,/, ngay/T cả/T khi/N người/N dùng/V đã/R cập_nhật/V bản/N vá/V lỗi/N ,/, không/R có_nghĩa/V đã/R thoát/V khỏi/R “/M nanh_vuốt/N ”/A của/E WannaCry/Np 
+Bởi_Wanna/Np Cry/Np còn/R được/V phát_tán/V qua/R phương_tiện/N email/N ,/, chat/V …/A dưới/E dạng/N file/V đính/N kèm/V ,/, đường/N link/V mà/C nếu/C người/N dùng/V vô_ý/A hay/C chủ_quan/A click/V vào/R là/V "/" dính/V đòn/N "/" ngay/T ./. 

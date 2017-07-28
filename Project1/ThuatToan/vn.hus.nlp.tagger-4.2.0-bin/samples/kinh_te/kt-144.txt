@@ -1,0 +1,21 @@
+Bột/N trắng/A từ/E nhà_máy/N alumin/V Nhân_Cơ/Np phát_tán/V ra/R ngoài/N do/E không/R được/V che_chắn/V kín/A ./. 
+Sáng/N 4.7/M ,/, Đoàn/N công_tác/N của/E Bộ/N Công_Thương/Np đã/R tiến_hành/V làm_việc/V với/E Công_ty/N nhôm/N Đăk_Nông/Np –/V TKV/Np tại/E Nhà_máy/N Alumin_Nhân_Cơ/Np ./.  /M Nguyên_nhân/N là/V do/E khu_vực/N chứa/V sản_phẩm/N alumin/N xả/V đáy/N không/R được/V che_chắn/V kín/A 
+Trong/E quá_trình/N xả/V đáy/N vừa_qua/X có/V sự/N xuất_hiện/V gió/N lớn/A nên/C bột/N alumin/N phát_tán/V ra/R bên/N ngoài/N 
+Đoàn/N làm_việc/V gồm/V ông/N Trần_Văn_Lượng/Np –/M Cục_trưởng/N Cục/N Kỹ/Np thuật/V an_toàn/A và/CC Môi_trường/N công_nghiệp/N ,/, ông/N Trịnh_Văn_Thuận/Np –/V Phó_trưởng/N phòng/N Kiểm_soát/V ô_nhiễm/V và/CC Công_nghiệp/N môi_trường/N ,/, ông/Nc Ngô_Thế_Tùng/Np –/V Phó_Giám/Np đốc/V Sở/N Công_Thương/Np tỉnh/N Đắk_Nông/Np ,/, ông/Nc Lã_Hồng_Tuyến/Np –/V Phó_Trưởng_Ban/Np KSH/Np –/M Tập_đoàn/N Công_nghiệp/N Than/V –/N Khoáng_sản/N Việt_Nam/Np 
+Theo/E báo_cáo/N ,/, thời_điểm/N tối_ngày/N 27.6/M ,/, tại/E khu_vực/N lò/N nung/V hydrat/N ,/, công_ty/N tiến_hành/V xả/V đáy/N lò/N nung/V tại/E 2/M đường/N ống_xả/N V21/Np ,/, V22/Np ,/, sản_phẩm/N alumin/N xả/V đáy/N được/V chứa/V trong/E bể/V chứa/V hở/T (/M kích_thước/N :/: 3,8/M x4/N ,/, 2x0/M ,/, 85m/M )/N 
+Tuy_nhiên/C ,/, do/E gặp/V gió/N lớn/A ,/, bột/N alumin/N xả/V đáy/N đã/R phát_tán/V ra/R một_vài/L hộ/N dân/N cách/V nhà_máy/N khoảng/A 700m/M theo/E hướng/N gió/N 
+Hiện_tượng/N phát_tán/V bột/N alumin/N vừa_qua/X là/V sự_việc/N lần/N đầu/N xảy_ra/V trong/E quá_trình/N vận_hành/V thử_nghiệm/V 
+Đoàn/N công_tác/N đã/R rà_soát/V quy_trình/N vận_hành/V và/CC xác_định/V việc/N xả/V đáy/N sản_phẩm/N alumin/N thuộc/V quy_trình/N vận_hành/V của/E nhà_máy/N ,/, hoạt_động/N này/P chỉ/R tiến_hành/V trong/E trường_hợp/N dừng/V máy/N do/E mất/V điện/N hoặc/CC gặp/V sự_cố/N 
+Kiểm_tra/V tại/E khu_vực/N lò/N nung/V hydrat/N ,/, đoàn/N nhận/V thấy/V sản_phẩm/N alumin/N có/V tràn/V ra/R ngoài/E khu_vực/N xung_quanh/N 
+Kiểm_tra/V thực_tế/N tại/E khu_vực/N dân_cư/N thôn/N 11/M ,/, đoàn/N không/R còn/V thấy/V hiện_tượng/N bột/N trắng/A phát_tán/V 
+Tuy_nhiên/C ,/, theo/E phán/V ánh/N của/E người_dân/N ,/, có/V hiện_tượng/N mùi/N phát_sinh/V theo/V chu_kỳ/N 
+Kết_luận/V của/E đoàn/N công_tác/N cho/V thấy/V ,/, theo/V kết_quả/N xác_minh/V của/E Sở/N Tài/Np nguyên/A và/CC Môi_trường/N tỉnh/N Đắk_Nông/Np ,/, bột/N trắng/A phát_tán/V được/R xác_định/V là/C sản_phẩm/N bột/N alumin/N 
+Nguồn/N phát_sinh/V bột/N alumin/V ra/R bên/N ngoài/N được/V xác_định/V là/V tại/E khu_vực/N chứa/V sản_phẩm/N alumin/N xả/V đáy/N lò/N nung/V hydrat/N 
+Nguyên_nhân/N như/C báo_cáo/V ở/E trên/N 
+Và/C vì/E đang/R giai_đoạn/N vận_hành/V thử_nghiệm/V ,/, công_ty/N chưa/R nhận_thức/V và/CC xác_định/V hết/R những/L nguy_cơ/N phát_tán/V để/E kịp_thời/A có/V biện_pháp/N phòng_ngừa/V sự_việc/N 
+Ngay/T sau/E khi/N xảy_ra/V sự_việc/N ,/, công_ty/N đã/R chủ_động/V phối_hợp/V với/E Sở/N Tài/N nguyên/A và/CC Môi_trường/N ,/, chính_quyền/N địa_phương/N xác_minh/V sự_việc/N và/CC thực_hiện/V các/L giải_pháp/N khắc_phục/V 
+Để/E khắc_phục/V sự_việc/N trên/A ,/, đoàn/N công_tác/N đề_nghị/V công_ty/N triển_khai/V các/L giải_pháp/N :/: Tiếp_tục/V thực_hiện/V và/CC sớm/A hoàn_thành/V các/L biện_pháp/N khắc_phục/V như/C đã/R triển_khai/V 
+Cải_tiến/V việc/N thu_hồi/V sản_phẩm/N khi/N xả/V đáy/N lò/N ngay/T từ/E phễu/N xả/V (/N thực_hiện/V các/L giải_pháp/N làm/V kín/A vị_trí/N xả/V sản_phẩm/N alumin/N V21/Np ,/, V22/Np )/V nhằm/V nâng/V cao/A hiệu_quả/N thu_hồi/V sản_phẩm/N 
+Rút/V kinh_nghiệm/N ,/, tiếp_thu/V ý_kiến/N của/E cộng_đồng/N dân_cư/N để/E rà_soát/V lại/R toàn_bộ/L các/L quy_trình/N vận_hành/V ,/, công_nghệ/N để/E kịp_thời/A phát_hiện/V những/L nguy_cơ/N có_thể/A phát_tán/V ra/R ngoài/N ,/, tránh/V sự_việc/N tái_diễn/V 
+Hoàn_thành/V các/L nội_dung/N trên/A và/CC báo_cáo/V kết_quả/N thực_hiện/V về/E Bộ/N Công_Thương/Np ,/, Sở/N Công_Thương/Np tỉnh/N Đắk_Nông/Np ,/, Tập_đoàn/N Công_nghiệp/N Than/V –/N Khoáng_sản/N Việt_Nam/Np trước/E ngày/N 25.7/M 
+Đoàn/N công_tác/N cũng/R đề_nghị/V Sở/N Công_Thương/Np tỉnh/N Đắk_Nông/Np ,/, Tập_đoàn/N Công_nghiệp/N Than/V –/N Khoáng_sản/N Việt_Nam/Np giám_sát/V ,/, đôn_đốc/V việc/N thực_hiện/V của/E công_ty/N ./. 

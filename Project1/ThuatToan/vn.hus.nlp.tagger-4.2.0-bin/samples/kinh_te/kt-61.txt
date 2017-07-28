@@ -1,0 +1,12 @@
+Giá/N vàng/N hôm_nay/N 12.7/M :/: Tăng_tốc/V lên/E giá/N ,/, thoát/V đáy/N ./. 
+Giá/N vàng/N hôm_nay/N 12.7/M đã/R tăng/V phiên/N thứ_hai/N liên_tiếp/A 
+Nguyên_nhân/N hỗ_trợ/V cho/E giá/N vàng/N đi/V lên/R là/V do/E đồng/N USD/Np bất_ngờ/A giảm_giá/V 
+Mở_cửa/V phiên/N giao_dịch/V sáng/N nay/P (/M 12.7/M )/N ,/, Tập_đoàn/N DOJI/Np niêm_yết/V  /V giá/N vàng/N SJC /Np ở/E mức/N 36,17/M –/Nu 36,25/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E -/- bán/V ra/R )/N ,/, tăng/V 50/M nghìn/N ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V ngày/N hôm_qua/N 
+Giá/N vàng/N SJC/Np tại/E Bảo_Tín_Minh_Châu/Np niêm_yết/V ở/E mức/N 36,17/M –/Nu 36,23/M triệu/M đồng/Nu //X lượng/N ,/, giữ/V nguyên/A ở/E cả/P hai/M chiều/N so/V với/E cùng/A thời_điểm/N ngày/N hôm/N trước/A 
+Giá/N nhẫn/N tròn/A trơn/A Vàng/Np rồng/V Thăng_Long/Np đang/R ở/V mức/N  /N 34,08/M –/Nu 34,53/M triệu/lượng/N ,/, tăng/V 160.000đ/lượng/M cả/P hai/M chiều/N mua/V vào/R và/CC bán/V ra/R so/V với/E giá/N chốt/N phiên/N hôm_qua/N 
+Tại_Công/Np ty/V cổ_phần/N vàng_bạc/V đá_quý/N Phú_Nhuận/Np (/V PNJ/Np )/V giá/N  /V vàng/N miếng/Nc SJC /Np được/V niêm_yết/V ở/E 36,19/M –/N 36,27/M triệu/M đồng/Nu //X lượng/N  /N (/V mua/V vào/E –/N bán/V ra/R )/N ,/, tăng/V 30/M nghìn/N ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V ngày/N 11.7/M 
+Giá/N vàng/N thế_giới/N  /A hiện/N đang/R niêm_yết/V ở/E mức/N 1219,50/M –/Nu 1220,00/M USD/ounce/Np 
+Mở_cửa/V phiên/N giao_dịch/V sáng/N 12.7/M giá/N vàng/N giao_dịch/V tại/E thị_trường/N châu/N Á/Np ở/E mức/N 1219.2/M USD/ounce/Np tăng/V mạnh/A gần/A 7/M USD/Nu ,/, tương/N đươc/V mức/N tăng/V hơn/R 0.5%/M so/V với/E phiên/N giao_dịch/V đầu/N giờ/N sáng_qua/V (/N 11.7/M )/N ở/E mức/N 1212.5/M USD/ounce/Np 
+Nguyên_nhân/N giá/N vàng/N tăng/V mạnh/A trở_lại/V là/V do/E giá/N đồng/N đô_la/A trong/E phiên/N giao_dịch/V ngày/N hôm_qua/N bất_ngờ/A giảm/V mạnh/A hơn/R 0.4%/M xuống/E mức/N 95.59/M điểm/N ,/, đồng/N đô_la/V mất_giá/N đã/R tạo/V động_lực/N cho/E giá/N vàng/N tăng/V ngược/A trở_lại/V và/CC ổn_định/V ở/E vùng/N giá/N kháng_cự/A từ/E 1217-1220/M đô_la/N //X ounce/V 
+Trên/E thị_trường/N ngoại_hối/N ,/, tỷ_giá/N trung_tâm/N do/E Ngân_hàng/N Nhà_nước/N công_bố/V sáng/N 12.7/M là/V 22.448/M VND/USD/Np ,/, giảm/V 1/M đồng/Nu so/V với/E phiên/N trước/E đó/P 
+Tỷ_giá/N USD/Np Vietcombank/Np hôm_nay/N đang/R niêm_yết/V ở/E mức/N 22.695-22.765VND/USD/Np (/V mua/V vào/E -/- bán/V ra/R )/M ,/, giảm/V 20/M đồng/Nu ở/E cả/P hai/M chiều/N so/V với/E phiên/N giao_dịch/V trước/E đó/P một/M ngày/N ./. 

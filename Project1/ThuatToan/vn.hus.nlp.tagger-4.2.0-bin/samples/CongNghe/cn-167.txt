@@ -1,0 +1,11 @@
+Chương trình phát triển vi mạch TPHCM: Chuyển giao 2 thiết bị để thương mại hóa.
+Hai thiết bị công nghệ này gồm: Thiết bị thu thập dữ liệu điện kế từ xa sử dụng công nghệ GSM, Ethernet (DCM) và Bộ tập trung dữ liệu (DCU), được ICDREC chuyển giao không độc quyền cho Cty CP Công nghệ SENVI để thương mại hóa
+Theo ông Trần Văn Phương – Giám đốc Cty SENVI, bước đầu Cty này đã triển khai khoảng 5.000 bộ thiết bị DCM lắp đặt cho TCty Điện lực TPHCM, cho đối tác ngành điện lực ở tỉnh Ninh Bình và đưa ra kênh phân phối ngành điện
+Thiết bị DCM được sử dụng thay thế cho thiết bị nhập khẩu từ Trung Quốc, thay vì phải trả chi phí thuê bao 140.000 đồng/tháng trước đây thì nay chỉ phải trả 95.000 đồng cho việc sử dụng thiết bị của SENVI, giảm hơn 32% chi phí
+Và điều đáng nói hơn, hai sản phẩm DCM và DCU là kết quả thuộc Chương trình phát triển công nghiệp vi mạch TPHCM, do ICDREC (Trung tâm Nghiên cứu và Đào tạo thiết kế vi mạch thuộc ĐH Quốc gia TPHCM) trực tiếp nghiên cứu và phát triển; nay được chuyển giao lại cho SENVI là doanh nghiệp khởi nghiệp được hình thành từ Chương trình phát triển công nghiệp vi mạch TPHCM
+Thiết bị DCM được sử dụng trong các ứng dụng thu thập dữ liệu từ xa nói chung, dữ liệu được thu thập qua giao tiếp RS232/RS485 và truyền về trung tâm qua GPRS/3G/Ethernet
+DCM sử dụng chip vi điều khiển SG8V1 do Việt Nam (ICDREC) thiết kế và sản xuất
+DCM sử dụng trong hệ thống thu thập và quản lý dữ liệu điện kế với nhiều tính năng nổi bật: giao tiếp được với nhiều chủng loại điện kế của các hãng: Elster, Genius, Landis&Gyr, Shenzhen, GELEX, CPC-EMEC, VINASINO; dữ liệu được bảo mật theo tiêu chuẩn AES-128; khả năng cập nhập firmware từ xa
+Còn DCU quản lý và thu thập dữ liệu các điện kế qua các chuẩn truyền thông khác nhau như RF 408,925 MHz, ZigBee (2,4 GHz), PLC (Power Line Communication), ứng dụng một phần kết quả nghiên cứu do Sở KHCN TPHCM cấp kinh phí
+DCU còn giao tiếp và trao đổi thông tin hai chiều với phần mềm hệ thống HES qua mạng viễn thông 2G/3G hoặc Ethernet
+Ông Phương cho biết, việc hợp tác với ICDREC có thuận lợi lớn nhất là khi cần cập nhật hoặc mở rộng tính năng cho thiết bị, thì ICDREC có thể đáp ứng nhanh và bất cứ lúc nào, trong khi nếu là đối tác nước ngoài, thì việc này sẽ chờ rất lâu và phức tạp.

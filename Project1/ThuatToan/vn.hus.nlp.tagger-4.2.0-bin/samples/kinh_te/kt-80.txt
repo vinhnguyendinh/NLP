@@ -1,0 +1,20 @@
+HNX/Np chạy/V thử_nghiệm/V chứng_khoán/V phái_sinh/N trong/E 2/M ngày/N tới/V ./. 
+Ngày/N 12.7/M và/CC 13.7/M ,/, Sở/N GDCK/Np Hà_Nội/Np kết_hợp/V với/E CTCK_SSI/Np sẽ/R tổ_chức/V giới_thiệu/V hệ_thống/N và/CC thử_nghiệm/V giao_dịch/V chứng_khoán/V phái_sinh/N dành/V cho/E các/L phóng_viên/N 
+Bà/Nc Nguyễn_Thị_Hoàng_Lan/Np -/- Phó_Tổng/Np giám_đốc/N phụ_trách/V HNX/Np -/- khẳng_định/V ,/, các/L công_việc/N chuẩn_bị/V cho/E chứng_khoán/N phái_sinh/N đã/R hoàn_tất/V và/CC sẵn_sàng/V hoạt_động/V 
+Dự_kiến/V ngày/N khai_trương/V và/CC giao_dịch/V vào/E đầu/N tháng/N 8/M tới/V đã/R được/V Bộ/N Tài/N chính/T thông_qua/V và/CC đang/R trình/V Chính_phủ/N xem_xét/V quyết_định/V 
+Cho/V tới/E thời_điểm/N hiện_tại/N ,/, HNX/Np đã/R chấp_thuận/V thành_viên/N giao_dịch/V chứng_khoán/V phái_sinh/N cho/E 6/M công_ty/N chứng_khoán/V gồm/V HSC/Np ,/, VNDirect/Np ,/, Bản_Việt/Np ,/, SSI/Np ,/, BSC/Np ,/, VPBS/Np ,/, đồng_thời/R kết_nối/V hệ_thống/N giao_dịch/V chứng_khoán/V phái_sinh/N với/E các/L thành_viên/N này/P 
+Ngày/N 16.6/M ,/, Uỷ_ban/N Chứng_khoán/N Nhà_nước/N đã/R tổ_chức/V họp_bàn/V về/E công_tác/N chuẩn_bị/V khai_trương/V TTCK/Np phái_sinh/V 
+Dự_kiến/V ,/, sẽ/R triển_khai/V sản_phẩm/N hợp_đồng/N tương_lai/N chỉ_số/N VN30/M trước/N ,/, công_bố/V ra/R thị_trường/N 1/M tháng/N trước/E khi/N khai_trương/V 
+Đối_với/E sản_phẩm/N hợp_đồng/N tương_lai/N trái_phiếu/V Chính_phủ/N ,/, hiện/N Bộ/N Tài/Np chính/T giao/V Vụ_Tài/Np chính/T các/L ngân_hàng/N và/CC tổ_chức/V tài_chính/N nghiên_cứu/V ,/, có/V văn_bản/N chấp_thuận/V về/E thiết_kế/N sản_phẩm/N này/P với/E tài_sản/N cơ_sở/N là/V trái_phiếu/N giả_định/V 
+Về/V cơ_chế/N giá/N ,/, HNX/Np và/CC VSD/Np đã/R có/V công_văn/N gửi/V Cục/N Quản/Np lý/N Giá/N (/N Bộ/N Tài/Np chính/T )/M đề_xuất/N cơ_chế/N giá/N cho/E sản_phẩm/N trên/E thị_trường_chứng_khoán/N phái_sinh/N (/A miễn/V giá/N dịch_vụ/N 6/M tháng/N đầu_tiên/A )/V 
+Vậy/P chứng_khoán/V phái_sinh/N là/V gì/P ?/? Theo/E các/L chuyên_gia/N của/E VNDirect/Np ,/, chứng_khoán/V phái_sinh/N là/V các/L công_cụ/N tài_chính/N mà/C giá_trị/N của/E chúng/P phụ_thuộc/V vào/E giá/N của/E một/M  /Nc tài_sản/N cơ_sở/N 
+Chứng_khoán/N phái_sinh/V quy_định/N quyền_lợi/N và/CC //X hoặc/CC nghĩa_vụ/N của/E các/L bên/N tham_gia/V hợp_đồng/N đối_với/E việc/N thanh_toán/V và/CC //X hoặc/CC chuyển_giao/V tài_sản/N cơ_sở/N với/E một/M mức/N giá/N được/V thỏa_thuận/V trước/A vào/E một/M thời_điểm/N nhất_định/V trong/E tương_lai/N 
+Tài_sản/N cơ_sở/N của/E chứng_khoán/N phái_sinh/N có_thể/A là/V hàng_hóa/N như/C nông_sản/N ,/, kim_loại/N ./. ./. 
+hoặc/CC công_cụ/N tài_chính/N như/C cổ_phiếu/N ,/, trái_phiếu/N ,/, lãi_suất/N ./. ./. 
+Chứng_khoán/N phái_sinh/V bao_gồm/V 4/M loại/N chính/T :/: Hợp_đồng/N kỳ_hạn/A :/: Là/V một/M thỏa_thuận/N giữa/E hai/M bên/N tham_gia/V để/E mua/V và/CC bán/V một/M loại/Nc tài_sản/N ở/E một/M thời_điểm/N nhất_định/V trong/E tương_lai/N với/E mức/N giá/N được/V xác_định/V trước/A ngay/T ở/E thời_điểm/N hiện_tại/N 
+Hợp_đồng/N tương_lai/N :/: Là/V hợp_đồng/N kỳ_hạn/V được/R chuẩn_hóa/V ,/, niêm_yết/V và/CC giao_dịch/V trên/E Sở_giao_dịch/N chứng_khoán/V 
+Hợp_đồng/N quyền/N chọn/V :/:  /M Người/N nắm/V giữ/V hợp_đồng/N quyền/N chọn/V có/V quyền/N ,/, nhưng/C không/R có/V nghĩa_vụ/N ,/, mua/V hoặc/CC bán/V một/M loại/Nc tài_sản/N cơ_sở/N tại/E một/M thời_điểm/N nhất_định/V trong/E tương_lai/N theo/V mức/N giá/N được/V xác_định/V trước/E 
+Người/N bán/V hợp_đồng/N có/V nghĩa_vụ/N thực_hiện/V giao_dịch/V khi/N người/N nắm/V giữ/V hợp_đồng/N chọn/V thực_hiện/V quyền/N 
+Hợp_đồng/N quyền/N chọn/V bao_gồm/V quyền/N chọn/V mua/V và/CC quyền/N chọn/V bán/V 
+Hợp_đồng/N hoán_đổi/V :/:  /M Hợp_đồng/N hoán_đổi/V là/V một/M thỏa_thuận/N giữa/E hai/M bên/N về/V việc/N hoán_đổi/V các/L dòng/N tiền/N phát_sinh/V từ/E các/L công_cụ/N tài_chính/N trong/E tương_lai/N 
+Hợp_đồng/N sẽ/R quy_định/N rõ/A thời_điểm/N hoán_đổi/V dòng/N tiền/N và/CC phương_pháp/N tính_toán/V cụ_thể/A ./. 

@@ -1,0 +1,33 @@
+Tuyển_sinh/V đại_học/N ,/, cao_đẳng/N 2017/M :/: Xét/V tuyển/V theo/E nhóm/N -/- giải_pháp/N chống/V thí_sinh/N “/N ảo/A ”/A ./. 
+Sẽ/R khó/A xác_định/V điểm_chuẩn/A vì/E thí_sinh/N “/V ảo/A ”/N Theo/V thống_kê/V của/E Bộ/N GDĐT/Np ,/, hiện_nay/N ,/, 50%/M thí_sinh/N chỉ/R đăng_ký/V từ/E 1-3/M nguyện_vọng/N ,/, 30%/M thí_sinh/N đăng_ký/V 4/M -/- 5/M nguyện_vọng/N 
+Như_vậy/C ,/, 80%/M thí_sinh/N đăng_ký/V từ/E 1-5/M nguyện_vọng/N 
+18%/M thí_sinh/N đăng_ký/V từ/E 6/M đến/E 10/M nguyện_vọng/N 
+Cũng/R theo/E thống_kê/V này/P ,/, 98%/M thí_sinh/N đăng_ký/V từ/E 1/M -/- 10/M nguyện_vọng/N 
+Chỉ/R 2%/M đăng_ký/V từ/E 11-48/M nguyện_vọng/N (/A một/M thí_sinh/N đăng_ký/V 48/M nguyện_vọng/N )/A 
+Trong/E 2%/M này/P ,/, gần/A 1,7%/M thí_sinh/N đăng_ký/V từ/E 11-15/M nguyện_vọng/N và/CC chỉ/R có/V hơn/R 0,3%/M thí_sinh/N đăng_ký/V trên/E 15/M nguyện_vọng/N 
+Theo/E ông/Nc Bùi_Văn_Ga/Np -/- Thứ_trưởng/N Bộ/N GDĐT/Np ,/, năm/N nay/P ,/, khó_khăn/N của/E các/L trường/N là/V không/R biết_bao_nhiêu/R thí_sinh/V trúng_tuyển/V vào/E trường/N mình/P 
+Bởi/C mỗi/L thí_sinh/N chỉ/R trúng_tuyển/V một/M trường/N ,/, một/M nguyện_vọng/N duy_nhất/A trong/E khi/N quy_chế/N lại/R không/R giới_hạn/V nguyện_vọng/N đăng_ký/V 
+Nếu/C các/L trường/N xét/V tuyển/V riêng_lẻ/N sẽ/R rất/R khó/A xác_định/V điểm_chuẩn/N 
+Nhiệm_vụ/N của/E việc/N xét/V tuyển/V theo/E nhóm/N là/V giúp/V các/L trường/N xác_định/V điểm_chuẩn/V sao/P cho/E phù_hợp/V 
+Quy_chế/N không/R quy_định/N việc/N các/L trường/N phải/V lập/V nhóm/N xét/V tuyển/V và/CC việc/N tham_gia/V nhóm/N là/V tự_nguyện/V giữa/E các/L trường/N ,/, Bộ/N không/R can_thiệp/V 
+Bộ/N GDĐT/Np cũng/R đã/R dành/V ra/R thời_gian/N 3/M ngày/N ,/, từ/E 25-28/M ./. 7/M để/E các/L nhóm/N tổ_chức/V xét/V tuyển/V chung/A trước/E khi/N chạy/V phần_mềm/N xét/V tuyển/V của/E Bộ/N vào/V 28.7/M 
+Theo/E Thứ/N trưởng/N Ga/Np ,/, phần_mềm/N xét/V tuyển/V chung/A của/E nhóm/N này/P sẽ/R chạy/V cơ_sở_dữ_liệu/N chung/A của/E tất_cả/P các/L trường/N trong/E nhóm/N ,/, thậm_chí/R ,/, cơ_sở_dữ_liệu/N của/E tất_cả/P các/L trường/N trên/E cả/P nước/N để/E các/L trường/N đưa/V đưa/V ra/R điểm_chuẩn/N dự_kiến/V 
+Sau/E khi/N việc/N xét/V tuyển/V theo/E nhóm/N đã/R xong/V ,/, các/L trường/N gửi/V dữ_liệu/N của/E thí_sinh/N lên/R Bộ/N GD&/Np ĐT/Np để/E tiếp_tục/V chạy/V trên/E phần_mềm/N lọc/V ảo/A một/M lần/N nữa/R giữa/E 2/M nhóm/N Nam/Np -/- Bắc/Np và/CC các/L trường/N ngoài/N nhóm/N 
+Thí_sinh/N tham_dự/V kì/N thi/V THPT/Np quốc_gia/N năm/N 2016/M 
+Ảnh/N :/:  /M HẢI_NGUYỄN/Np Nhiều/A lợi_ích/N từ/E xét/V tuyển/V theo/E nhóm/N Điểm/N mới/A của/E mùa/N tuyển_sinh/V năm/N nay/P là/V sự/Nc hình_thành/V hai/M nhóm/N xét/V tuyển/V ở/E khu_vực/N phía/N Bắc/Np và/CC phía/N Nam/Np 
+Dự_kiến/V mỗi/M nhóm/N xét/V tuyển/V có/V từ/E 40/M đến/E 60/M trường/N đại_học/N ,/, cao_đẳng/N sư_phạm/N cùng/A tham_gia/V 
+Năm/N nay/P ,/, trường/N ĐH/Np Bách_Khoa_Hà_Nội/Np tiếp_tục/V chủ_trì/V thành_lập/V nhóm/N xét/V tuyển/V chung/A ở/E khu_vực/N phía/N Bắc/Np (/V từ/E Hà_Tĩnh/Np trở_ra/V )/M 
+ĐH/Np Sư_phạm/N Kỹ_thuật/N TP/Np 
+Hồ_Chí_Minh/Np chủ_trì/V các/L trường/N ĐH/Np phía/N Nam/Np nhóm/N xét/V tuyển/V với/E 50-60/M trường/N (/V từ/E Quảng_Bình/Np trở/V vào/R )/N 
+PGS.TS/Np Hoàng_Minh_Sơn/Np -/- Hiệu_trưởng/N Trường/N ĐH/Np Bách_khoa/N Hà_Nội/Np -/- đơn_vị/N đảm_nhiệm/V vai_trò/N chủ_trì/N tuyển_sinh/V của/E nhóm/N miền/N Bắc/Np cho_biết/V :/: “/M Việc/N hợp_tác/V giữa/E các/L trường/N trong/E công_tác/N đào_tạo/V nói_chung/X và/CC tuyển_sinh/V nói_riêng/X là/V điều/N cần_thiết/A 
+Trong/E quá_trình/N xét/V tuyển/V theo/E nhóm/N ,/, các/L trường/N sẽ/R cùng/A nhau/N chia_sẻ/V thông_tin/N tuyển_sinh/V để/E giảm/V tỉ_lệ/N thí_sinh/N ảo/A ”/M 
+Cách_thức/N xét/V tuyển/V theo/E quy_chế/N năm/N nay/P hoàn_toàn/A phù_hợp/V với/E phần_mềm/N xét/V tuyển/V của/E nhóm/N GX/Np năm_ngoái/N do/E Trường/N ĐH/Np Bách_khoa/N Hà_Nội/Np chủ_trì/V 
+Vì_thế/C ,/, các/L trường/N tham_gia/V nhóm/N miền/N Bắc/Np sẽ/R tiết_kiệm/V được/R chi_phí/N và/CC nhân_lực/N trong/E công_tác/N tuyển_sinh/V 
+Đồng_thời/R ,/, hỗ_trợ/V được/R đội_ngũ/N kỹ_thuật/N của/E nhóm/N cũng_như/C chủ_động/A hơn/R trong/E việc/N xác_định/V điểm_chuẩn/N dự_kiến/V và/CC danh_sách/N thí_sinh/V trúng_tuyển/V trước/E khi/N trình/N Bộ/N GDĐT/Np 
+Các/L trường/N ĐH/Np tham_gia/V nhóm/N miền/N Bắc/Np trên/E tinh_thần/N tự_nguyện/V ,/, có/V sự/Nc cam_kết/V bằng/E văn_bản/N 
+Các/L trường/N trong/E nhóm/N sử_dụng/V dữ_liệu/N đăng_ký/V xét/V tuyển/V và/CC kết_quả/N thi/V THPT/Np quốc_gia/N năm/N 2017/M do/E Bộ/N GD&/Np ĐT/Np cung_cấp/V để/E thực_hiện/V xét/V tuyển/V đợt/N 1/M cho/E các/L trường/N trong/E nhóm/N 
+Nhóm/N xét/V tuyển/V cũng/R không/R can_thiệp/V vào/E việc/N xét/V tuyển/V của/E mỗi/L trường/N trong/E nhóm/N 
+Các/L trường/N tự/P chọn/V điểm_chuẩn/N và/CC điều_chỉnh/V thông_số/N tuyển_sinh/V chọn/V phù_hợp/V với/E từng/P ngành_nghề/N 
+Nhóm/N xét/V tuyển/V chung/A chỉ/R cung_cấp/V thông_tin/N để/E giúp/V các/L trường/N xác_định/V điểm_chuẩn/N phù_hợp/V nhất/R 
+Thứ_trưởng/N Bộ/N GDĐT/Np Bùi_Văn_Ga/Np nhận_định/V ,/, việc/N xét/V tuyển/V theo/E nhóm/N sẽ/R có/V lợi/N cho/E các/L trường/N và/CC thí_sinh/N 
+Với/E việc/N xét/V tuyển/V như_vậy/X ,/, các/L trường/N có_thể/R yên_tâm/V rằng/C khi/N một/M thí_sinh/N trúng_tuyển/V thì/C thí_sinh/N đó/P chỉ/R có_thể/R vào/V trường/N mình/P hoặc/CC bỏ/V không/R học/V chứ/C không/R trúng_tuyển/V 2/M nơi/N khác_nhau/A -/- ông/Nc Ga/Np khẳng_định/V ./. 

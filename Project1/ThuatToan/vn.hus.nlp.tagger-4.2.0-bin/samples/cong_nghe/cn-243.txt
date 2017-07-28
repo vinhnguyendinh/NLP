@@ -1,0 +1,4 @@
+Mỹ/Np tiết_lộ/V phóng/V tên_lửa/A hành_trình/N “/V vô/V đối/V ”/M AGM-86B/Np từ/E máy_bay/N B-52/Np ./. 
+Không_quân/N Mỹ/Np vừa/R tiết_lộ/V cảnh/N thử_nghiệm/V phóng/V tên_lửa/A hành_trình/N AGM-86B/Np từ/E một/M máy_bay/N ném/V bom/N chiến_lược/N B-52/M 
+Tên_lửa/N AGM-86B/Np được/V cho/V là/C có/V khả_năng/N vô_hiệu/A mọi/L hệ_thống/N phòng_thủ/V ,/, tác_chiến/V điện_tử/N của/E đối_phương/N 
+Tên_lửa/N AGM-86B/Np phiên_bản/V phóng/V từ/E trên/A không/R do/E hãng/N Boeing/Np nghiên_cứu/V chế_tạo/V theo/E hợp_đồng/N với/E Không_quân/N Mỹ/Np ./. 

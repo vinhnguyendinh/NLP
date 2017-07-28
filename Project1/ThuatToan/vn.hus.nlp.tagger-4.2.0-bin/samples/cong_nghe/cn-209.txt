@@ -1,0 +1,7 @@
+VnCert/Np yêu_cầu/V khẩn_cấp/V ngăn_ngừa/N mã/V độc/A tống_tiền/V WannaCry/Np ./. 
+Công_văn/N của/E Trung_tâm/N Ứng_cứu/V khẩn_cấp/V máy_tính/N (/V VnCert/Np )/V gửi/V đến/E các/L tổ_chức/N ,/, cơ_quan/N ,/, doanh_nghiệp/N ./. ./. 
+yêu_cầu/V các/L cơ_quan/N ,/, đơn_vị/N thực_hiện/V khẩn_cấp/V việc/N ngăn_ngừa/V ,/, ngăn_chặn/V sự/N tấn_công/V của/E mã/N độc/A tống_tiền/V WannaCry/Np 
+Theo/E Vn/Np Cert/Np ,/, trước_hết/N cần/V theo_dõi/V ,/, ngăn_chặn/V kết_nối/V đến/E các/L máy_chủ/N điều_khiển/V mã/N độc/A WannaCry/Np và/CC cập_nhật/V vào/E các/L hệ_thống/N bảo_vệ/V như/C  /N IDS/IPS/Np ,/, Firewall/Np ,/, …/V theo/E các/L thông_tin/N nhận_dạng/V dưới/E đây/P :/: Tiếp/V đến/T ,/, nếu/C phát_hiện/V bị/V lây_nhiễm/V mã/V độc/A WannaCry/Np cần/V nhanh_chóng/A cô_lập/V vùng/N //X máy/N được/V phát_hiện/V 
+Thứ_ba/N ,/, cần/V kiểm_tra/V và/CC thực_hiện/V gấp/A các/L bước/N đã/R được/V hướng_dẫn/V trước_đây/N tại/E văn_bản/N số/N 80/VNCERT/M -/- ĐPƯC/M ,/, ngày/N 9.3.2016/M và/CC văn_bản/N 123/VNCERT/Np -/- ĐPƯC/Np ,/, ngày/N 24.4.2017/M ,/, tải/N tại/E địa_chỉ/N :/: 
+http/V :/: //X //X www.vncert.gov.vn/baiviet.php/N ?/? id/V =/V 24/M http/N :/: //X //X vncert.gov.vn/baiviet.php/N ?/? id/V =/M 52/M  /N để/E phòng_tránh/V các/L cuộc/N tấn_công/V qui_mô/N lớn/A và/CC nguy_hiểm/A khác/A 
+Sau/E khi/N thực_hiện/V ,/, yêu_cầu/V các/L đơn_vị/N báo_cáo/V tình_hình/N về/E Đầu_mối/N điều_phối/V ứng_cứu/V sự_cố/N quốc_gia/N (/M Trung_tâm/N VNCERT/Np )/V theo/E địa_chỉ/N email/V :/: ir@vncert.gov.vn/N ./. 

@@ -1,0 +1,23 @@
+Bản/N tin/N nóng/A công_nghệ/N :/: Smartphone_Triều_Tiên/Np đẹp/A long_lanh/A ;/; Mã/Np độc/A “/M há_miệng_chờ_sung/N “/A ./. 
+Smartphone/Np do/E Triều_Tiên/Np sản_xuất/V đẹp/A long_lanh/A ,/, không/R thua_kém/V các/L hãng/N công_nghệ/N lớn/A như/C Apple/Np ,/, Samsung/Np ;/; “/N Há_miệng_chờ_sung/Np ”/M ,/, mã/N độc/A nguy_hiểm/A nhất/A thế_giới/N bị/V “/V chặn/V cửa/N ”/Np ./. ./. 
+là/C thông_tin/N chính/T trong/E bản/N tin/V công_nghệ/N 
+Smartphone/Np của/E Triều_Tiên/Np đẹp/A long_lanh/A ,/, không/R thua_kém/V Apple/Np ,/, Samsung/Np 
+Những/L chiếc/Nc smartphone/N do/E Triều_Tiên/Np sản_xuất/V được/V cho/V là/C không/R thua_kém/V các/L hãng/N công_nghệ/N lớn/A như/C Apple/Np ,/, Samsung/Np 
+Theo/E Gizmodo/Np ,/, tổ_hợp/N công_nghệ_thông_tin/N của/E Triều_Tiên/Np đã/R cho/V ra_đời/V dòng/N sản_phẩm/N Jindallae/Np 3/M với/E nhiều/A tính_năng/N linh_hoạt/A 
+Khung/N máy/N được/V làm_bằng/V kim_loại/N và/CC cắt/V gọt/N bằng/E kim_cương/N nên/C mang/V lại/R vẻ/N đẹp/A sang_trọng/A và/CC sắc/A nét/N không/R kém/A những/L chiếc/Nc điện_thoại/N cao_cấp/A hiện_nay/N 
+Jindallae/Np 3/M có/V nút/N home/N ở/E mặt/N trước/A ,/, mặt/N sau/E nhẵn/N bóng/N 
+Được/V biết/V ,/, các/L cấu/N phần/N trên/A của/E chiếc/Nc điện_thoại/N và/CC bo_mạch/N chính/T đều/R do/E Triều_Tiên/Np tự/P sản_xuất/V 
+Kể_cả/X việc/N tùy/V biến/V hệ_điều_hành/N Android/Np 
+Tuy_nhiên/C ,/, hiện/N chưa/R có/V thông_tin/N về/E cấu_hình/N của/E Jindallae/Np 3/M 
+“/M Há_miệng_chờ_sung/N ”/A ,/, mã/N độc/A nguy_hiểm/A nhất/A thế_giới/N bị/V “/V chặn/V cửa/N ”/M Có_vẻ/X kiểu/N tấn_công/V mã/V độc/A tống_tiền/V đang/R đem/V lại/R nguồn/N tiền/N bẩn/A rất/R lớn/A trong/E một/M thời_gian/N ngắn/A cho/E các/L tin_tặc/N ,/, nên/C thủ_đoạn/N này/P đang/R được/V tận_dụng/V triệt_để/A 
+Theo/E đó/P ,/, một/M mã/N độc/A tống_tiền/V khác/A Petya/Np đã/R được/V tung/V ra/R sau/E WannaCry/Np và/CC SamSam/Np 
+Mã/N độc/A này/P bắt_giữ/V các/L tập_tin/N zip/V ,/, ai/P ,/, 7z/M ,/, ppt/N ,/, pptx/N ,/, pdf/N …/M Petya/Np nguy_hiểm/A tới/V mức/N nhiều/A công_ty/N yêu_cầu/V nhân_viên/N không/R bật/V máy_tính/N ,/, wifi/N để/E tránh/V lây_nhiễm/V 
+Petya/Np chủ_yếu/A nhắm/V tới/E những/L tập_đoàn/N dầu_mỏ/N lớn/A ,/, ngân_hàng/N ,/, công_ty/N điện_lực/N …/A và/CC nhanh_chóng/A lây_lan/V sang/E nhiều/A quốc_gia/N 
+Tuy_nhiên/C ,/, theo/E TNW/Np thì/C dịch_vụ/N email/V của/E tin_tặc/N sử_dụng/V Petya/Np tống_tiền/V đã/R bị/V phong_tỏa/V 
+Như_vậy/C ,/, dù/C có/V trả/V tiền/N đi_nữa/X thì/C dữ_liệu/N nạn_nhân/N vẫn/R không_thể/R được/V giải_mã/V ./. 
+Mạng/N xã_hội/N 2/M tỷ/Nu người/N dùng/V ,/, hiểu/V chi_tiết/N về/E mỗi/L thành_viên/N ,/, quá/R nguy_hiểm/A ?/? Mạng/Np xã_hội/N FaceBook/Np vừa/R công_bố/V con_số/N giật_mình/V ,/, đó/P là/V họ/P đã/R có/V 2/M tỷ/Nu người/N sử_dụng/V (/N gần/A 1/3/M dân_số/N thế_giới/N )/M 
+Trong/E 13/M năm/N phát_triển/V ,/, tăng_trưởng/V người/N dùng/V của/E FaceBook/Np đạt/V tới/E 17%/M //X năm/N 
+Đặc_biệt/A ,/, 66%/M người/N dùng/V hằng/R tháng/N truy_cập/V FaceBook/Np mỗi/M ngày/N 
+Cùng_Face/Np Book/Np thì/C YouTube/Np cũng/R có/V số/N người/N dùng/V khủng/N (/V 1,5/M tỷ/N người/N )/A ,/, WeChat/Np (/V 889/M triệu/M người/N )/A ,/, Twitter/Np (/V 328/M triệu/M người/N )/V 
+Tuy_nhiên/C ,/, có_lẽ/R mạng/N xã_hội/N FaceBook/Np lưu_giữ/V và/CC hiểu/V về/E những/L thành_viên/N của/E mình/P nhất/R nhờ/V vào/E những/L thuật_toán/N đặc_biệt/A do/E các/L lập_trình_viên/N tạo/V ra/R 
+Một_số/L người/N cũng/R hết_sức/R nghi_ngại/V khi/N thông_tin/N người/N dùng/V nằm/V trong/E tay/N các/L mạng/N xã_hội/N ./. 

@@ -1,0 +1,3 @@
+Lực_lượng/N tên_lửa/N -/- pháo_binh/N Nga/Np loại_bỏ/V Smerch/Np để/E dùng/V Tornado/Np -/- S/Np ./. 
+Lực_lượng/N tên_lửa/N -/- pháo_binh/N Nga/Np sẽ/R chuyển/V từ/E hệ_thống/N pháo/N phản_lực/N đa/Z nòng/N Smerch/Np sang/V dùng/V hệ_thống/N Tornado/Np -/- S/Np hiện_đại/A ,/, uy_lực/A hơn/R 
+Xem/V  /N Tornado/Np -/- S/Np khai_hỏa/V :/: 

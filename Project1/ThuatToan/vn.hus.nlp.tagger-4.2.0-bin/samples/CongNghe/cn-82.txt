@@ -1,0 +1,19 @@
+Sự cố tại tuyến cáp quang biển APG ảnh hưởng đến Internet Việt Nam.
+Theo thông tin từ các nhà mạng, tuyến cáp quang biển APG bị đứt vào lúc 16h ngày 20.6, lỗi xảy ra ở phân đoạn Việt Nam – Hong Kong, do đó làm ảnh hưởng tới việc truy cập Internet của khách hàng
+Thời gian khắc phục sự cố tuyến cáp quang APG chưa được xác định
+Trước đó, tối 20.6, SCTV đã ra thông báo cho các chi nhánh về sự cố tuyến cáp quang biển APG bị đứt vào lúc 16h ngày 20.6.2017
+Theo thông tin từ phía đối tác, lỗi xảy ra ở phân đoạn Việt Nam – Hong Kong, do đó làm ảnh hưởng tới việc truy cập của khách hàng
+Hiện tại một số lưu lượng đã được chuyển hướng cáp quang biển quốc tế AAG
+SCTV đang phối hợp với đối tác để mở thêm băng thông ứng cứu
+Thời gian khắc phục sự cố tuyến cáp quang APG chưa được xác định
+Từ chiều ngày 20.6, rất nhiều người dùng đã phản ánh về việc mạng Internet đột ngột bị chậm hoặc gián đoạn truy cập, nhưng vào sáng nay (21.6), việc truy cập đã bình thường trở lại
+APG là tuyến cáp quang biển có dung lượng lớn nhất đang hoạt động tại khu vực Châu Á với băng thông tối đa lên tới 54 Tbps, băng thông ban đầu lúc mới khai trương là 4 Tbps được các nhà mạng đưa vào sử dụng cuối tháng 12.2016
+Tuyến cáp này có chiều dài 10.400km đặt ngầm dưới biển Thái Bình Dương
+Cáp có điểm kết nối ở Trung Quốc, Hong Kong, Đài Loan, Nhật Bản, Hàn Quốc, Malaysia, Singapore, Thái Lan và Việt Nam với băng thông ban đầu là 4 Tbps, tuyến cáp này có dung lượng thiết kế 15,3 Tbit/s
+Nhà mang nói gì về sự cố? Theo VNPT VinaPhone, vào 16h00 chiều  20.6, sự cố mất kết nối trên tuyến cáp quang biển APG hướng từ Đà Nẵng đi các hướng quốc tế (Mỹ, Nhật, Hong Kong) đã xảy ra làm ảnh hưởng đến tốc độ kết nối Internet quốc tế tại một số giờ cao điểm
+“VNPT đang phối hợp với các đối tác quốc tế để xác minh nguyên nhân sự cố và có kế hoạch cụ thể về việc xử lý lỗi, khắc phục tình trạng sớm nhất có thể”, đại diện VNPT VinaPhone cho hay
+Đại diện VNPT cũng cho biết, sự cố xảy ra với tuyến cáp quang biển APG vào chiều ngày 20.6 có thể ảnh hưởng tới chất lượng kết nối các kênh quốc tế, đặc biệt tại các tỉnh miền Trung
+Tuy nhiên, nhà mạng này khẳng định đã chủ động định tuyến các kênh của khách hàng bị ảnh hưởng sang các tuyến cáp quang biển quốc tế khác là SMW-3, AAG và tuyến CSC (cáp chạy trên đất liền)
+“Do đó, về cơ bản chất lượng kết nối Internet đi quốc tế của VNPT vẫn được đảm bảo”, đại diện VNPT VinaPhone nhấn mạnh
+Với Viettel, thông tin về sự cố xảy ra với tuyến cáp APG chiều ngày 20.6, nhà mạng này cho biết, đến thời điểm hiện tại, vị trí, nguyên nhân và thời gian khắc phục chính xác của sự cố vẫn chưa được xác định
+Cũng như VNPT, Viettel tuyên bố các khách hàng của Viettel không bị ảnh hưởng bởi sự cố này bởi dung lượng dự phòng trên các tuyến cáp quốc tế khác của Viettel vẫn đáp ứng nhu cầu sử dụng dịch vụ của khách hàng.

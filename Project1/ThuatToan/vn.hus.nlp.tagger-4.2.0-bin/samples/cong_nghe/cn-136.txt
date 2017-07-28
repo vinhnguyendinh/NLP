@@ -1,0 +1,2 @@
+Xem/V tàu_sân_bay/N Mỹ/Np từng/R hải/V táng/N Bin_Laden/Np tập_trận/V gần/A Triều_Tiên/Np ./. 
+USS/Np Carl_Vinson/Np -/- tàu_sân_bay/N Mỹ/Np  /V từng/R thả/V xác/N trùm/N khủng_bố/V Osama/Np bin/V Laden/Np xuống/V biển/N ,/, tham_gia/V cuộc/N diễn_tập/V với/E Nhật_Bản/Np từ/E ngày/N 1-3/M ./. 6/M gần/A bán_đảo/N Triều_Tiên/Np ./. 

@@ -1,0 +1,14 @@
+Cảnh báo chiêu lừa mạo danh nhà mạng để thu thập thông tin tài khoản, chiếm đoạt tiền.
+VNPT vừa phát ra cảnh báo, những ngày gần đây hiện tượng giả mạo VNPT nhắc nợ cước để lừa đảo đang bùng phát trở lại, nguy hiểm hơn kẻ xấu đã sử dụng đầu số bán hàng 18001166 của VNPT để lừa đảo gây hoang mang cho khách hàng, đã có không ít người dùng mất cảnh giác đã bị kẻ xấu lừa đảo gây thiệt hại về tài sản
+Theo VNPT, kẻ lừa đảo giả mạo tổng đài VNPT gọi đến số cố định để nhắc nợ cước điện thoại với số tiền lớn yêu cầu thanh toán ngay nếu không sẽ tạm dừng liên lạc và khởi kiện ra tòa
+Mục đích của chúng là thu thập trái phép các không tin cá nhân của khách hàng (tên, tuổi, địa chỉ, số CMTND, hộ khẩu, tài khoản ngân hàng ...) chiếm đoạt tiền bằng cách cung cấp số tài khoản để khách hàng thanh toán hoặc dẫn dụ khách hàng bấm số gọi lại với mục đích chuyển tiếp cuộc gọi từ máy của khách hàng vào các đầu số dịch vụ giá cước cao sau đó các đối tượng này sẽ trục lợi từ việc hưởng cước phí do người dùng thực hiện cuộc gọi đi
+Cũng có trường hợp, chúng giả mạo là cơ quan công an đang điều tra các vụ buôn lậu, các vụ việc ..
+yêu cầu khách hàng chuyển tiền từ tài khoản cá nhân vào tài khoản của cơ quan điều tra xác minh sau đó chiếm đoạt tiền
+Đại diện VNPT phân tích, thủ đoạn của các đối tượng lừa đảo rất tinh vi, các cuộc gọi thường xuất phát từ tổng đài nước ngoài gọi về Việt Nam qua giao thức kết nối Internet (VoIP) nên việc xác minh, điều tra của các cơ quan chức năng sẽ rất khó khăn và mất thời gian cũng như cần phải có sự phối hợp đồng bộ của nhiều đơn vị, nhà mạng có liên quan (kể cả các nhà mạng quốc tế)
+Trước những thủ đoạn trên, VNPT khuyến cáo, tổng đài 18001166 của VNPT là tổng đài bán hàng qua điện thoại của VNPT, chỉ tiếp nhận các cuộc gọi đến không bao giờ phát sinh các cuộc gọi đi
+Vì vậy, khách hàng đặc biệt lưu ý tất cả các cuộc gọi đến điện thoại cố định nhắc nợ cước hiển thị số 18001166 đều là giả mạo, không phải cuộc gọi từ VNPT
+Theo VNPT, khi nhận được các cuộc gọi mạo danh VNPT nhắc nợ cước điện thoại khách hàng cần cảnh giác, không làm theo yêu cầu hoặc làm theo dẫn dụ bấm các phím số trên máy điện thoại
+Đặc biệt là không chuyển tiền vào các tài khoản theo yêu cầu của kẻ mạo danh
+Theo VNPT, khách hàng cần  cảnh giác khi nhận được cuộc gọi lạ, đặc biệt người xưng là nhân viên VNPT, cán bộ cơ quan pháp luật
+Không nên cung cấp tài khoản, thẻ tín dụng cho người khác, vì dễ dàng tiếp tay cho băng nhóm lừa đảo công nghệ cao...Khi có nghi ngờ khách hàng cần liên hệ đường dây nóng 800126 của VNPT để xác minh lại thông tin hoặc thông báo ngay cho cơ quan công an khi có sự nghi ngờ để cùng phối hợp giải quyết
+Không nên tự mình xử lý vì sẽ dễ sập bẫy kịch bản lừa đảo của tội phạm.

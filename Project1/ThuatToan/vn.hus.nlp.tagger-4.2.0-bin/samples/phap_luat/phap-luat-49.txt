@@ -1,0 +1,9 @@
+Tài_xế/N xe/N cứu_thương/V cầm/V dao/N chém/V người/N sau/E va_chạm/V giao_thông/N ./. 
+Sau/E va_chạm/V giao_thông/N ,/, tài_xế/N xe/N cứu_thương/V đã/R cầm/V dao/N chém/V người/N ,/, chém/V xe_tải/N bể/V kính/N 
+Thông_tin/N ban_đầu/N ,/, vào_khoảng/X 12h/M trưa/N 11.7/M ,/, trên/E tuyến/N QL46/M đoạn/N tránh/V TP.Vinh/Np ,/, Nghệ_An/Np đã/R xảy_ra/V vụ/N va_chạm/V giao_thông/N giữa/E chiếc/Nc xe_tải/N BKS/Np :/: 37C-244.41/Np do/E tài_xế/N Nguyễn_Xuân_Lý/Np (/V SN/Np 1993/M ,/, trú/V Quỳnh_Lưu/Np ,/, Nghệ_An/Np )/V điều_khiển/V với/E chiếc/Nc xe/N cứu_thương/V BKS/Np :/: 37A-0615/Np do/E tài_xế/N Xên_Hồng_Hà/Np (/M SN/Nu 1995/M ,/, trú/V xã/N Thạch_Giám/Np ,/, huyện/N Tương_Dương/Np )/M 
+Sau/E va_chạm/V ,/, tài_xế/N Xên_Hồng_Hà/Np đã/R cầm/V một/M con/Nc dao/N lao/V lên/R cabin/N của/E chiếc/Nc xe_tải/N và/CC chém/V tới_tấp/A 
+Chiếc/Nc xe_tải/N bị/V chém/V hỏng/V kính/N trên/E buồng_lái/N (/M ảnh/N DN/Np )/M Khi/N kính/N xe_tải/N bị/V vỡ/V ,/, tài_xế/N Hà/Np còn/R đuổi/V chém/V người/N ,/, tuy_nhiên/C tài_xế/N Lý/Np và/CC phụ/V xe/N là/V Lê_Văn_Thắng/Np (/V SN/Np 1997/M ,/, trú/V Quỳnh_Lưu/Np )/V đã/R mở_cửa/V ghế/N phụ/N chạy/V khỏi/V xe/N 
+Phát_hiện/V sự_việc/N ,/, nhiều/A người_dân/N đã/R đến/V can_ngăn/V và/CC báo/V cho/E Công_an/N huyện/N Hưng_Nguyên/Np đến/E xử_lý/V vụ_việc/N 
+Nhận/V được/R tin/N ,/, Công_an/N huyện/N Hưng_Nguyên/Np đã/R có_mặt/V ở/E hiện_trường/N ,/, thu_giữ/V một/M chiếc/Nc dao/N và/CC mời/V 2/M tài_xế/N về/V trụ_sở/N để/E làm_việc/V 
+Được/V biết/V ,/, chiếc/Nc xe/N cứu_thương/V do/E tài_xế/N Hà/Np điều_khiển/V là/V xe/N được/V đăng_ký/V bởi/E Bệnh_viện/N Tâm_thần/N Nghệ_An/Np có/V trụ_sở/N ở/E xã/N Nghi_Phú/Np ,/, TP.Vinh/Np 
+Hiện/N cơ_quan_chức_năng/N đang/R tiếp_tục/V điều_tra/V và/CC làm/V rõ/A vụ_việc/N trên/A ./. 

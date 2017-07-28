@@ -1,0 +1,10 @@
+Phó_Thủ/N tướng/N yêu_cầu/V kéo_dài/V thời_gian/N lấy/V ý_kiến/N Chương_trình/N giáo_dục_phổ_thông/X ./. 
+Phó_Thủ/V tướng/N Vũ_Đức_Đam/Np vừa/R yêu_cầu/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N kéo_dài/V thời_gian/N lấy/V ý_kiến/N dự_thảo/N  /M Chương_trình/N giáo_dục_phổ_thông/X đến/E hết/V ngày/N 20.5.2017/M 
+Phó_Thủ/Np tướng/N Vũ_Đức_Đam/Np yêu_cầu/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N kéo_dài/V thời_gian/N lấy/V ý_kiến/N đến/E hết/V ngày/N 20.5.2017/M để/E các/L nhà_khoa_học/N ,/, nhà_giáo/N ,/, nhà/N quản_lý/V và/CC nhân_dân/N tiếp_tục/V góp_ý/V 
+Cùng_với/N đó/P ,/, Phó_Thủ/Np tướng/N yêu_cầu/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N việc/N nghiêm_túc/A ,/, cầu_thị/N tiếp_thu/V những/L ý_kiến/N đóng_góp/V xác_đáng/N ,/, cần/V trao_đổi/V ,/, làm/V rõ/A những/L vấn_đề/N còn/V tranh_luận/V ./. 
+Trước/E đó/P ,/, ngày/N 12.4.2017/M ,/, Bộ/N Giáo/N dục/N và/CC Đào_tạo/N đã/R họp_báo/V công_bố/V  /M Dự_thảo/N  /V Chương_trình/N giáo_dục_phổ_thông/X tổng_thể/A và/CC đưa/V ra/R thời_gian/N lấy/V ý_kiến/N từ/E ngày/N 12/M đến/E ngày/N 29.4.2017/M 
+Theo/E đó/P ,/, chương_trình/N giáo_dục_phổ_thông/X vẫn/R là/V 12/M năm/N với/E hai/M giai_đoạn/N là/V giáo_dục/N cơ_bản/A (/V gồm/V cấp/N tiểu_học/N 5/M năm/N và/CC cấp/N THCS/Np 4/M năm/N )/M và/CC giai_đoạn/N giáo_dục/N định_hướng/V nghề_nghiệp/N (/V cấp/N THPT/Np 3/M năm/N )/M 
+Theo/E đó/P ,/, sự/Nc thay_đổi/V mạnh/A nhất/R thuộc/V về/E giai_đoạn/N THPT/Np bảo_đảm/V học_sinh/N tiếp_cận/V nghề_nghiệp/N ,/, chuẩn_bị/V cho/E giai_đoạn/N học/V sau/E phổ_thông/N có/V chất_lượng/N 
+Hệ_thống/N các/L môn_học/N của/E chương_trình/N giáo_dục_phổ_thông/X được/V chia/V thành/V các/L môn_học/N bắt_buộc/V ,/, môn_học/N bắt_buộc/V có/V phân_hóa/V ,/, môn_học/N tự/P chọn/V và/CC môn_học/V tự/P chọn/V bắt_buộc/V 
+Dự_kiến/V ,/, chương_trình/N sẽ/R được/V áp_dụng/V từ/E năm_học/N 2018/M -/- 2019/M 
+Hiện/N ,/, Dự_thảo/N vẫn/R đang/R nhận/V được/R nhiều/A ý_kiến/N đóng_góp/V từ/E phía/N xã_hội/N ./. 

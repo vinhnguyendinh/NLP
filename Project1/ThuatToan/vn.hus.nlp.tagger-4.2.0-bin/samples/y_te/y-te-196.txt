@@ -1,0 +1,17 @@
+Ăn/V quả/N vải/N nhà/N tự/P trồng/V ,/, 1/M trẻ/N tử_vong/A ,/, 3/M trẻ/N nhập_viện/V cấp_cứu/V ./. 
+Ngày/N 8.6/M ,/, trên/E địa_bàn/N tỉnh/N Cao_Bằng/Np có/V 1/M cháu/N bé/N tử_vong/V và/CC 3/M cháu/N phải/V chuyển/V lên/R bệnh_viện/N tỉnh/N ,/, trong/E đó/P có/V 2/M cháu/N nguy_kịch/A 
+Trước/E khi/N xảy_ra/V sự_việc/N ,/, 4/M cháu/N bé/N đều/R ăn/V quả/N vải/N do/E nhà/N tự/P trồng/V 
+Theo/E người_nhà/N các/L bệnh_nhi/N ,/, chiều/N 8.6/M ,/, cả/P 4/M cháu/N đều/R ăn/V quả/N vải/N 
+Đến/E tối/N ,/, các/L cháu/N có/V dấu_hiệu/N đau_đầu/A ,/, buồn_nôn/A ,/, mệt_mỏi/A nhưng/C gia_đình/N chỉ/R nghĩ/V bị/V cảm_thông/V thường/R 
+Đến/E chiều/N 9.6/M ,/, khi/N cháu/N Lý_Văn_Thắng/Np (/V 12/M tuổi/N )/M chết/V đột_ngột/A và/CC 3/M cháu/N còn/V lại/R có/V dấu_hiệu/N bệnh/N nặng/A ,/, các/L gia_đình/N mới/A đưa/V đi/V bệnh_viện/N huyện/N 
+Sau/E đó/P ,/, các/L cháu/N được/V chuyển/V đến/E Bệnh_viện/N đa_khoa/N (/A BVĐK/Np )/M tỉnh/N Cao_Bằng/Np cấp_cứu/V 
+Theo/E BVĐK/Np tỉnh/N Cao_Bằng/Np ,/, các/L bệnh_nhi/N được/V xác_định/V là/V viêm/N não/N ,/, tuy_nhiên/C ,/, nguyên_nhân/N do/E đâu/P thì/C vẫn/R phải/V chờ/V kết_quả/N xét_nghiệm/V 
+Trước/E câu_hỏi/N ,/, có/V phải/V các/L cháu/N bị/V ngộ_độc/V vì/E ăn/V vải/N có/V phun/V thuốc/N ,/, BS/Np Hoàng_Văn_Kiền/Np -/- Phó_Khoa_Hồi/Np sức/N Cấp_cứu/V –/N BV/Np Đa_khoa/N tỉnh/N Cao_Bằng/Np -/- cho_hay/N ,/, qua/V điều_tra/V từ/E phía/N gia_đình/N ,/, vải/N các/L bệnh_nhi/N ăn/V đều/R là/V do/E gia_đình/N tự/P trồng/V ,/, không/R phun/V thuốc/N 
+Chia_sẻ/V với/E phóng_viên/N Lao_Động/Np ,/, BS/Np Kiền/Np xác_nhận/V sự_việc/N :/: “/M Hiện/N cả/P 3/M bệnh_nhi/N đang/R được/V điều_trị/V tại/E BVĐK/Np tỉnh/N Cao_Bằng/Np 
+Trong/E số/N 3/M bệnh_nhân/N ,/, có/V 2/M bệnh_nhân/N rất/R nặng/A ,/, đang/R điều_trị/V tại/E khoa/N Hồi_sức/V tích_cực/A 
+Cả/P 2/M bệnh_nhân/N này/P điều/N được/V chuyển/V đến/E viện/N ngày/N 9.6/M (/N 1/M ngày_sau/N khi/N ăn/V vải/N )/V ”/N 
+Khi/N chuyển/V đến/E viện/N ,/, cháu/N Lý_Thị_Mái/Np (/M 9/M tuổi/N )/M đã/R ở/V trong/E tình_trạng/N nguy_kịch/A ,/, có/V dấu_hiệu/N thở/V ngáp/N ,/, mắt/N lờ_đờ/A …/A Ngay_lập_tức/R ,/, các/L bác_sĩ/N phải/V cho/V hỗ_trợ/V thở/V máy/N 
+Bệnh_nhân/N còn/V lại/R là/V cháu/N Lý_Thị_Hoa/Np (/M 10/M tuổi/N )/M cũng/R nhập_viện/V trong/E tình_trạng/N nguy_kịch/A với/E biểu_hiện/N sốt/V ,/, co_giật/V 
+Hiện_tại/N ,/, hai/M bệnh_nhân/N này/P vẫn/R đang/R điều_trị/V tích_cực/A ,/, chưa/R có/V tiến_triển/V gì/P ,/, não/N phù_nề/A ,/, suy/V hô_hấp/N và/CC co_giật/N 
+“/M Chúng_tôi/N có/V ý_định/N chuyển/V các/L cháu/N lên/V tuyến/N trên/A ,/, nhưng/C do/E hoàn_cảnh/N khó_khăn/A ,/, nhiều/A khả_năng/N gia_đình/N  /V sẽ/R xin/V về/V nhà/N ”/A ,/, BS/Np Kiền/Np cho_biết/V 
+Bệnh_nhân/N còn/V lại/R là/V cháu/N Lý_Văn_Trường/Np (/V 7/M tuổi/N )/A đã/R dần/R hồi_phục/V và/CC hiện/N đang/R được/V điều_trị/V tại/E Khoa_Truyền/Np nhiễm/V ./. 

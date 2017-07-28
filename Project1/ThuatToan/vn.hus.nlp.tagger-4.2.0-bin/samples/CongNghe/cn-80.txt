@@ -1,0 +1,24 @@
+Hàng loạt công ty đa quốc gia bị tấn công bởi mã độc nguy hiểm hơn WannaCry.
+Một cuộc tấn công mạng đòi tiền chuộc quy mô lớn nhằm vào các công ty và tập đoàn trên toàn cầu, đặc biệt ảnh hưởng nặng nề nhất là vào Ukraina đã xảy ra hôm 27.6
+Các công ty đa quốc gia thông báo bị ảnh hưởng trong vụ tấn công mạng quy mô toàn cầu này gồm tập đoàn quảng cáo Anh WPP, hãng dầu mỏ và khí đốt Nga Rosneft và hãng tàu Đan Mạch Maersk
+“Hệ thống IT của một số công ty thuộc WPP đã bị ảnh hưởng bởi vụ tấn công mạng”, WPP thông báo trên tài khoản Twitter
+Hãng Maersk cũng đưa ra thông báo tương tự cho biết, hệ thống kỹ thuật của hãng ở tất cả các địa điểm và đơn vị kinh doanh đều bị sập do tấn công mạng
+Công ty Dược phẩm Merck có trụ sở tại Mỹ cũng cho biết: “Chúng tôi xác nhận mạng máy tính của công ty đã bị xâm nhập ngày hôm nay, trong một phần của vụ tấn công mạng quy mô toàn cầu”
+Theo CNN, nguồn gốc của vụ tấn công hiện chưa được làm rõ
+Loại mã độc này tương tự như WanaCry đã lây lan trên phạm vi toàn cầu vào tháng 5 vừa qua nhưng có một số khác biệt
+Cả hai mã độc trong vụ tấn công mạng này và tháng trước đều có hướng dẫn các nạn nhân trả tiền chuộc cho tin tặc bằng Bitcoin và có cách thức lây lan tương tự
+Tập đoàn an ninh mạng có trụ sở tại Mátxcơva IB ước tính ngày 27.6 rằng mã độc này đã ảnh hưởng tới khoảng 80 công ty ở Nga và Ukraina
+Tập đoàn IB cho biết mã độc tống tiền này lan truyền, khóa máy tính và yêu cầu người dùng trả 300 USD tiền chuộc bằng tiền ảo Bitcoins
+Trong vụ tấn công này, các công ty của Ukraina và các cơ quan chính phủ nước này bị ảnh hưởng nặng nề
+Ngân hàng Trung ương Ukaina cảnh báo các công ty tài chính trên toàn quốc về một loại virus đang tấn công hệ thống, gây hỗn loạn trong hệ thống ngân hàng và dịch vụ khách hàng
+Theo hãng bảo mật Cisco Talos, mã độc tống tiền ban đầu nhiễm vào MeDoc, một phần mềm kế toán của Ukaina
+Sau đó MeDoc gửi một tập tin bị nhiễm độc cho các khách hàng khiến nó lây lan
+Các quan chức Ukaina xác nhận liên kết độc hại phát tán qua MeDoc
+Craig William - chuyên gia của Cisco Talos nói rằng mã độc này mạnh hơn WannaCry
+Theo Reuters, ngoài Nga và Ukraina, các quốc gia khác bị ảnh hưởng trong vụ tấn công mạng quy mô lớn mới nhất gồm Anh, Pháp, Đức, Italia, Ba Lan và Mỹ
+Tổng số máy tính bị tấn công hiện vẫn chưa được thống kê
+Nhiều tập đoàn, trong đó có Symantec, cho rằng mã độc tống tiền này là một biến thể của Petya, một loại mã độc là thủ phạm tấn công hệ thống máy tính toàn cầu năm 2016
+Tuy nhiên theo hãng Kaspersky Lab, những dấu hiệu ban đầu cho thấy những vụ tấn công do một mã độc tống tiền mới xuất hiện và được gọi là “ExPetr”
+Bộ An ninh Nội địa (DHS) của Mỹ đang theo dõi vụ tấn công mạng này
+Scott McConnell, người phát ngôn của DHS cho biết “đang phối hợp với các đối tác trong nước và quốc tế và sẵn sàng giúp đỡ bất cứ yêu cầu hỗ trợ nào”
+Cơ quan cảnh sát Liên minh Châu Âu (Europol) cũng cho biết đang điều tra vụ tấn công.

@@ -1,0 +1,53 @@
+Thời_gian/N chi_tiết/A từng/R buổi/N của/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M ./. 
+Thí_sinh/N cần/V nắm/V chắc/A quy_định/N cụ_thể/A thời_gian_biểu/N của/E từng/P buổi/N thi/V kỳ/N thi/V THPT/Np quốc_gia/N 2017/M để/E tránh/V sai_sót/N đáng/V tiếc/V 
+Chỉ/R còn/V 3/M ngày/N nữa/R ,/, kì/N thi/V THPT/Np quốc_gia/N 2017/M sẽ/R chính_thức/A diễn/V ra/R 
+Năm/N nay/P ,/, kỳ/N thi/V THPT/Np quốc_gia/N diễn/V ra/R sớm/A hơn/R những/L năm/N trước/A 
+Các/L môn/N thi/V bằng/E hình_thức/N trắc_nghiệm/V ,/, trừ/V môn/N Ngữ_văn/N thi/V bằng/E hình_thức/N tự/P luận/V 
+Theo/E như/C lịch/N thi/V Bộ/N GDĐT/Np đã/R công_bố/V ,/, sáng/N ngày/N 21.6/M ,/, 8/M giờ/Nu sáng/N sẽ/R bắt_đầu/V họp/V cán_bộ/N làm/V công_tác/N coi/V thi/V tại/E điểm/N thi/V 
+14h/M chiều/N cùng/A ngày/N ,/, phổ_biến/V quy_chế/N ,/, lịch/N thi/V ,/, thí_sinh/V đến/E phòng/N thi/V làm/V thủ_tục/N dự/V thi/V ,/, đính_chính/V sai_sót/N 
+Dưới/E đây/P là/V thời_gian_biểu/N từng/R buổi/N thi/V theo/V hướng_dẫn/V của/E Bộ/N GDĐT/Np :/: 1/M 
+BÀI_THI_NGỮ_VĂN/X (/N SÁNG/Np 22.6/M )/Nu Thời_gian/N Nhiệm_vụ/N của/E CBCT/Np 6h30-7h00/M -/- Nhận/V giấy/N thi/V ,/, giấy/N nháp/V và/CC túi/N tài_liệu/N của/E phòng/N thi/V ;/; -/- Đánh_số/Np báo_danh/V vào/E bàn/N của/E thí_sinh/N ;/; -/- Gọi/V thí_sinh/V vào/E phòng/N thi/V ;/; đối_chiếu/V ,/, kiểm_tra/V ảnh/N ,/, thẻ/N dự/V thi/V 
+7h00-7h25/M -/- Một/M CBCT/Np đi/V nhận/V đề/N thi/V tại/E điểm/N thi/V ;/; -/- Một/M CBCT/Np kýtên/V vào/V giấy/N thi/V ,/, giấynháp/V ;/; Phát/V và/CC hướng/V dẫnthí/N sinhđiềnvàocác/N mụctrên/V giấythi/N 
+7h25-7h30/M Cho/V thí_sinh/V trong/E phòng/N thi/V chứng_kiến/V tình_trạng/N niêm_phong/A của/E túi/N đựng/V đề/N thi/V ,/, sự/Nc phù_hợp/V môn/N thi/V với/E lịch/N thi/V và/CC lập/V biên_bản/N xác_nhận/V có/V chữ_ký/N của/E 2/M thí_sinh/N 
+7h30-7h35/M -/- Bóc/V túi/N đựng/V đề/N thi/V và/CC phát/V đề/N thi/V cho/E thí_sinh/N ;/; -/- Yêu_cầu/N thí_sinh/V kiểm_tra/V tình_trạng/N đề/V thi/V 
+7h35/M Bắt_đầu/V tính/N giờ/N làm/V bài/N 
+7h50/M Nộp/N đề/N thi/V thừa/A đã/R được/V niêm_phong/V cho/E người/N được/V Trưởng_Điểm/Np thi/V phân_công/V 
+9h20/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N 
+9h35/M Hết/V giờ/N làm/V bài/N 
+CBCT/Np thu/V bài/N thi/V của/E thí_sinh/N ;/; yêu_cầu/V thí_sinh/N ký/V vào/E Phiếu/Np thu/V bài/N thi/V (/V ghi/V rõ/A số/N tờ/N giấy/N thi/V )/N 
+2/M 
+BÀI_THI_MÔN_TOÁN/Np (/V CHIỀU/Np 22.6/M )/Nu Thời_gian/N Nhiệm_vụ/N của/E CBCT/Np 13h30-14h00/M -/- Nhận/V phiếu/N trả_lời/V trắc_nghiệm/V (/N TLTN/Np )/M ,/, giấy/N nháp/V và/CC túi/N tài_liệu/N của/E phòng/N thi/V ;/; -/- Đánh_số/Np báo_danh/V vào/E bàn/N của/E thí_sinh/N ;/; -/- Gọi/V thí_sinh/V vào/E phòng/N thi/V ;/; đối_chiếu/V ,/, kiểm_tra/V ảnh/N ,/, thẻ/N dự/V thi/V 14h00-14h15/M -/- Một/M CBCT/Np đi/V nhận/V đề/N thi/V tại/E điểm/N thi/V ;/; -/- Một/M CBCT/Np ký_tên/V vào/E ô/N dành/V cho/E CBCT/Np trên/E phiếu/N TLTN/Np ,/, giấy/N nháp/V ;/; -/- Phát/V và/CC hướng_dẫn/V thí_sinh/V điền/N vào/E các/L mục/N trên/E phiếu/N TLTN/Np 
+14h15-14h20/M Cho/V thí_sinh/V trong/E phòng/N thi/V chứng_kiến/V tình_trạng/N niêm_phong/A của/E túi/N đựng/V đề/N thi/V ,/, sự/Nc phù_hợp/V môn/N thi/V với/E lịch/N thi/V và/CC lập/V biên_bản/N xác_nhận/V có/V chữ_ký/N của/E 2/M thí_sinh/N 
+14h20-14h30/M -/- Bóc/V túi/N đựng/V đề/N thi/V và/CC phát/V đề/N thi/V cho/E thí_sinh/N ;/; -/- Yêu_cầu/N thí_sinh/V kiểm_tra/V tình_trạng/N đề/V thi/V và/CC ghi/V mã_đề/A thi/V vào/E phiếu/N TLTN/Np 
+14h30/M Bắt_đầu/V tính/N giờ/N làm/V bài/N 
+14h45/M Nộp/N đề/N thi/V thừa/A đã/R được/V niêm_phong/V cho/E người/N được/V Trưởng_Điểm/Np thi/V phân_công/V 
+15h45/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N 
+16h00/M Hết/V giờ/N làm/V bài/N thi/V 
+CBCT/Np thu/V Phiếu/N TLTN/Np của/E thí_sinh/N ;/; yêu_cầu/V thí_sinh/N ký/V vào/E Phiếu/Np thu/V bài/N thi/V (/V ghi/V rõ/A mã_đề/N thi/V )/V 
+3/M 
+BÀI_THI_MÔN_NGOẠI_NGỮ/Np (/V CHIỀU/Np 23.6/M )/Nu Thời_gian/N Nhiệm_vụ/N của/E CBCT/Np 13h30-14h00/M -/- Nhận/V phiếu/N trả_lời/V trắc_nghiệm/V (/N TLTN/Np )/M ,/, giấy/N nháp/V và/CC túi/N tài_liệu/N của/E phòng/N thi/V ;/; -/- Đánh_số/Np báo_danh/V vào/E bàn/N của/E thí_sinh/N ;/; -/- Gọi/V thí_sinh/V vào/E phòng/N thi/V ;/; đối_chiếu/V ,/, kiểm_tra/V ảnh/N ,/, thẻ/N dự/V thi/V 14h00-14h15/M -/- Một/M CBCT/Np đi/V nhận/V đề/N thi/V tại/E điểm/N thi/V ;/; -/- Một/M CBCT/Np ký_tên/V vào/E ô/N dành/V cho/E CBCT/Np trên/E phiếu/N TLTN/Np ,/, giấy/N nháp/V ;/; -/- Phát/V và/CC hướng_dẫn/V thí_sinh/V điền/N vào/E các/L mục/N trên/E phiếu/N TLTN/Np 
+14h15-14h20/M Cho/V thí_sinh/V trong/E phòng/N thi/V chứng_kiến/V tình_trạng/N niêm_phong/A của/E túi/N đựng/V đề/N thi/V ,/, sự/Nc phù_hợp/V môn/N thi/V với/E lịch/N thi/V và/CC lập/V biên_bản/N xác_nhận/V có/V chữ_ký/N của/E 2/M thí_sinh/N 
+14h20-14h30/M -/- Bóc/V túi/N đựng/V đề/N thi/V và/CC phát/V đề/N thi/V cho/E thí_sinh/N ;/; -/- Yêu_cầu/N thí_sinh/V kiểm_tra/V tình_trạng/N đề/V thi/V và/CC ghi/V mã_đề/A thi/V vào/E phiếu/N TLTN/Np 
+14h30/M Bắt_đầu/V tính/N giờ/N làm/V bài/N 
+14h45/M Nộp/N đề/N thi/V thừa/A đã/R được/V niêm_phong/V cho/E người/N được/V Trưởng_Điểm/Np thi/V phân_công/V 
+15h15/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N 
+15h30/M Hết/V giờ/N làm/V bài/N thi/V 
+CBCT/Np thu/V Phiếu/N TLTN/Np của/E thí_sinh/N ;/; yêu_cầu/V thí_sinh/N ký/V vào/E Phiếu/Np thu/V bài/N thi/V (/V ghi/V rõ/A mã_đề/N thi/V )/V 
+4/M 
+BÀI_THI_TỔ_HỢP/Np (/V SÁNG/Np 23.6/M ,/, SÁNG/Np 24.6/M )/N 8h15/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N môn/N Vật_lí/Np (/V Lịch_sử/N )/V 
+8h30/M -/- Hết/V giờ/N làm/V bài/N thi/V môn/N Vật_lí/N (/M Lịch_sử/N )/V 
+-/- CBCT/Np thu/V đề/N thi/V môn/N Vật_lí/N (/M Lịch_sử/N )/A ,/, giấy/N nháp/V của/E thí_sinh/N 
+-/- Cho/V thí_sinh/V trong/E phòng/N thi/V chứng_kiến/V tình_trạng/N niêm_phong/A của/E túi/N đựng/V đề/N thi/V Hóa_học/N (/M Địa_lí/N )/A ,/, sự/Nc phù_hợp/V môn/N thi/V với/E lịch/N thi/V và/CC lập/V biên_bản/N xác_nhận/V có/V chữ_ký/N của/E 2/M thí_sinh/N 
+8h40-8h50/M -/- Bóc/V túi/N đựng/V đề/N thi/V môn/N Hóa_học/N (/M Địa_lí/N )/N và/CC phát/V đề/N thi/V cho/E thí_sinh/N theo/V trật_tự/N từ/E trái/N sang/V phải/V ,/, từ/E trên/A xuống/E dưới/N ;/; -/- Yêu_cầu/N thí_sinh/V kiểm_tra/V tình_trạng/N đề/V thi/V và/CC sự/Nc phù_hợp/V của/E mã_đề/N thi/V đã/R nhận/V được/R 
+8h50/M Bắt_đầu/V tính/N giờ/N làm/V bài/N môn/N Hóa_học/N (/M Địa_lí/N )/V 
+9h05/M Nộp/N đề/N thi/V thừa/V môn/N Hóa_học/N (/M Địa_lí/N )/N đã/R được/V niêm_phong/V cho/E người/N được/V Trưởng_Điểm/Np thi/V phân_công/V 
+9h25/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N môn/N Hóa_học/N (/M Địa_lí/N )/V 
+9h40/M -/- Hết/V giờ/N làm/V bài/N thi/V môn/N Hóa_học/N (/M Địa_lí/N )/V 
+-/- CBCT/Np thu/V đề/N thi/V môn/N Hóa_học/N (/M Địa_lí/N )/A ,/, giấy/N nháp/V của/E thí_sinh/N 
+-/- Cho/V thí_sinh/V trong/E phòng/N thi/V chứng_kiến/V tình_trạng/N niêm_phong/A của/E túi/N đựng/V đề/N thi/V môn/N Sinh_học/N (/M Giáo_dục/N công_dân/N )/A ,/, sự/Nc phù_hợp/V môn/N thi/V với/E lịch/N thi/V và/CC lập/V biên_bản/N xác_nhận/V có/V chữký/N của/E 2/M thí_sinh/N 
+9h50-10h00/M -/- Bóc/V túi/N đựng/V đề/N thi/V môn/N Sinh_học/N (/M Giáo_dục/N công_dân/N )/A và/CC phát/V đề/N thi/V cho/E thí_sinh/N theo/V trật_tự/N từ/E trái/N sang/V phải/V ,/, từ/E trên/E xuốngdưới/N ;/; -/- Yêu_cầu/N thí_sinh/V kiểm_tra/V tình_trạng/N đề/V thi/V và/CC sự/Nc phù_hợp/V của/E mã_đề/N thi/V đã/R nhận/V được/R 
+10h00/M Bắt_đầu/V tính/N giờ/N làm/V bài/N môn/N Sinh_học/N (/M Giáo_dục/N công_dân/N )/M 
+10h15/M Nộp/N đề/N thi/V thừa/V môn/N Sinh_học/N (/M Giáo_dục/N công_dân/N )/N đã/R được/V niêm_phong/V cho/E người/N được/V Trưởng_Điểm/Np thi/V phân_công/V 
+10h35/M Nhắc/V thí_sinh/N còn/R 15/M phút/Nu làm/V bài/N môn/N Sinh_học/N (/M Giáo_dục/N công_dân/N )/M 
+10h50/M Hết/V giờ/N làm/V bài/N thi/V 
+CBCT/Np thu/V Phiếu/N TLTN/Np của/E thí_sinh/N ;/; yêu_cầu/V thí_sinh/N ký/V vào/E Phiếu/Np thu/V bài/N thi/V (/V ghi/V rõ/A mã_đề/N thi/V )/V ./. 

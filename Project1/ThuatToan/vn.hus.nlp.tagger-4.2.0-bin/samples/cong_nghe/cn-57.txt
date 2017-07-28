@@ -1,0 +1,2 @@
+Chiến_đấu_cơ/N Su-30MKI/Np có_thể/R mang/V 3/M tên_lửa/N BrahMos/Np mini/V ./. 
+Chiến_đấu_cơ/N Su-30MKI/Np trong/E tương_lai/N không_chỉ/C mang/V được/R 1/M tên_lửa/N hành_trình/N BrahMos/Np ,/, mà/C số_lượng/N có_thể/A sẽ/R tăng/V lên/R 3/M tên_lửa/N BrahMos/Np mini/V (/N BrahMos/Np -/- M/Np )/V ./. 

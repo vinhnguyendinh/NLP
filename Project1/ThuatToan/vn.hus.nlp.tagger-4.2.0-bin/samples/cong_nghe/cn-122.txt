@@ -1,0 +1,20 @@
+Bản/N tin/N nóng/A công_nghệ/N :/: iOS/N 11/M “/N hồi_sinh/V ”/M bộ_nhớ/N i/N Phone/Np ;/; Kaspersky/Np “/M gây_hấn/V ”/N Microsoft/Np ./. 
+iOS/N 11/M của/E Apple/Np sẽ/R mang/V đến/R nhiều/A trải_nghiệm/N mới/R thú_vị/A cho/E người/N dùng/V trong/E việc/N quản_lý/V dung_lượng/N i/N Phone/Np ,/, iPad/Np ;/; Công_ty/N an_ninh/N mạng/N Kaspersky/Np của/E Nga/Np đệ/V đơn/N khởi_kiện/V Microsoft/Np ./. ./. 
+là/C những/L tin/N nóng/A  /A trong/E bản/N tin/V  /A công_nghệ/N hôm_nay/N 
+iOS/N 11/M “/N hồi_sinh/V ”/M bộ_nhớ/N i/N Phone/Np i/V OS/Np 11/M của/E Apple/Np sẽ/R mang/V đến/R nhiều/A trải_nghiệm/N mới/R thú_vị/A cho/E người/N dùng/V và/CC đặc_biệt/A việc/N quản_lý/V dung_lượng/N lưu_trữ/V trên/E những/L thiết_bị/N như/C i/N Phone/Np ,/, iPad/N có/V dung_lượng/N thấp/A 16/32GB/Np …/V Theo/E đó/P ,/, trên/E i/N OS/Np 11/M ,/, Apple/Np cho_phép/V người/N dùng/V có/V lựa_chọn/V xóa/V ứng_dụng/V và/CC gỡ/V bỏ/V ứng_dụng/V 
+Với/E việc/N xóa/V ứng_dụng/V ,/, mọi/L dữ_liệu/N ,/, và/CC thiết_lập/V đã/R được/V người/N dùng/V cài_đặt/V sẽ/R bị/V xóa/V trắng/A 
+Khi/N muốn/V sử_dụng/V lại/R ứng_dụng/N này/P bắt_buộc/V người/N dùng/V phải/V tải/N mới/R trên/E App_Store/Np và/CC thiết_lập/V lại/R từ/E đầu/N 
+Với/E lựa_chọn/V gỡ/V bỏ/V ứng_dụng/N ,/, iOS/N 11/M chỉ/R xóa/V bộ/N cài/V của/E ứng_dụng/N ,/, và/CC lưu/V lại/R dữ_liệu/N ,/, các/L thiết_lập/V đã/R có/V 
+Đồng_thời/R ,/, ứng_dụng/V đã/R gỡ/V vẫn/R tồn_tại/V trên/E màn_hình/N chính/T ,/, nhưng/C ở/E chế_độ/N mờ/A 
+Khi/N muốn/V sử_dụng/V lại/R ,/, người/N dùng/V cần/V chạm/V vào/E biểu_tượng/N và/CC đợi/V tải/N ứng_dụng/V từ/E App_Store/Np 
+Mọi/L chế_độ/N và/CC dữ_liệu/N người/N dùng/V trên/E ứng_dụng/N này/P được/R giữ/V nguyên/A như/A trước/E 
+Kaspersky/Np “/V gây_hấn/V ”/A với/E "/" ông/N lớn/A "/" Microsoft_Công/Np ty/V an_ninh/N mạng/N Kaspersky/Np của/E Nga/Np ,/, nổi_tiếng/A với/E phần_mềm/N diệt/V virus/N Kaspersky_Lab/Np đã/R đệ/V đơn/N khởi_kiện/V Microsoft/Np vì/E cho/V rằng/C ,/, “/M ông/N lớn/V công_nghệ/N ”/N của/E Mỹ/Np vi_phạm/V các/L hành_vi/N chống/V độc_quyền/A trên/E thị_trường/N máy_tính_để_bàn/N 
+Kaspersky/Np cho/V rằng/C ,/, Microsoft/Np đã/R tìm/V cách/N hạn_chế/V những/L phần_mềm/N bảo_mật/V từ/E bên/N thứ_ba/N để/E tự/P đẩy_mạnh/V giải_pháp/N bảo_mật/V của/E mình/P là/V Windows_Defender/Np 
+Cho/V rằng/C Microsoft/Np đã/R tận_dụng/V lợi_thế/N trên/E thị_trường/N hệ_điều_hành/N máy_tính/N để/E thực_hiện/V điều/N trên/A ,/, CEO/Np Kaspersky_Eugene_Kaspersky/Np còn/R nhấn/V tới/E ý/N phần_mềm/N bảo_mật/V Windows_Defender/Np kém/A chất_lượng/N 
+Tất_nhiên/A ,/, Microsoft/Np cũng/R sẽ/R không/R ngồi/V yên/A và/CC khẳng_định/V rằng/C ,/, mục_đích/N của/E công_ty/N này/P đặt/V quyền_lợi/N và/CC sự/Nc an_toàn/A của/E người/N tiêu_dùng/V lên/R hàng_đầu/N dù_vậy/N vẫn/R đảm_bảo/V không/R vi_phạm/V quy_định/N về/E chống/V độc_quyền/N 
+Tuy_nhiên/C ,/, Microsoft/Np cũng/R để/E “/V cửa_mở/N ”/V thảo_luận/V với/E Kaspersky/Np giải_quyết/V vấn_đề/N 
+“/M Ông/N lớn/A ”/V công_nghệ/N Trung_Quốc/Np lộ/V cấu_hình/N Xiaomi_Mi/Np 6X/Np "/" Ông/N lớn/A "/" công_nghệ/N Trung_Quốc_Xiaomi/Np có_thể/R sẽ/R trình_làng/V Xiaomi_Mi/Np 6X/M 
+Smartphone/Np này/P đã/R bị/V hé/V lộ/V trên/E nhiều/A trang/N công_nghệ/N với/E tên/N mã/N Jason/Np 
+Mới_đây/X ,/, thông_số/N kỹ_thuật/N về/E chiếc/Nc Xiaomi_Mi/Np 6X/M còn/R được/V phát_hiện/V trên/E trang_điểm/N chuẩn/N GFXBench/Np 
+Theo/E đó/P ,/, Xiaomi_Mi/Np 6X/Np có/V cấu_hình/N Snapdragon/Np 660/M ,/, camera/N kép/V (/M ống_kính/N góc/N rộng/A và/CC ống_kính/N tele/V )/A với/E độ_phân_giải/N 4MP/Np và/CC 12MP/Np ,/, Ram/Np 6GB/Np ,/, bộ_nhớ_trong/N 64GB/128GB/Np ,/, màn_hình/N 5,15/M inch/N ,/, cảm_biến/V vân/N tay/N 
+Mức/N giá/N của/E dòng/N điện_thoại/N này/P dù/C chưa/R được/V tiết_lộ/V ,/, nhưng/C dự_đoán/N có_thể/R rơi/V vào_khoảng/X 300/M USD/Nu (/A 6,6/M triệu/M đồng/Nu )/V ./. 
